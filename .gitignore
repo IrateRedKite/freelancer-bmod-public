@@ -1,0 +1,20 @@
+#Folders
+SAVE/
+SCREENSHOTS/
+TOOLS/pkg/
+
+#Logging
+FLSpew.txt
+AftAddrList.toml
+AftCrashLog.txt
+EXE/flhook_logs
+
+#Misc
+*.lnk
+*.bak
+.vscode
+escalation-releases-key.pub
+escalation-releases-key
+TOOLS/ALE Editor/.window_settings
+TOOLS/ALE Editor/.window_layout
+EXE/FLHook.ini
