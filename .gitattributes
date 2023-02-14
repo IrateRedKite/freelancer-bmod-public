@@ -1,0 +1,2 @@
+# Reclassifies `.thn` files as Lua
+*.thn gitlab-language=lua
