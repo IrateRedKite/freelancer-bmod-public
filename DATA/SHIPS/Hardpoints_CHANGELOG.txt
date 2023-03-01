@@ -1,0 +1,125 @@
+Hawk Loadout
+2 Primary Weapons; HpWeapon01, HpWeapon02
+1 Secondary Weapon; HpWeapon03
+1 Auxillary Weapon; HpWeapon04
+1 Disruptor; HpTorpedo01
+
+Falcon Loadout
+4 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04
+1 Secondary Weapon; HpWeapon 05
+1 Auxillary Weapon; Hpweapon 06
+1 Disruptor; HpTorpedo 01
+-Removed Turret (Replaced with Forward Weapon)
+-Adjusted Thruster in place of Turret (Centred, on Fuselage)
+
+Eagle Loadout
+4 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04, HpWeapon05
+2 Secondary Weapon; HpWeapon 06, HpWeapon 07
+1 Auxillary Weapon; Hpweapon 08
+1 Disruptor; HpTorpedo 01
+-Removed Turret (Replaced with Forward Weapon)
+-Adjusted Thruster in place of Turret (Centred, on Fuselage)
+
+Patriot Loadout
+2 Primary Weapons; HpWeapon01, HpWeapon02
+1 Secondary Weapon; HpWeapon03
+1 Auxillary Weapon; HpWeapon04
+1 Disruptor; HpTorpedo01
+
+Defender Loadout
+4 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04
+1 Secondary Weapon; HpWeapon 05
+1 Auxillary Weapon; Hpweapon 06
+1 Disruptor; HpTorpedo 01
+-Removed Turret (Replaced with Forward Weapon)
+
+Guardian Loadout
+4 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04
+2 Secondary Weapon; HpWeapon 05, HpWeapon06
+2 Auxillary Weapon; HpWeapon 07, HpWeapon08
+1 Disruptor; HpTorpedo 01
+-Removed Turret (Replaced with Forward Weapon, repositioned)
+-Repositioned Shield Generator (Spoiler -> Underbelly)
+
+Bloodhound Loadout
+2 Primary Weapons; HpWeapon01, HpWeapon02
+1 Secondary Weapon; HpWeapon03
+1 Auxillary Weapon; HpWeapon04
+1 Disruptor; HpTorpedo01
+-Repositioned Shield Generator (Nose -> Belly (Seriously Rogues who puts their shield generator on the NOSE))
+-Removed Turret (Replaced with Forward Weapon)
+
+Greyhound Loadout
+4 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04
+1 Secondary Weapon; HpWeapon 05
+1 Auxillary Weapon; Hpweapon 06
+1 Disruptor; HpTorpedo01
+
+Wolfhound Loadout
+5 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04, HpWeapon05
+1 Secondary Weapon; HpWeapon 06
+2 Auxillary Weapon; Hpweapon 07, HpWeapon 08
+1 Disruptor; HpTorpedo01
+-Removed Turret (Replaced with forward weapon, repositioned)
+-Repositioned CM/Mine placement
+-Added additional weapon Hps in-line with other VHF balance.
+
+Piranha Loadout
+2 Primary Weapons; HpWeapon01, HpWeapon02
+1 Secondary Weapon; HpWeapon03, HpWeapon04
+1 Disruptor; HpTorpedo01
+-Centred Thruster
+
+Barracuda Loadout
+4 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04
+2 Secondary Weapons; HpWeapon05, HpWeapon06
+1 Disruptor; HpTorpedo01
+-Centred Thruster
+
+Hammerhead Loadout
+4 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04
+3 Secondary Weapons; HpWeapon05, HpWeapon06, HpWeapon07
+1 Auxillary Weapon; HpWeapon08
+1 Disruptor; HpTorpedo01
+-Centred Thruster
+-Removed Turret
+
+Dagger Loadout
+3 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03
+1 Secondary Weapons; HpWeapon04
+1 Disruptor; HpTorpedo01
+-Removed Turret
+
+Stiletto
+4 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04
+1 Secondary Weapons; HpWeapon05
+1 Auxillary Weapon; HpWeapon06
+1 Disruptor; HpTorpedo01
+-Removed Turret
+-Centred Thruster
+
+Sabre Loadout
+6 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04, HpWeapon05, HpWeapon06
+1 Secondary Weapon; HpWeapon07
+1 Auxillary Weapon; HpWeapon08
+1 Disruptor; HpTorpedo01
+-Centred Thruster
+-Removed Turret (RIP)
+
+Starflier Loadout
+2 Primary Weapons; HpWeapon01, HpWeapon 02
+1 Secondary Weapon; HpWeapon 03
+1 Disruptor; HpTorpedo01
+-No Changes
+
+Startracker
+3 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03
+1 Secondary Weapon; HpWeapon04
+1 Auxillary Weapon; HpWeapon05
+1 Disruptor; HpTorpedo01
+
+Starblazer
+4 Primary Weapons; HpWeapon01, HpWeapon 02, HpWeapon 03, HpWeapon04
+1 Secondary Weapon; HpWeapon05
+1 Auxillary Weapon; HpWeapon06
+1 Disruptor; HpTorpedo01

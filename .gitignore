@@ -1,18 +1,21 @@
 #Folders
 SAVE/
 SCREENSHOTS/
-TOOLS/pkg/
+TOOLS/
 
 #Logging
 FLSpew.txt
 EXE/flhook_logs
+EXE/config
+EXE/EXPORTS
+EXE/logs
+*.log
 
 #Misc
 *.lnk
 *.bak
-.vscode
+*.vscode
+*.orig
+FLHook.json
 escalation-releases-key.pub
 escalation-releases-key
-TOOLS/ALE Editor/.window_settings
-TOOLS/ALE Editor/.window_layout
-EXE/FLHook.ini

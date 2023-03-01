@@ -1,0 +1,48 @@
+88 Flak state_graph.db notes by fox
+Notes can be found under FIGHTER > LEADER. Please understand that my notes are purely hypothesis, and what I say in here is probably not correct. It's mostly a reference for me.
+I edit the state_graph by substituting columns of numbers with 1.00s or 0.00s, and then depending on what happens 0.50s. I eventually start fine-tuning numbers once I begin understanding the column at hand. However, most real editing is just pointless - a 21x21 number table? 441 numbers.
+The end result was much above what I expected, and has rewarded me with some truly nasty and entertaining AI. These changes are the core to what makes 88 Flak's unique AI tick, and can make NPCs so good that it will break the gameplay of most mods.
+I hope you have as much fun playing with this AI as I did designing it!
+... Wait. :P
+
+These tables may go in multiples of 7. I'll have to do a little more research.
+Feel free to use anything here, or just use my state_graph.db file directly (heed my above warning though heh). I do ask that you give me credit though. =)
+
+Note: If I marked something with a (?), it means that I don't know exactly what it does, but setting it to what I set it to helped the AI in some way.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+FIGHTER
+LEADER
+                                             (0 = do not engage unless forced from cruise)
+                                              |   (1 = always stay in formation, 0 = never enter formation)
+(1 = random lack of throttle)                 |    |
+ |             (1 = chase things in cruise, confirmed - set with caution (only first 5?), this will give formation issues)
+ |              |        (1 = less blind afterburning, 0 = blindly afterburn everywhere - 0.01 works well)
+ |              |         |        (1 = random lack of throttle, strafing?)
+ |              |         |         |         |    |                       (engine kill control)
+ |   (1 = always leave form in a fight) (1 = dumb trail?)   (1 = no turn)   |   (loot control if loot_preference is active - 11th and 17th rows are needed for wingmen)
+ |    |         |   (1 = no turn?)  |    |    |    |         |   (strafing?)|    |             (1 = random lack of turns)
+ |    |   (?)   |    |    |   (1 = full stop) |    |   (?)   |    |   (?)   |    |   (?)  (?)   |   (1 = full stop)
+ |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 1.00 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 1.00 0.01 0.01 0.00 0.00 0.00 0.00 0.05 0.00 0.00 1.00 1.00 0.30 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 1.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.05 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 1.00 0.01 0.01 0.00 0.00 0.00 0.00 0.05 0.00 0.00 1.00 1.00 0.05 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 1.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.05 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.05 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.05 0.00 0.00 1.00 1.00 0.05 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.05 0.05 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.05 0.05 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.05 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.05 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.05 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.05 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.05 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.05 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00
+0.00 1.00 0.01 0.00 0.01 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1.00 1.00 0.00 0.01 0.00 0.00 0.00 0.00

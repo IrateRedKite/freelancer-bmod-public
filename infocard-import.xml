@@ -1,0 +1,1343 @@
+458754
+NAME
+Brave
+
+460755
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>PB71 "Brave" Bounty Hunter Particle Blaster</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have increased energy efficiency at the cost of overall damage output and are built of far sturdier materials than their counterparts.</TEXT><PARA/><PARA/><TEXT>The PB71 is the Guild's preferred suppression weapon and is based on an entirely original design produced some time before the Texas incident. </TEXT><PARA/><PARA/><POP/></RDL>
+
+458755
+NAME
+Gunslinger
+
+460756
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LB21 "Gunslinger" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have increased energy efficiency at the cost of overall damage output and are built of far sturdier materials than their counterparts.</TEXT><PARA/><PARA/><TEXT>A veritable workhorse of a weapon, the LB21 Gunslinger is the Guild's weapon of choice for patrol duty across the Sirius Sector. Concentrated fire from the LB21 can easily punch right through a ship, but if properly focused can be used to slag vital systems without dealing too much collateral damage. </TEXT><PARA/><PARA/><POP/></RDL>
+
+458756
+NAME
+Winchester
+
+460757
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LB31 "Winchester" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have increased energy efficiency at the cost of overall damage output and are built of far sturdier materials than their counterparts.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458757
+NAME
+Starbeam
+
+460758
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CL-a "Starbeam" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be compatible with the simplified power grids found in non-military grade ships.</TEXT><PARA/><PARA/><TEXT>The CL-a is Ageira's baseline rapid-fire suppression weapon. With a high rate of fire and good range, it's able to keep pressure on shields and act as point defence in a pinch, keeping threats at bay until they can either be dealt with or disengaged from.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458758
+NAME
+Flashpoint
+
+460759
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CL-d "Flashpoint" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be compatible with the simplified power grids found in non-military grade ships.</TEXT><PARA/><PARA/><TEXT>Built upon the frame of the CL-a, the Flashpoint boasts reinforced power conduits and a built-in heatsink. The refraction cavity of the weapon has been expanded, resulting in a much hotter projectile that can punch thhrough shields and armor plating much more effectively at the cost of a significantly longer charge time.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458759
+NAME
+Barrager
+
+460760
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Barrager" Photon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a photon-based weapon developed by the Junkers. Although typically used for cutting and salvage operations, it is also capable of serving as a high-damage, short range weapon in an emergency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458760
+NAME
+Hellflurry
+
+460761
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>A24 "Hellflurry" Lane Hacker Tachyon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon developed by the Lane Hackers. Lane hacker weapons typically have increased range and reduced damage output.</TEXT><PARA/><PARA/><TEXT>Although the A24 bears some similarities to recovered Outcast weapons, most notably the Dragoon, it differs significantly in terms of it's operation. The weapon makes use of cannibalised trade-lane parts and proprietary Ageira components to boost the strength of the tachyon fields considerbly, allowing for rapid heat dissipation and truly absurd rate of fire.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458761
+NAME
+Justice
+
+460762
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>R6-A "Justice" Liberty Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon produced by the Liberty Navy. Liberty weapons typically have higher velocity projectiles at the cost of energy efficiency.</TEXT><PARA/><PARA/><TEXT>Produced exclusively by Ageira for the Liberty Navy, the R6-A is built upon the frame of the CL-a Starbeam, but has been retrofitted and reinforced for military use.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458762
+NAME
+Lavablade
+
+460763
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>N5-A "Lavablade" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon produced by the Liberty Navy. Liberty weapons typically have higher velocity projectiles at the cost of energy efficiency.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458763
+NAME
+Magma Hammer
+
+460764
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>N9-A "Magma Hammer" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon produced by the Liberty Navy. Liberty weapons typically have higher velocity projectiles at the cost of energy efficiency.</TEXT><PARA/><PARA/><TEXT>For all intents and purposes, the N9-A is an overclocked Lavablade with bulked out cooling fins and expanded plasma conduits. Equipping this weapon on smaller ships often requires hard modifications to the power grid, and incautious or inexperienced engineers risk frying ship systems if they don't follow the Ageira-provided installation instructions.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458764
+NAME
+Raphael
+
+460765
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Liberty Rogue "Raphael" Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon developed by the Liberty Rogues. Rogue weapons do enourmous amounts of damage, but at the cost of very poor energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458765
+NAME
+Azrael
+
+460766
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Liberty Rogue "Azrael" Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon developed by the Liberty Rogues. Rogue weapons do enourmous amounts of damage, but at the cost of very poor energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458766
+NAME
+Drail
+
+460767
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Liberty Rogue "Drail" Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon developed by the Liberty Rogues. Rogue weapons do enourmous amounts of damage, but at the cost of very poor energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458767
+NAME
+Pyros
+
+460768
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Pyros" Outcast Particle Gun</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Outcasts. Outcast weapons have significantly improved projectile speed, but suffer from poor energy efficiency as a result.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458768
+NAME
+Wyrm
+
+460769
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Wyrm" Outcast Tachyon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon developed by the Outcasts. Outcast weapons have significantly improved projectile speed, but suffer from poor energy efficiency as a result.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458769
+NAME
+Dragoon
+
+460770
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Dragoon" Outcast Tachyon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon developed by the Outcasts. Outcast weapons have significantly improved projectile speed, but suffer from poor energy efficiency as a result.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458770
+NAME
+Scorpion
+
+460771
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Xeno "Scorpion" Particle Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458771
+NAME
+Tarantula
+
+460772
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Xeno "Tarantula" Particle Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462756
+NAME
+Brave Turret
+
+464757
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>PT71 "Brave" Bounty Hunter Particle Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have increased energy efficiency at the cost of overall damage output.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462757
+NAME
+Gunslinger Turret
+
+464758
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LT21 "Gunslinger" Bounty Hunter Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have increased energy efficiency at the cost of overall damage output.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462758
+NAME
+Winchester Turret
+
+464759
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LT31 "Winchester" Bounty Hunter Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have increased energy efficiency at the cost of overall damage output.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462759
+NAME
+Starbeam Turret
+
+464760
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CLT-a "Starbeam" Civilian Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a laser-based weapon produced by a civilian manufacturer. Civilian weapons are typically tuned for balanced performance.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462760
+NAME
+Flashpoint Turret
+
+464761
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CLT-d "Flashpoint" Civilian Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a laser-based weapon produced by a civilian manufacturer. Civilian weapons are typically tuned for balanced performance.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462761
+NAME
+Barrager Turret
+
+464762
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Barrager" Photon Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a photon-based weapon developed by the Junkers. Although typically used for cutting and salvage operations, it is also capable of serving as a high-damage, short range weapon in an emergency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462762
+NAME
+Hellflurry Turret
+
+464763
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>At24 "Hellflurry" Lane Hacker Tachyon Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a tachyon-based weapon developed by the Lane Hackers. Lane hacker weapons typically have increased range and reduced damage output.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462763
+NAME
+Justice Turret
+
+464764
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TR6-A "Justice" Liberty Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a laser-based weapon produced by the Liberty Navy. Liberty weapons typically have higher velocity projectiles at the cost of energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462764
+NAME
+Lavablade Turret
+
+464765
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TN5-A "Lavablade" Liberty Plasma Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a plasma-based weapon produced by the Liberty Navy. Liberty weapons typically have higher velocity projectiles at the cost of energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462765
+NAME
+Magma Hammer Turret
+
+464766
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TN9-A "Magma Hammer" Liberty Plasma Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a plasma-based weapon produced by the Liberty Navy. Liberty weapons typically have higher velocity projectiles at the cost of energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462766
+NAME
+Sapiel Turret
+
+464767
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Liberty Rogue "Sapiel" Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a laser-based weapon developed by the Liberty Rogues. Rogue weapons do enourmous amounts of damage, but at the cost of very poor energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462767
+NAME
+Zaphiel Turret
+
+464768
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Liberty Rogue "Zaphiel" Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a laser-based weapon developed by the Liberty Rogues. Rogue weapons do enourmous amounts of damage, but at the cost of very poor energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462768
+NAME
+Badariel Turret
+
+464769
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Liberty Rogue "Badariel" Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a laser-based weapon developed by the Liberty Rogues. Rogue weapons do enourmous amounts of damage, but at the cost of very poor energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462769
+NAME
+Pyros Turret
+
+464770
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Pyros" Outcast Particle Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a particle-based weapon developed by the Outcasts. Outcast weapons have significantly improved projectile speed, but suffer from poor energy efficiency as a result.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462770
+NAME
+Wyrm Turret
+
+464771
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Wyrm" Outcast Tachyon Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a tachyon-based weapon developed by the Outcasts. Outcast weapons have significantly improved projectile speed, but suffer from poor energy efficiency as a result.</TEXT><PARA/><PARA/><POP/></RDL>
+
+462771
+NAME
+Dragoon Turret
+
+464772
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Dragoon" Outcast Tachyon Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A gimballed turret with reinforced mounting designed for gunboats and freighters. This is a tachyon-based weapon developed by the Outcasts. Outcast weapons have significantly improved projectile speed, but suffer from poor energy efficiency as a result.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467159
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>41-A "Sparrow" Standard-Issue Power Supply</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The 41-A is a low-cost low-maintenance power supply from Ageira Technologies. It offers unbeatable cost-performance ratio for the every day trade lane commuter. </TEXT><PARA/><PARA/><POP/></RDL>
+
+467160
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>48-B "Vogel" Premium Civilian Power Supply </TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The 48-B Premium edition power supply was developed by Ageira Technologies for the adventurous starfarer. It's superior capacity and liquid-hydrogen cooled cells deliver enough performance to take on the dangers of space. Stay frosty! </TEXT><PARA/><PARA/><POP/></RDL>
+
+467161
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Minuteman" Mk V Super-Cooled Liberty Power Supply</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Developed by the Liberty Navy, the "Minuteman" power supply is the workhorse of Liberty's law enforcement. Offering superior power output compared when compared to civilian power supplies, the "Minuteman" was developed with a focus on performance over cost effectiveness, and its development and manufacturing was subsidized by a significant increase in military budget.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467162
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>2-BB4-b "Blenkinsop" Bretonnian Dual-Cycle Power Supply</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a ship’s power supply.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467163
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G47-a "Charcoal" Kusari Ultra-Quiet Power Supply</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a ship’s power supply.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467164
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>36-b "Hyrokkin" Reinforced Turbo-Cooled Rheinland Power Supply</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a ship’s power supply.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467165
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>XX-43 "Backdraft" Liberty Rogue Vacuum-Cooled Power Supply</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The "Backdraft" power supply does not pass safety standards in any of the four Houses, but the simple design has worked to supply the Liberty Rogues with cheap and efficient power. These are often made from salvaged parts and are incompatible with other ships of the same class. It's best not to think too hard about what's inside your power supply.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467166
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Type-R 36 "Frenzy" Borderworld Power Supply Ultimate Edition (black)</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Type-R 36 Ultimate Black Edition a.k.a. "Frenzy" is a sleek and angular powersupply with a modular cell structure providing ultimate flexibility. This high-performance power supply is rated for deep space exploration and proofed in the harshest conditions Sirius has to offer. </TEXT><PARA/><PARA/><POP/></RDL>
+
+467167
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G4 "Senator" Corsair Hybrid Power-Supply </TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a ship’s power supply.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467168
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HC-147 "Hydra" BHG Liquid Hydrogen Power Supply</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The HC-147 "Hydra" is a simple and effective design commissioned by Interspace Commerce and developed by Ageira Technologies. The Hydra offers comparable performance to competitors at a significantly reduced cost.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467169
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Apophis" Order Turbo Power Supply </TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a ship’s power supply.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467170
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Model B "Dart" Turbo Engine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Safe and reliable engine with three speed settings and cruise control.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467171
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Model G "Quarrel" High-Performance Engine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A larger engine for the civilian craft with a long distance commute. Smooth sailing and very power efficient.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467172
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Y Series "Galaxy" Hybrid Engine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A powerful engine with surprising fuel economy, allowing Liberty Navy ships to fly faster and further than ever before.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467173
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Old Reliable"</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Held together with space-grade duct tape.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467174
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>48-RGB-2 "Blackwidow" Deep Space Engine - Neon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This engine looks like it's worth the cost, but it probably isn't. This engine is rated for deep space travel, and offers competitive performance.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467175
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>66 Series "Faraday" Dual-Hybrid Power Engine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A workhorse engine designed for long voyages in deep space, tough and rugged enough to endure the rigors of the unknown.</TEXT><PARA/><PARA/><POP/></RDL>
+
+477571
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>2k High-Bandwidth Ship Scanner</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Standard tomographic imaging device that employs magnetic, infrared, sonar, and gravitational sensors to produce a three-dimensional model of a target and then match that target to a database of known ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+477572
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>4k High-Bandwidth Deep Ship Scanner</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A new version of the standard scanner that has only recently become available, the Deep Scanner not only provides basic information about a target, but also uses proprietary sensor technology and AI heuristics to analyze any cargo that may be present.</TEXT><PARA/><PARA/><POP/></RDL>
+
+477573
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>7b Multi-Focal Tractor Beam</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Projects energy beams to manipulate or retrieve objects in space. Uses a variation of the same technology that produces energy shields.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475570
+NAME
+CM-1 Countermeasure Flare
+
+477574
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Firewall" CM-1 Long-Life Countermeasure Flare</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The CM-1 Countermeasure Flare is an expendable "package" of light, heat and electromagnetic radiation that attracts the attention of incoming ordinance and draws it away from the ship. This one has been tuned for maximum duration, at the expense of direct effectiveness.</TEXT><PARA/><PARA/><TEXT>* Fired by "Firewall" Long-Life Countermeasure Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475571
+NAME
+CM-1 Countermeasure Dropper
+
+477575
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Firewall" CM-1 Long-Life Countermeasure Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The CM-1 Countermeasure Dropper dispenses an expendable "package" of light, heat and electromagnetic radiation that attracts the attention of incoming ordinance and draws it away from the ship. This one has been tuned for maximum duration, at the expense of direct effectiveness.</TEXT><PARA/><PARA/><TEXT>* Requires "Firewall" Long-Life Countermeasure Flare.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475572
+NAME
+CM-2 Countermeasure Flare
+
+477576
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Barrier" CM-2 Standard Countermeasure Flare</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Very similar to the CM-1, however the CM-2 has a longer duration and a wider spectrum of EMR built into it, increasing it’s direct effectiveness at the cost of lifetime. This one has been tuned for a balance of flare lifetime and effectiveness.</TEXT><PARA/><PARA/><TEXT>* Fired by "Barrier" Standard Countermeasure Dropper Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475573
+NAME
+CM-2 Countermeasure Dropper
+
+477577
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Barrier" CM-2 Standard Countermeasure Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Very similar to the CM-1, however the CM-2 has a longer duration and a wider spectrum of EMR built into it, increasing it’s direct effectiveness at the cost of lifetime. This one has been tuned for a balance of flare lifetime and effectiveness.</TEXT><PARA/><PARA/><TEXT>* Requires "Barrier" Standard Countermeasure Flare.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475574
+NAME
+CM-3 Countermeasure Flare
+
+477578
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Roadblock" CM-3 High Intensity Countermeasure Flare</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Based on the same technology as the rest of the CM series, however the CM-3 has a greater effective range against a wider array of ordinance. This countermeasure has maximized intensity and a minimized lifetime.</TEXT><PARA/><PARA/><TEXT>* Fired by "Roadblock" High Intensity Countermeasure Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475575
+NAME
+CM-3 Countermeasure Dropper
+
+477579
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Roadblock" CM-3 High Intensity Countermeasure Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Based on the same technology as the rest of the CM series, however the CM-3 has a greater effective range against a wider array of ordinance. In addition to this, the CM-3’s anti-shock chassis better ensures that this countermeasure survives as a decoy in the combat zone until it can fulfill its purpose and is destroyed by the attracted ordinance. This countermeasure has maximized intensity and a minimized lifetime.</TEXT><PARA/><PARA/><TEXT>* Requires "Roadblock" High Intensity Countermeasure Flare.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475576
+NAME
+M-EX1 Drone Mine
+
+477580
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M433 "Drone" Static Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius.</TEXT><PARA/><PARA/><TEXT>* Fired by Drone Static Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475577
+NAME
+M-EX1 Drone Mine
+
+477581
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M433 "Drone" Static Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius. Given its relatively low cost and availability throughout Sirius, this mine dropper is by and large considered to be an old and faithful standby weapon.</TEXT><PARA/><PARA/><TEXT>* Requires Drone Static Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475578
+NAME
+M-EX2 Cutter Mine
+
+477582
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-g "Cutter" Seeking Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>With its reformulated explosive charge and its re-engineered “seeking technology”, the Cutter is an uncompromisingly lethal ordinance.</TEXT><PARA/><PARA/><TEXT>* Fired by Cutter Seeking Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475579
+NAME
+M-EX2 Cutter Mine
+
+477583
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-g "Cutter" Seeking Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Based on an entirely new formula, the destructive capacity of the Cutter rivals that of any other standard mine. In addition to this, the “seeking technology” behind the Cutter has been entirely re-engineered, enabling it to now deliver a larger, more accurate and deadlier blow to its target.</TEXT><PARA/><PARA/><TEXT>* Requires Cutter Seeking Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475580
+NAME
+M-EM2 Wardog EMP Mine
+
+477584
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-b "Wardog" Seeking EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the HM-g Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Fired by Wardog Seeking EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475581
+NAME
+M-EM2 Wardog EMP Mine
+
+477585
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-b "Wardog" Seeking EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the HM-g Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Requires Wardog Seeking EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475582
+NAME
+M-EM1 Razor EMP Mine
+
+477586
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M468 "Razor" Static EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the HM-b carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Fired by Razor Static EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+
+475583
+NAME
+M-EM1 Razor EMP Mine
+
+477587
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M468 "Razor" Static EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the HM-b carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Requires Razor Static EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458772
+NAME
+Light AC
+
+460773
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>DS-2 Light Autocannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Autocannons fire heavy slugs at high speed, punching through armor at considerable range. DSE's Light AC is one of the smallest autocannons available, making up for its lower damage with a higher velocity and rate of fire.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458773
+NAME
+Light AC Shell
+
+460774
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Light AC Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Shells for a light autocannon. These shells are some of the smallest available for autocannon-style weapons, but they still pack a considerable punch.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458774
+NAME
+Medium AC
+
+460775
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>DS-5 Medium Autocannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Autocannons fire heavy slugs at high speed, punching through armor at considerable range. DSE's AC/5 is considered a 'tactical' autocannon, delivering consistent damage at good range.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458775
+NAME
+Medium AC Shell
+
+460776
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Medium AC Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Shells for a medium autocannon. These aren't the biggest autocannon shells available, but they're still large enough to tear through most ship hulls with ease.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458776
+NAME
+Heavy AC
+
+460777
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>DS-10 Heavy Autocannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Autocannons fire heavy slugs at high speed, punching through armor at considerable range. DSE's Heavy Autocannon is one of the more powerful ballistic weapons available for fighters, firing huge hole-punching projectiles at the cost of lower velocity and range.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458777
+NAME
+Heavy AC Shell
+
+460778
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Heavy AC Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Shells for a heavy autocannon. These are some of the larger autocannon shells available, removing entire sections of ship hull with their heavy impacts.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458778
+NAME
+Shredder AC
+
+460779
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>DS-20 Shredder Autocannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Autocannons fire heavy slugs at high speed, punching through armor at considerable range. DSE's Shredder AC is the heaviest fighter-based autocannon on the market, shredding entire ships apart in a couple of blasts with its massive shells.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458779
+NAME
+Shredder AC Shell
+
+460780
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Shredder AC Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Shells for a shredder autocannon. These are some of the largest autocannon shells around, destroying anything in their path.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458780
+NAME
+SRM Launcher
+
+460781
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SRM-2 Short Range Missile Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Short Range Missiles or "SRMs" are fast, agile missiles made to track nimble fighters in close-range dogfights. This launcher is one of the smallest on the market, and its significant refire delay and ineffectiveness against shields makes it best used as a secondary weapon deployed when a target's hull is vulnerable.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458781
+NAME
+SRM
+
+460782
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SRM</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Short Range Missiles, or "SRMs" are fast, agile missiles made to track nimble fighters in close-range dogfights. SRMs can be fired from a variety of different SRM launchers, each with different specifications and weights.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458782
+NAME
+Medium Pulse
+
+460783
+INFOCARD
+<RDL><PUSH/><TEXT>Pulse Lasers fire beams of energy that instantly connect with the target, delivering reliable damage as long as the gunner's aim is on point. Medium Pulse Lasers, or "MPulses" drain a lot of energy and suffer from short range, so their gunner needs to stick close to the target and make their shots count.</TEXT><PARA/><POP/></RDL>
+
+458783
+NAME
+FX Testing Weapon
+
+460784
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>FX Testing Weapon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>If you're a player and you can see this text, something has gone wrong! This gun is used as a placeholder to test effects and should not be obtainable in the game on launch.</TEXT><PARA/><PARA/><POP/></RDL>
+
+468764
+INFOCARD
+<RDL><PUSH/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>Primary/Missile/Aux Mounts:</TEXT><PARA/><TEXT>Armor:</TEXT><PARA/><TEXT>Cargo Space:</TEXT><PARA/><TEXT>Mass:</TEXT><PARA/><TEXT>Maximum Weapon Class:</TEXT><PARA/><TEXT>Additional Equipment:</TEXT><PARA/><POP/></RDL>
+
+468362
+NAME
+Greyhound
+
+468765
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/1/1</TEXT><PARA/><TEXT>Armor: 12000</TEXT><PARA/><TEXT>Cargo Space: 50</TEXT><PARA/><TEXT>Mass: 300t</TEXT><PARA/><TEXT>Maximum Weapon Class: 4</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468766
+INFOCARD
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>Z-4015 "Greyhound" Pirate Heavy Fighter</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>The Greyound is the most advanced ship produced by the Liberty Rogues, and while it's not as cheap or as durable as its predecessors, the ship has claimed some notorioty for its abilities in combat. While less suitable for trade lane robbery, the Greyhound has found its niche in supporting and protecting heavier and slower ships employed by the rogues.</TEXT><PARA/><POP/></RDL>
+
+468767
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>4/1/1</TEXT><PARA/><TEXT>12000</TEXT><PARA/><TEXT>50</TEXT><PARA/><TEXT>300t</TEXT><PARA/><TEXT>4</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468363
+NAME
+Guardian
+
+468768
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/2/2</TEXT><PARA/><TEXT>Armor: 25000</TEXT><PARA/><TEXT>Cargo Space: 60</TEXT><PARA/><TEXT>Mass: 500t</TEXT><PARA/><TEXT>Maximum Weapon Class: 5</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468769
+INFOCARD
+<RDL><PUSH/><TRA bold="true"/><JUST loc="center"/><TEXT>BDR-496 "Guardian" Liberty Very Heavy Fighter</TEXT><PARA/><TRA bold="false"/><JUST loc="left"/><PARA/><TEXT>A collection of the most cutting-edge fighter technology Liberty has to offer, the Guardian is a serious effort by the Liberty Navy to refine and push the Defender chassis as far as possible. Sporting additional armor, an improved power plant and extra mounts, the Guardian is still not approved for civilian sale.</TEXT><PARA/><POP/></RDL>
+
+468770
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>4/2/2</TEXT><PARA/><TEXT>25000</TEXT><PARA/><TEXT>60</TEXT><PARA/><TEXT>500t</TEXT><PARA/><TEXT>5</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468364
+NAME
+Starblazer
+
+468771
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/1/1</TEXT><PARA/><TEXT>Armor: 17500</TEXT><PARA/><TEXT>Cargo Space: 240</TEXT><PARA/><TEXT>Mass: 500t</TEXT><PARA/><TEXT>Maximum Weapon Class: 5</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468772
+INFOCARD
+<RDL><PUSH/><TRA bold="true"/><JUST loc="center"/><TEXT>CTE 1380AV Starblazer</TEXT><PARA/><TRA bold="false"/><JUST loc="left"/><PARA/><TEXT>Pitched as a hardier alternative to its counterparts, the Starblazer fighter is generally considered to be one of the best ships in its weight class. With excellent handling, a larger cargo bay and tougher armor than previous models, it stands above its alternatives at a very reasonable price.</TEXT><PARA/><POP/></RDL>
+
+468773
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>4/1/1</TEXT><PARA/><TEXT>17500</TEXT><PARA/><TEXT>240</TEXT><PARA/><TEXT>500t</TEXT><PARA/><TEXT>5</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468365
+NAME
+Condor
+
+467560
+NAME
+Rstr. Barrier L.F. Shield
+
+467561
+NAME
+Barrier L.F. Shield
+
+467562
+NAME
+Adv. Barrier L.F. Shield
+
+467563
+NAME
+Rstr. Brigandine L.F. Shield
+
+467564
+NAME
+Brigandine L.F. Shield
+
+467565
+NAME
+Adv. Brigandine L.F. Shield
+
+467566
+NAME
+Rstr. Protector L.F. Shield
+
+467567
+NAME
+Protector L.F. Shield
+
+467568
+NAME
+Adv. Protector L.F. Shield
+
+467569
+NAME
+Rstr. Barrier H.F. Shield
+
+467570
+NAME
+Barrier H.F. Shield
+
+467571
+NAME
+Adv. Barrier H.F. Shield
+
+467572
+NAME
+Rstr. Brigandine H.F. Shield
+
+467573
+NAME
+Brigandine H.F. Shield
+
+467574
+NAME
+Adv. Brigandine H.F. Shield
+
+467575
+NAME
+Rstr. Protector H.F. Shield
+
+467576
+NAME
+Protector H.F. Shield
+
+467577
+NAME
+Adv. Protector H.F. Shield
+
+467578
+NAME
+Rstr. Barrier Fr. Shield
+
+467579
+NAME
+Barrier Fr. Shield
+
+467580
+NAME
+Adv. Barrier Fr. Shield
+
+467581
+NAME
+Rstr. Brigandine Fr. Shield
+
+467582
+NAME
+Brigandine Fr. Shield
+
+467583
+NAME
+Adv. Brigandine Fr. Shield
+
+467584
+NAME
+Rstr. Protector Fr. Shield
+
+467585
+NAME
+Protector Fr. Shield
+
+467586
+NAME
+Adv. Protector Fr. Shield
+
+467961
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a "Barrier" Restrained Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467962
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a2 "Barrier" Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467963
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a3 "Barrier" Light Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467964
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Brigandine" Light Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467965
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Brigandine" Light Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467966
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Brigandine" Light Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467967
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Protector" Light Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467968
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Protector" Light Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467969
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Protector" Light Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467970
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a "Barrier" Restrained Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467971
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a2 "Barrier" Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467972
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a3 "Barrier" Heavy Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467973
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Brigandine" Heavy Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467974
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Brigandine" Heavy Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467975
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Brigandine" Heavy Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467976
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Protector" Heavy Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467977
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Protector" Heavy Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467978
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Protector" Heavy Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467979
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a "Barrier" Restrained Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467980
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a2 "Barrier" Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467981
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a3 "Barrier" Freighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467982
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Brigandine" Freighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467983
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Brigandine" Freighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467984
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Brigandine" Freighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467985
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Protector" Freighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467988
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Protector" Freighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+467989
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Protector" Freighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+468774
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 2/1/0</TEXT><PARA/><TEXT>Armor: 5250</TEXT><PARA/><TEXT>Cargo Space: 80</TEXT><PARA/><TEXT>Mass: 150t</TEXT><PARA/><TEXT>Maximum Weapon Class: 2</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468775
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>2/1/0</TEXT><PARA/><TEXT>5250</TEXT><PARA/><TEXT>80</TEXT><PARA/><TEXT>150t</TEXT><PARA/><TEXT>2</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468776
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 3/1/1</TEXT><PARA/><TEXT>Armor: 10500</TEXT><PARA/><TEXT>Cargo Space: 160</TEXT><PARA/><TEXT>Mass: 300t</TEXT><PARA/><TEXT>Maximum Weapon Class: 4</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468777
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>3/1/1</TEXT><PARA/><TEXT>10500</TEXT><PARA/><TEXT>160</TEXT><PARA/><TEXT>300t</TEXT><PARA/><TEXT>4</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468778
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 3/0/1</TEXT><PARA/><TEXT>Armor: 11000</TEXT><PARA/><TEXT>Cargo Space: 80</TEXT><PARA/><TEXT>Mass: 300t</TEXT><PARA/><TEXT>Maximum Weapon Class: 3</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468779
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>3/0/1</TEXT><PARA/><TEXT>11000</TEXT><PARA/><TEXT>80</TEXT><PARA/><TEXT>300t</TEXT><PARA/><TEXT>3</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468780
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 2/1/1</TEXT><PARA/><TEXT>Armor: 7500</TEXT><PARA/><TEXT>Cargo Space: 25</TEXT><PARA/><TEXT>Mass: 150t</TEXT><PARA/><TEXT>Maximum Weapon Class: 3</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468781
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>2/1/1</TEXT><PARA/><TEXT>7500</TEXT><PARA/><TEXT>25</TEXT><PARA/><TEXT>150t</TEXT><PARA/><TEXT>3</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468782
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/1/1</TEXT><PARA/><TEXT>Armor: 15000</TEXT><PARA/><TEXT>Cargo Space: 45</TEXT><PARA/><TEXT>Mass: 300t</TEXT><PARA/><TEXT>Maximum Weapon Class: 4</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468783
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>4/1/1</TEXT><PARA/><TEXT>15000</TEXT><PARA/><TEXT>45</TEXT><PARA/><TEXT>300t</TEXT><PARA/><TEXT>4</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468784
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 5/2/1</TEXT><PARA/><TEXT>Armor: 25000</TEXT><PARA/><TEXT>Cargo Space: 65</TEXT><PARA/><TEXT>Mass: 500t</TEXT><PARA/><TEXT>Maximum Weapon Class: 5</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468785
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>5/2/1</TEXT><PARA/><TEXT>25000</TEXT><PARA/><TEXT>65</TEXT><PARA/><TEXT>500t</TEXT><PARA/><TEXT>5</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468786
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 2/1/1</TEXT><PARA/><TEXT>Armor: 7500</TEXT><PARA/><TEXT>Cargo Space: 20</TEXT><PARA/><TEXT>Mass: 150t</TEXT><PARA/><TEXT>Maximum Weapon Class: 3</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468787
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>2/1/1</TEXT><PARA/><TEXT>7500</TEXT><PARA/><TEXT>20</TEXT><PARA/><TEXT>150t</TEXT><PARA/><TEXT>3</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468788
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/1/1</TEXT><PARA/><TEXT>Armor: 15000</TEXT><PARA/><TEXT>Cargo Space: 40</TEXT><PARA/><TEXT>Mass: 300t</TEXT><PARA/><TEXT>Maximum Weapon Class: 4</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468789
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>4/1/1</TEXT><PARA/><TEXT>15000</TEXT><PARA/><TEXT>40</TEXT><PARA/><TEXT>300t</TEXT><PARA/><TEXT>4</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468790
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 8/0/0</TEXT><PARA/><TEXT>Armor: 60000</TEXT><PARA/><TEXT>Cargo Space: 350</TEXT><PARA/><TEXT>Mass: 750t</TEXT><PARA/><TEXT>Maximum Weapon Class: 1</TEXT><PARA/><TEXT>Additional Equipment: M, CM</TEXT><PARA/><POP/></RDL>
+
+468791
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>8/0/0</TEXT><PARA/><TEXT>60000</TEXT><PARA/><TEXT>350</TEXT><PARA/><TEXT>750t</TEXT><PARA/><TEXT>1</TEXT><PARA/><TEXT>M, CM</TEXT><PARA/><POP/></RDL>
+
+468792
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 2/1/1</TEXT><PARA/><TEXT>Armor: 6000</TEXT><PARA/><TEXT>Cargo Space: 30</TEXT><PARA/><TEXT>Mass: 150t</TEXT><PARA/><TEXT>Maximum Weapon Class: 3</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468793
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>2/1/1</TEXT><PARA/><TEXT>6000</TEXT><PARA/><TEXT>30</TEXT><PARA/><TEXT>150t</TEXT><PARA/><TEXT>3</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468794
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 5/1/2</TEXT><PARA/><TEXT>Armor: 20000</TEXT><PARA/><TEXT>Cargo Space: 70</TEXT><PARA/><TEXT>Mass: 500t</TEXT><PARA/><TEXT>Maximum Weapon Class: 5</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468795
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>5/1/2</TEXT><PARA/><TEXT>20000</TEXT><PARA/><TEXT>70</TEXT><PARA/><TEXT>500t</TEXT><PARA/><TEXT>5</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468796
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 8/0/0</TEXT><PARA/><TEXT>Armor: 48000</TEXT><PARA/><TEXT>Cargo Space: 360</TEXT><PARA/><TEXT>Mass: 750t</TEXT><PARA/><TEXT>Maximum Weapon Class: 1</TEXT><PARA/><TEXT>Additional Equipment: M, CM</TEXT><PARA/><POP/></RDL>
+
+468797
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>8/0/0</TEXT><PARA/><TEXT>48000</TEXT><PARA/><TEXT>360</TEXT><PARA/><TEXT>750t</TEXT><PARA/><TEXT>1</TEXT><PARA/><TEXT>M, CM</TEXT><PARA/><POP/></RDL>
+
+468798
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 3/1/0</TEXT><PARA/><TEXT>Armor: 5250</TEXT><PARA/><TEXT>Cargo Space: 10</TEXT><PARA/><TEXT>Mass: 150t</TEXT><PARA/><TEXT>Maximum Weapon Class: 3</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468799
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>3/1/0</TEXT><PARA/><TEXT>5250</TEXT><PARA/><TEXT>10</TEXT><PARA/><TEXT>150t</TEXT><PARA/><TEXT>3</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468800
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/1/1</TEXT><PARA/><TEXT>Armor: 10500</TEXT><PARA/><TEXT>Cargo Space: 30</TEXT><PARA/><TEXT>Mass: 300t</TEXT><PARA/><TEXT>Maximum Weapon Class: 4</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468801
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>4/1/1</TEXT><PARA/><TEXT>10500</TEXT><PARA/><TEXT>30</TEXT><PARA/><TEXT>300t</TEXT><PARA/><TEXT>4</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468802
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 6/1/1</TEXT><PARA/><TEXT>Armor: 22000</TEXT><PARA/><TEXT>Cargo Space: 50</TEXT><PARA/><TEXT>Mass: 500t</TEXT><PARA/><TEXT>Maximum Weapon Class: 5</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468803
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>6/1/1</TEXT><PARA/><TEXT>22000</TEXT><PARA/><TEXT>50</TEXT><PARA/><TEXT>500t</TEXT><PARA/><TEXT>5</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468804
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 8/0/0</TEXT><PARA/><TEXT>Armor: 42000</TEXT><PARA/><TEXT>Cargo Space: 340</TEXT><PARA/><TEXT>Mass: 750t</TEXT><PARA/><TEXT>Maximum Weapon Class: 1</TEXT><PARA/><TEXT>Additional Equipment: M, CM</TEXT><PARA/><POP/></RDL>
+
+468805
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>8/0/0</TEXT><PARA/><TEXT>42000</TEXT><PARA/><TEXT>340</TEXT><PARA/><TEXT>750t</TEXT><PARA/><TEXT>1</TEXT><PARA/><TEXT>M, CM</TEXT><PARA/><POP/></RDL>
+
+468806
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 2/2/0</TEXT><PARA/><TEXT>Armor: 8250</TEXT><PARA/><TEXT>Cargo Space: 20</TEXT><PARA/><TEXT>Mass: 150t</TEXT><PARA/><TEXT>Maximum Weapon Class: 2</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468807
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>2/2/0</TEXT><PARA/><TEXT>8250</TEXT><PARA/><TEXT>20</TEXT><PARA/><TEXT>150t</TEXT><PARA/><TEXT>2</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468808
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/2/0</TEXT><PARA/><TEXT>Armor: 16500</TEXT><PARA/><TEXT>Cargo Space: 40</TEXT><PARA/><TEXT>Mass: 300t</TEXT><PARA/><TEXT>Maximum Weapon Class: 2</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468809
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>4/2/0</TEXT><PARA/><TEXT>16500</TEXT><PARA/><TEXT>40</TEXT><PARA/><TEXT>300t</TEXT><PARA/><TEXT>2</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468810
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/3/1</TEXT><PARA/><TEXT>Armor: 27500</TEXT><PARA/><TEXT>Cargo Space: 60</TEXT><PARA/><TEXT>Mass: 500t</TEXT><PARA/><TEXT>Maximum Weapon Class: 5</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468811
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>4/3/1</TEXT><PARA/><TEXT>27500</TEXT><PARA/><TEXT>60</TEXT><PARA/><TEXT>500t</TEXT><PARA/><TEXT>5</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+
+468812
+INFOCARD
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>CTL-6000 "Condor" Liberty Heavy Fighter</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>The CTL-6000 was developed by Universal Shipping in collaboration with Deep Space Engineering in response to increased pirate activity in Liberty and the independent worlds. The blueprints were bought by Ageira Technologies, who now manufacture the Condor as a high-end escort for Luxury Yachts and VIP passengers.</TEXT><PARA/><POP/></RDL>
+
+466758
+NAME
+Civilian L. F. Engine
+
+466759
+NAME
+Civilian H. F. Engine
+
+466760
+NAME
+Civilian V. H. F. Engine
+
+466761
+NAME
+Civilian L. F. Powerplant
+
+466762
+NAME
+Civilian H. F. Powerplant
+
+466763
+NAME
+Civilian V. H. F. Powerplant
+
+479572
+NAME
+Mine Lifetime:
+
+479573
+NAME
+Refire Rate:
+
+479574
+NAME
+Arming Delay:
+
+479575
+NAME
+Seek Distance:
+
+479576
+NAME
+Decoy Lifetime:
+
+479577
+NAME
+Rebuild Power Drain: 
+
+479578
+NAME
+Constant Power Drain: 
+
+479579
+NAME
+Rebuild Time: 
+
+469164
+NAME
+Rheinland Heavy Fighter Wreck
+
+469165
+NAME
+Rheinland Light Fighter Wreck
+
+471165
+INFOCARD
+<RDL><PUSH/><TEXT>One of many Rheinland fighter wrecks in this battlefield. Most of them are picked clean, but some yield weapons and equipment.</TEXT><PARA/><POP/></RDL>
+
+469166
+NAME
+Liberty Heavy Fighter Wreck
+
+469167
+NAME
+Liberty Light Fighter Wreck
+
+471166
+INFOCARD
+<RDL><PUSH/><TEXT>One of many Liberty fighter wrecks in this battlefield. Most of them are picked clean, but some yield weapons and equipment.</TEXT><PARA/><POP/></RDL>
+
+471167
+INFOCARD
+<RDL><PUSH/><TEXT>DIAMETER: 8,201 km</TEXT><PARA/><TEXT>MASS: 3.08 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: Molten</TEXT><PARA/><TEXT>TEMPERATURE: 608°C to 1340°C</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 9.02 km/s</TEXT><PARA/><PARA/><TEXT>By the third quarter of 801 AS the Rheinland-Liberty conflict had reached a critical point. After months of effort, the Rheinland Navy had taken a series of key locations in Hudson, securing important logistics routes and giving them a solid platform from which to launch a large-scale invasion of Liberty space proper. Alarmed by consistent Rheinland victories against them in the Independent Worlds, the Liberty Navy deployed the bulk of its fleet in Texas, hoping to prevent the RNC from making further progress into Liberty systems. Undeterred, Rheinland capital ships arrived in the system two weeks later.</TEXT><PARA/><PARA/><TEXT>Shortly after their arrival, the RNC swept across Texas, securing the southern half of the system and pushing into the orbit of Houston. The Liberty Navy responded in kind, deploying five dreadnoughts, many cruisers and countless fighters to meet the invading force. After several hours of intense fighting, it appeared the Rheinland Navy were close to victory, having eliminated the bulk of Liberty’s cruiser complement and severely damaging three of the five defending battleships.</TEXT><PARA/><PARA/><TEXT>The exact cause of what occurred next isn’t entirely clear. Official Liberty sources claim that Rheinland deployed an untested experimental weapon, but given their tactical and strategic situation at the time it seems unlikely that they had any reason to do so. Anyone caught spreading rumors that conflict with this narrative are investigated and charged with sedition by the LSF.</TEXT><PARA/><PARA/><TEXT>The resulting blast sent out massive gravitational waves overloading the Texas jumpgates, propagating through them in a cascade and burning out the gate network. Most jump holes were also destabilized by this massive cataclysm. As for Houston, the incredible fluctuations in gravity have torn the crust off the planet in massive chunks, ejecting unprecedented amounts of rock and cooling lava into orbit and scarring the surface permanently. Both orbiting fleets were obliterated almost instantly, putting a swift end to the conflict.</TEXT><PARA/><PARA/><TEXT>The surface of Houston is now a molten hellscape. The atmosphere has been stripped away and the planet itself gives off a nightmarish red glow as it cools. While the Liberty government has begun investigating the possibility of mining the exposed core of the planet, any prospects of recovery or terraforming the planet back to what it once was are impossible.</TEXT><PARA/><POP/></RDL>
+
+469168
+NAME
+Houston Planetary Debris Field
+
+471168
+INFOCARD
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>A roiling mass of molten rock and brittle obsidian, the Houston Planetary Debris field is all that remains of Houston’s crust and mantle. The field is littered with pockets of ship debris and intense radiation. It is heavily patrolled by the Liberty Navy, who have been working hard to deter would-be salvagers.</TEXT><PARA/><POP/></RDL>
+
+471169
+INFOCARD
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>The South Dallas Debris Field consists of remnants of the Dallas Research complex, destroyed in the Texas incident in 500 AS, as well as parts of the LPI </TEXT><TRA italic="true"/><TEXT>Sugarland</TEXT><TRA italic="false"/><TEXT> complex and what’s left of the Hudson Gate.</TEXT><PARA/><PARA/><TEXT>Despite the lack of an operational jumpgate, Rheinland scouts have occasionally been sighted patrolling the field, suggesting the presence of a stable jump hole somewhere nearby.</TEXT><PARA/><POP/></RDL>
+
+471170
+INFOCARD
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>A pocket of debris housing the remains of LPI </TEXT><TRA italic="true"/><TEXT>Sugarland</TEXT><TRA italic="false"/><TEXT>. The Prison station was captured during Rheinland’s initial invasion of the system, then subsequently abandoned in the wake of the Houston Catastrophe. The field is gradually falling into the gravity well of Brazos, and Junkers can often be found in the field searching for anything of value before it’s gone forever.</TEXT><PARA/><POP/></RDL>
+
+471171
+INFOCARD
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>Previously home to a large contingent of Junkers, the North Dallas Debris Field has seen very little rogue activity in the wake of the Houston Catastrophe. The gravitational waves from the event shifted the debris field quite dramatically towards the New York jumpgate, so the area has seen a substantial increase in Liberty Navy activity and is largely shunned by outlaws.</TEXT><PARA/><POP/></RDL>
+
+471172
+INFOCARD
+<RDL><PUSH/><TEXT>Where there’s junk, there are the Junkers. They’ve been around since the earliest days of the Trade Lanes. Descended from the working classes, they developed within the House systems as a sort of necessary evil, handling the dirty work that no one else would. They do well salvaging valuable materials from the ever-increasing debris fields throughout Sirius, with the notable exception of Kusari. To this day they remain held at bay by the Hogosha.</TEXT><PARA/><PARA/><TEXT>Anyone who deals with Junkers knows they live by a strict code; if you’re not a Junker, you’re not part of the family. A Junker will double-cross you without a second thought, and they’re fiercely protective of each other. Most House corporations consider the Junkers to be simple criminals, but Junkers will occasionally do favors for the police, turning in the odd, mid-level criminal or letting them know about the occasional drug shipment. So despite some harassment, the police stop short of shutting them down. The infrequent police cleanup operations are little more than exercises in public relations, though there’s no love lost between the two groups.</TEXT><PARA/><PARA/><TEXT>The Junkers make their official money from salvaging debris within the fields, but also have a good deal going with various criminals, who like their “no questions asked” policy. Tolerated by the governments, Junkers sometimes deal in contraband, but they are extremely hard to catch red-handed. They are frequently patronized by the criminal element for the refuge they offer within the often hostile territory of House capital systems.</TEXT><PARA/><PARA/><TEXT>Liberty has two groups: a major population in the New York System, and a smaller enclave in Texas. In the wake of the Houston Catastrophe, the Junkers have shifted Beaumont Base into the shadow of Chisos, moving their operations a significant distance away from the unwelcome Navy presence at the New York Gate. The base’s original location in the North Dallas Debris Field did little to shield it from the worst of the blast, but the Junkers have been quick to repair damage and expand the station nonetheless.</TEXT><PARA/><POP/></RDL>
+
+471173
+INFOCARD
+<RDL><PUSH/><TEXT>The Battleship </TEXT><TRA italic="true"/><TEXT>Mississippi</TEXT><TRA italic="false"/><TEXT>, constructed in 745 AS, is the oldest ship still serving in the Liberty Navy. Affectionately referred to by more than one high-ranking officer as “Old Miss,” the </TEXT><TRA italic="true"/><TEXT>Mississippi</TEXT><TRA italic="false"/><TEXT> was set to be decommissioned in 805 AS and turned into an orbiting military museum. However, during the Texas conflict it was deployed to hold the New York Jumpgate and act as a staging point for reinforcements coming in from Norfolk. Fortunately for the crew, when the Houston Catastrophe occurred, it was sufficiently distant from the epicentre of the blast and survived the incident mostly intact.</TEXT><PARA/><PARA/><TEXT>Thanks to Ageira consultants on-board the Mississippi at the time, Liberty were able to get the Texas jump-gate up and running in a matter of weeks, allowing the Navy to properly secure the wreckage of their fleets. The </TEXT><TRA italic="true"/><TEXT>Mississippi</TEXT><TRA italic="false"/><TEXT> is currently under the command of Captain Dane Caruthers.</TEXT><PARA/><POP/></RDL>
+
+471174
+INFOCARD
+<RDL><PUSH/><TEXT>DIAMETER: 11,282 km</TEXT><PARA/><TEXT>MASS: 3.72 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: N/A</TEXT><PARA/><TEXT>TEMPERATURE: N/A</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 9.67 km/s</TEXT><PARA/><PARA/><TEXT>A relatively small gas planet with no useful resources. Brazos previously hosted the prison station LPI </TEXT><TRA italic="true"/><TEXT>Sugarland</TEXT><TRA italic="false"/><TEXT>, but now only acts as an anchor for the remains of the station and the East Dallas Debris Field. Junkers can often be found in the area.</TEXT><PARA/><POP/></RDL>
+
+469169
+NAME
+The Maw
+
+471175
+INFOCARD
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: EXTREME HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>In the immediate aftermath of the Houston Catastrophe, the incredible force of the gravitational waves rippling through the Texas system collapsed the dark matter clouds of the Grande Negra and Pequena Negra into a single large formation now known as the Maw.</TEXT><PARA/><PARA/><TEXT>Fed by a seething singularity at it's heart, the cloud’s dark exterior hides some of the most dangerous dangerous natural phenomena in Sirius, from powerful, constantly shifting gravity fields to intense radiation and - as some rumors say - hallucinations and other monsters of the mind.</TEXT><PARA/><POP/></RDL>
+
+469170
+NAME
+Batfish
+
+471176
+INFOCARD
+<RDL><PUSH/><TEXT>The wreck of the Junker vessel </TEXT><TRA italic="true"/><TEXT>Batfish</TEXT><TRA italic="false"/><TEXT>. It was identified and destroyed by LSF operatives several weeks ago as it tried to push into the debris field on an illegal salvage operation.</TEXT><PARA/><POP/></RDL>
+
+469171
+NAME
+Lancer
+
+471177
+INFOCARD
+<RDL><PUSH/><TEXT>The wreckage of the </TEXT><TRA italic="true"/><TEXT>Lancer</TEXT><TRA italic="false"/><TEXT>, piloted by Bounty Hunter Ace Mía Barrueco.</TEXT><PARA/><POP/></RDL>
+
+469172
+NAME
+Patrol 14
+
+471178
+INFOCARD
+<RDL><PUSH/><TEXT>Liberty Navy Patrol 14 flew into the Houston Planetary Debris Field two weeks ago on a routine patrol and then disappeared without a trace. An extensive search by authorities has not turned up anything so far. The LSF speculate that they may have blundered into one of the many intense radiation pockets spread throughout the field.</TEXT><PARA/><POP/></RDL>
+
+469173
+NAME
+Escort of the LNS Harmony
+
+471179
+INFOCARD
+<RDL><PUSH/><TEXT>The LNS </TEXT><TRA italic="true"/><TEXT>Harmony</TEXT><TRA italic="false"/><TEXT> and it’s escort were in transit to support forces in orbit when the Houston Catastrophe took place. Mississippi Control have tagged the wreck for salvage and recovery but have not yet found the resources to secure the area for such an operation.</TEXT><PARA/><POP/></RDL>
+
+469174
+NAME
+Kundschafter 32
+
+471180
+INFOCARD
+<RDL><PUSH/><TEXT>A wing of Rheinland Navy scouts that appear to have blundered into one of the field’s many radiation pockets. There may still be salvageable equipment onboard.</TEXT><PARA/><POP/></RDL>
+
+469175
+NAME
+Escort of the RNC Saarbrücken
+
+471181
+INFOCARD
+<RDL><PUSH/><TEXT>The Cruiser RNC </TEXT><TRA italic="true"/><TEXT>Saarbrücken</TEXT><TRA italic="false"/><TEXT> had been tasked with securing the south-eastern quadrant of the system during the Rheinland Invasion. Quite why its wreckage is on this side of the debris field is unclear.</TEXT><PARA/><POP/></RDL>
+
+469176
+NAME
+Escort of the RNC Schiller
+
+471182
+INFOCARD
+<RDL><PUSH/><TEXT>The Battleship RNC </TEXT><TRA italic="true"/><TEXT>Schiller</TEXT><TRA italic="false"/><TEXT> was Rheinland’s primary forward base of operations in the Texas system during the initial invasion. Initially it was deployed in orbit around the Hudson gate but during the RNC’s push on Houston, Navy command decided that it would be impractical to coordinate the battle from such a distance and moved it closer to the planet just before the Houston Catastrophe occurred.</TEXT><PARA/><POP/></RDL>
+
+469177
+NAME
+Seeker
+
+471183
+INFOCARD
+<RDL><PUSH/><TEXT>The wreck of the </TEXT><TRA italic="true"/><TEXT>Seeker</TEXT><TRA italic="false"/><TEXT>, piloted by LSF operative Alan Davies. Davies has been missing for 3 weeks, and was last seen entering the South Dallas Debris Field to confirm sightings of Rheinland Military scouts.</TEXT><PARA/><POP/></RDL>
+
+469178
+NAME
+Escort of the RNC Schönebeck
+
+469179
+NAME
+Unstable Jump Hole
+
+471184
+INFOCARD
+<RDL><PUSH/><TEXT>During the Houston Catastrophe, the RNC </TEXT><TRA italic="true"/><TEXT>Schönebeck</TEXT><TRA italic="false"/><TEXT> was part of the fleet assigned to secure Abilene and ensure that any Navy weapons platforms there were effectively neutralized for the duration of the engagement.</TEXT><PARA/><POP/></RDL>
+
+471185
+INFOCARD
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>***GRAVITATIONAL ANOMALY DETECTED***</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>Magnetic and gravimetric readings are consistent with a Jump Hole — a natural phenomenon that functions similar to a Jump Gate, though the hazards associated with traveling through a Jump Hole remain largely unknown. Ageira Technologies recommends avoiding all contact with Jump Holes.</TEXT><PARA/><PARA/><TEXT>Sensor readings indicate that this jump hole is unstable. It would be particularly unwise to attempt passage at this time.</TEXT><PARA/><POP/></RDL>
+
+471186
+INFOCARD
+<RDL><PUSH/><TEXT>A Jump Gate allows instantaneous travel between two distinct points in space. Jump Gates were pioneered by Ageira Technologies and are constructed in partnership with Deep Space Engineering.</TEXT><PARA/><PARA/><TEXT>This particular gate appears to have suffered severe internal damage and is inoperative.</TEXT><PARA/><POP/></RDL>
+
+471187
+INFOCARD
+<RDL><PUSH/><TEXT>The remains of the Texas-Hudson jumpgate. In addition to the internal burnout that all active gates appear to have suffered at the time of the Houston Catastrophe, this gate appears to have serious structural damage present as well.</TEXT><PARA/><POP/></RDL>
+
+473367
+INFOCARD
+<RDL><PUSH/><TRA bold="true"/><TEXT>LIBERTY</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>Following the events of the Houston Catastrophe, the Texas system is now a shattered, radioactive wasteland, haunted by Junkers looking for valuable salvage and zealously patrolled by the Liberty Navy keeping watch for any sign of activity around the remains of the Bering and Hudson jumpgates.</TEXT><PARA/><PARA/><TRA underline="true"/><TRA bold="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Battleship </TEXT><TRA italic="true"/><TEXT>Mississippi</TEXT><TRA italic="false"/><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Liberty Navy</TEXT><PARA/><TEXT>Liberty Security Force</TEXT><PARA/><TEXT>Bounty Hunters Guild</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Liberty Rogues</TEXT><PARA/><TEXT>Junkers</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Scrap Metal</TEXT><PARA/><TEXT>Toxic Waste</TEXT><PARA/><POP/></RDL>
+
+469180
+NAME
+Prison Liner Tamms
+
+469181
+NAME
+LPI Alcatraz
+
+469182
+NAME
+Aspen Base
+
+473568
+NAME
+Liberty Police\nTamms Bartender\nPlaceholder Name
+
+473569
+NAME
+Liberty Police\nTamms Commodity Trader\nPlaceholder Name
+
+473570
+NAME
+Liberty Police\nTamms Equipment Dealer\nPlaceholder Name
+
+473571
+NAME
+Lane Hackers\nAspen Bartender\nPlaceholder Name
+
+473572
+NAME
+Lane Hackers\nAspen Commodity Trader\nPlaceholder Name
+
+473573
+NAME
+Lane Hackers\nAspen Equipment Dealer\nPlaceholder Name
+
+471188
+INFOCARD
+<RDL><PUSH/><TEXT>CLASS: Monument</TEXT><PARA/><TEXT>CREW: </TEXT><TRA color="#FF0000"/><TEXT>CLASSIFIED</TEXT><TRA color="default"/><PARA/><TEXT>ARMAMENT: </TEXT><TRA color="#FF0000"/><TEXT>CLASSIFIED</TEXT><TRA color="default"/><PARA/><PARA/><POP/><TEXT>Static Liberty Battleship Placeholder Text</TEXT><PARA/></RDL>
+
+471189
+INFOCARD
+<RDL><PUSH/><TEXT>CLASS: Protector</TEXT><PARA/><TEXT>CREW: </TEXT><TRA color="#FF0000"/><TEXT>CLASSIFIED</TEXT><TRA color="default"/><PARA/><TEXT>ARMAMENT: </TEXT><TRA color="#FF0000"/><TEXT>CLASSIFIED</TEXT><TRA color="default"/><PARA/><PARA/><POP/><TEXT>Static Liberty Cruiser Placeholder Text</TEXT><PARA/></RDL>
+
+469183
+NAME
+Pikes Shipyard
+
+469184
+NAME
+Tracking Buoy
+
+473368
+INFOCARD
+<RDL><PUSH/><TEXT>A ship tracking buoy. These are typically used by the Bounty Hunters Guild and House Police to monitor and search for criminal traffic along particularly busy routes. The buoy works by spoofing the address of a Universal Shipping Identification relay and recording information before rerouting traffic through to a genuine relay.</TEXT><PARA/><POP/></RDL>
+
+469185
+NAME
+Bravery
+
+469186
+NAME
+Xenos Fighter
+
+469187
+NAME
+Sagay
+
+469188
+NAME
+Abandoned Depot
+
+473369
+INFOCARD
+<RDL><PUSH/><TEXT>The wreckage of the </TEXT><TRA italic="true"/><TEXT>Bravery</TEXT><TRA italic="false"/><TEXT>, belonging to infamous bounty hunter Ronin Berg.</TEXT><PARA/><POP/></RDL>
+
+473370
+INFOCARD
+<RDL><PUSH/><TEXT>The wreckage of a Xenos fighter destroyed during the battle at Ouray.</TEXT><PARA/><POP/></RDL>
+
+473371
+INFOCARD
+<RDL><PUSH/><TEXT>The remains of a Lane Hacker vessel chased into the Copperton Field by Bounty Hunters following a raid on Pueblo. Records indicate a ship matching the description of this one loaded valuable materials from one of the station’s docking bays before fleeing.</TEXT><PARA/><POP/></RDL>
+
+473372
+INFOCARD
+<RDL><PUSH/><TEXT>A depot abandoned by the Xenos when Ouray was destroyed. There may be salvageable materials present.</TEXT><PARA/><POP/></RDL>
+
+469189
+NAME
+Missile Platform
+
+469190
+NAME
+Weapons Platform
+
+458784
+NAME
+Heavy Pulse Cannon
+
+458785
+NAME
+Light Repeating Autocannon
+
+458786
+NAME
+Cluster Missile Battery
+
+458787
+NAME
+Photon Rail Cannon
+
+458788
+NAME
+Cluster Missile
+
+458789
+NAME
+The Texas Singularity
+
+473373
+INFOCARD
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: EXTREME HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>The boiling heart of the Maw, the Texas Singularity has defied all attempts at study. In addition to the hostile conditions of the Maw, the singularity releases huge quantities of exotic particles that are poorly understood and rapidly break down into hard radiation.</TEXT><PARA/><PARA/><TEXT>The singularity also creates unpredictable gravitational tides in and around the Maw, drawing debris, and anyone unfortunate enough to be too close, into it's embrace.</TEXT><PARA/><POP/></RDL>
+
+458790
+NAME
+Ultraheavy Repeating Autocannon
+
+458791
+NAME
+Flak Battery
+
+458792
+NAME
+Dual Heavy Pulse Cannon
+
+458793
+NAME
+Flak Payload

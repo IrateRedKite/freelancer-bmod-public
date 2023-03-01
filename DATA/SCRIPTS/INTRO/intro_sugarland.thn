@@ -1,0 +1,1712 @@
+-- For orientation of objects, use this link to quickly do the maths on how much to rotate things: https://www.andre-gaschler.com/rotationconverter/
+-- Coordinates for close camera work: 40230, 400, 19949
+dofile('..\\DATA\\SCRIPTS\\helpers.lua')
+
+duration = 720
+entities = {{
+    entity_name = "scene_sugarland",
+    type = SCENE,
+    template_name = "",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    up = Y_AXIS,
+    front = Z_AXIS,
+    ambient = {128, 128, 128}
+}, {
+    entity_name = "camera_1",
+    type = CAMERA,
+    template_name = "",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    spatialprops = {
+        pos = {40730, 0, 20000},
+        orient = {{0.9396926, -0.0000000, 0.3420202}, {0.0593912, 0.9848077, -0.1631759},
+                  {-0.3368241, 0.1736482, 0.9254166}}
+    },
+    cameraprops = {
+        fovh = 35,
+        hvaspect = 1.333333,
+        nearplane = 1,
+        farplane = 1000000
+    }
+}, {
+    entity_name = "monitor_1",
+    type = MONITOR,
+    template_name = "",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0
+}, {
+    entity_name = "camera_marker",
+    type = MARKER,
+    template_name = "",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    spatialprops = {
+        pos = {40730, 0, 18549},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    }
+}, -- Lighting is defined below here.
+{
+    entity_name = "light_1",
+    type = LIGHT,
+    template_name = "",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{0.560152, 0, -0.82839}, {0, 1, 0}, {0.82839, 0, 0.560152}}
+    },
+    lightprops = {
+        on = Y,
+        color = {255, 255, 255},
+        diffuse = {0.70588, 0.74509, 0.78431},
+        specular = {0, 0, 0},
+        ambient = {0, 0, 0},
+        direction = {0, 0, 1},
+        range = 2000,
+        cutoff = 98.999985,
+        type = L_DIRECT,
+        theta = 90,
+        atten = {1, 0, 4e-006}
+    }
+}, {
+    entity_name = "light_2",
+    type = LIGHT,
+    template_name = "",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{-0.834819, 0, 0.550524}, {0, 1, 0}, {-0.550524, 0, -0.834819}}
+    },
+    lightprops = {
+        on = Y,
+        color = {255, 255, 255},
+        diffuse = {0.983726, 0.473726, 0.351569},
+        specular = {0, 0, 0},
+        ambient = {0, 0, 0},
+        direction = {0, 0, 1},
+        range = 2000,
+        cutoff = 98.999985,
+        type = L_DIRECT,
+        theta = 90,
+        atten = {2, 0, 4e-006}
+    }
+}, {
+    entity_name = "light_3",
+    type = LIGHT,
+    template_name = "",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    spatialprops = {
+        pos = {40730, 500, 18549},
+        orient = {{1, 0, 0}, {0, 0, 1}, {0, -1, 0}}
+    },
+    lightprops = {
+        on = Y,
+        color = {255, 255, 255},
+        diffuse = {0.2, 0.2, 0.3},
+        specular = {0, 0, 0},
+        ambient = {0, 0, 0},
+        direction = {0, 0, 1},
+        range = 1000,
+        cutoff = 1,
+        type = L_POINT,
+        theta = 90,
+        atten = {1, 0, 4e-006}
+    }
+}, -- Background Scenery
+{
+    entity_name = "starsphere_li04_stars",
+    type = COMPOUND,
+    template_name = "starsphere_Li04_Stars",
+    lt_grp = 0,
+    srt_grp = -100,
+    usr_flg = 1,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Prop"
+    }
+}, {
+    entity_name = "starsphere_li04",
+    type = COMPOUND,
+    template_name = "starsphere_li04",
+    lt_grp = 0,
+    srt_grp = -99,
+    usr_flg = 1,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Prop"
+    }
+}, {
+    entity_name = "planet_brazos",
+    type = COMPOUND,
+    template_name = "planet_gasblucld_1000",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {42517, 0, 18517},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "planet_houston_surface",
+    type = COMPOUND,
+    template_name = "planet_HoustonDestroyed_Surface",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {45697, 0, -18496},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "planet_houston_c1",
+    type = COMPOUND,
+    template_name = "planet_HoustonDestroyed_Crack01",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {45697, 0, -18496},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "planet_houston_c2",
+    type = COMPOUND,
+    template_name = "planet_HoustonDestroyed_Crack02",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {45697, 0, -18496},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "planet_houston_c3",
+    type = COMPOUND,
+    template_name = "planet_HoustonDestroyed_Crack03",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {45697, 0, -18496},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "planet_houston_c4",
+    type = COMPOUND,
+    template_name = "planet_HoustonDestroyed_Crack04",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {45697, 0, -18496},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "planet_houston_c5",
+    type = COMPOUND,
+    template_name = "planet_HoustonDestroyed_Crack05",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {45697, 0, -18496},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "planet_houston_core",
+    type = COMPOUND,
+    template_name = "planet_HoustonDestroyed_Lava_high_lod",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {45697, 0, -18496},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "planet_abilene",
+    type = COMPOUND,
+    template_name = "planet_moonblu_1000",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {59199, 4000, -26188},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, -- LPI Sugarland
+{
+    entity_name = "Li04_sugarland_wreckage_01",
+    type = COMPOUND,
+    template_name = "space_industrial_dmg",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40730, 40, 18549},
+        orient = Convert.EulerToMatrix(-51, 0, 0)
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "Li04_sugarland_wreckage_02",
+    type = COMPOUND,
+    template_name = "space_tankl_2dmg",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40730, -724, 18347},
+        orient = Convert.EulerToMatrix(0, -86, 0)
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "Li04_sugarland_wreckage_03",
+    type = COMPOUND,
+    template_name = "space_tankl4_dmg",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40730, -407, 18916},
+        orient = Convert.EulerToMatrix(0, 0, 31)
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "Li04_sugarland_wreckage_04",
+    type = COMPOUND,
+    template_name = "space_tanklx4_dmg",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40245, -407, 18549},
+        orient = Convert.EulerToMatrix(50, 64, 53)
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "Li04_sugarland_wreckage_05",
+    type = COMPOUND,
+    template_name = "space_tankl_3dmg",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40927, -408, 18549},
+        orient = Convert.EulerToMatrix(0, 90, 0)
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "Li04_sugarland_wreckage_06",
+    type = COMPOUND,
+    template_name = "debris_xlarge01",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40227, -553, 19039},
+        orient = Convert.EulerToMatrix(-66, 38, -145)
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "Li04_sugarland_wreckage_07",
+    type = COMPOUND,
+    template_name = "rh_gunship_debris_front",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40408, 121, 18916},
+        orient = Convert.EulerToMatrix(-4, 42, 31)
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, {
+    entity_name = "Li04_sugarland_wreckage_08",
+    type = COMPOUND,
+    template_name = "rh_gunship_debris",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40360, 92, 19106},
+        orient = Convert.EulerToMatrix(123, 42, 31)
+    },
+    userprops = {
+        category = "Solar"
+    }
+}, -- mobile_asteroid entries
+{
+    entity_name = "mobile_asteroid_01",
+    type = COMPOUND,
+    template_name = "solar_debris_asteroid_dynamic",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40230, 400, 19949},
+        orient = {{-0.9563047, 0.0000000, 0.2923717}, {0, 1, 0}, {-0.2923717, 0.0000000, -0.9563047}}
+    },
+    userprops = {
+        category = "Prop"
+    }
+}, {
+    entity_name = "mobile_asteroid_02",
+    type = COMPOUND,
+    template_name = "solar_debris_asteroid_dynamic",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {21875.9, 0, -5973.8},
+        orient = {{-0.9563047, 0.0000000, 0.2923717}, {0, 1, 0}, {-0.2923717, 0.0000000, -0.9563047}}
+    },
+    userprops = {
+        category = "Prop"
+    }
+}, {
+    entity_name = "mobile_asteroid_03",
+    type = COMPOUND,
+    template_name = "solar_debris_asteroid_dynamic",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {21875.9, 0, -5973.8},
+        orient = {{-0.9563047, 0.0000000, 0.2923717}, {0, 1, 0}, {-0.2923717, 0.0000000, -0.9563047}}
+    },
+    userprops = {
+        category = "Prop"
+    }
+}, {
+    entity_name = "mobile_asteroid_04",
+    type = COMPOUND,
+    template_name = "solar_debris_asteroid_dynamic",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {21875.9, 0, -5973.8},
+        orient = {{-0.9563047, 0.0000000, 0.2923717}, {0, 1, 0}, {-0.2923717, 0.0000000, -0.9563047}}
+    },
+    userprops = {
+        category = "Prop"
+    }
+}, -- Ships below here
+-- rh_fighter_a
+{
+    entity_name = "rh_fighter_a",
+    type = COMPOUND,
+    template_name = "rh_fighter",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Spaceship",
+        loadout = "rh_p_rh_fighter_loadout01"
+    }
+}, {
+    entity_name = "rh_fighter_a_engine_a",
+    type = PSYS,
+    template_name = "gf_rh_smallengine01_fire",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "rh_fighter_a_engine_trail_a",
+    type = PSYS,
+    template_name = "gf_rh_smallengine01_trail",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, -- li_fighter_a
+{
+    entity_name = "li_fighter_a",
+    type = COMPOUND,
+    template_name = "li_fighter",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {39930, 400, 19949},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Spaceship",
+        loadout = "li_p_li_fighter_loadout01"
+    }
+}, {
+    entity_name = "li_fighter_a_engine_a",
+    type = PSYS,
+    template_name = "gf_li_smallengine01_fire",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "li_fighter_a_engine_trail_a",
+    type = PSYS,
+    template_name = "gf_li_smallengine01_trail",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, -- rh_fighter_b
+{
+    entity_name = "rh_fighter_b",
+    type = COMPOUND,
+    template_name = "rh_fighter",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Spaceship",
+        loadout = "rh_p_rh_fighter_loadout01"
+    }
+}, {
+    entity_name = "rh_fighter_b_engine_a",
+    type = PSYS,
+    template_name = "gf_rh_smallengine01_fire",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "rh_fighter_b_engine_trail_a",
+    type = PSYS,
+    template_name = "gf_rh_smallengine01_trail",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, -- rh_elite_a
+{
+    entity_name = "rh_elite_a",
+    type = COMPOUND,
+    template_name = "rh_elite",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {39930, 400, 19949},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Spaceship",
+        loadout = "rh_n_rh_elite_loadout01"
+    }
+}, {
+    entity_name = "rh_elite_a_engine_a",
+    type = PSYS,
+    template_name = "gf_rh_smallengine02_fire",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "rh_elite_a_engine_b",
+    type = PSYS,
+    template_name = "gf_rh_smallengine02_fire",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "rh_elite_a_engine_trail_a",
+    type = PSYS,
+    template_name = "gf_rh_smallengine02_trail",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "rh_elite_a_engine_trail_b",
+    type = PSYS,
+    template_name = "gf_rh_smallengine02_trail",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, -- rh_elite_b
+{
+    entity_name = "rh_elite_b",
+    type = COMPOUND,
+    template_name = "rh_elite",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {39930, 400, 19949},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Spaceship",
+        loadout = "rh_n_rh_elite_loadout01"
+    }
+}, {
+    entity_name = "rh_elite_b_engine_a",
+    type = PSYS,
+    template_name = "gf_rh_smallengine02_fire",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "rh_elite_b_engine_b",
+    type = PSYS,
+    template_name = "gf_rh_smallengine02_fire",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "rh_elite_b_engine_trail_a",
+    type = PSYS,
+    template_name = "gf_rh_smallengine02_trail",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "rh_elite_b_engine_trail_b",
+    type = PSYS,
+    template_name = "gf_rh_smallengine02_trail",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, -- li_elite_a
+{
+    entity_name = "li_elite_a",
+    type = COMPOUND,
+    template_name = "li_elite",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {39930, 400, 19949},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    userprops = {
+        category = "Spaceship",
+        loadout = "li_n_li_elite_loadout01"
+    }
+}, {
+    entity_name = "li_elite_a_engine_a",
+    type = PSYS,
+    template_name = "gf_li_smallengine02_fire",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "li_elite_a_engine_b",
+    type = PSYS,
+    template_name = "gf_li_smallengine02_fire",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "li_elite_a_engine_trail_a",
+    type = PSYS,
+    template_name = "gf_li_smallengine02_trail",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "li_elite_a_engine_trail_b",
+    type = PSYS,
+    template_name = "gf_li_smallengine02_trail",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {0, 0, 0},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, -- Effects are defined below here.
+{
+    entity_name = "houston_glow",
+    type = PSYS,
+    template_name = "houston_glow_fx",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC + LIT_AMBIENT,
+    spatialprops = {
+        pos = {45697, 0, -18496},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, {
+    entity_name = "debris_dust",
+    type = PSYS,
+    template_name = "Intro_debrisdust",
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = LIT_DYNAMIC,
+    spatialprops = {
+        pos = {40230, 400, 19990},
+        orient = {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}
+    },
+    psysprops = {
+        sparam = 0
+    }
+}, -- Paths are defined below here.
+-- Mobile asteroid paths
+{
+    entity_name = "path_mobile_asteroid_1",
+    type = MOTION_PATH,
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = HIDDEN,
+    pathprops = {
+        path_type = "CV_CROrientationSplinePath",
+        path_data = "OPEN, {40230, 400, 19949}, {1.000000,0.000000,0.000000,0.000000}, {43230, 380, 19949}, {1.000000,0.000000,0.000000,0.000000},"
+    }
+}, {
+    entity_name = "path_mobile_asteroid_2",
+    type = MOTION_PATH,
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = HIDDEN,
+    pathprops = {
+        path_type = "CV_CROrientationSplinePath",
+        path_data = "OPEN, {40230, 500, 19949}, {1.000000,0.000000,0.000000,0.000000}, {40220, -500, 19949}, {1.000000,0.000000,0.000000,0.000000},"
+    }
+}, {
+    entity_name = "path_mobile_asteroid_3",
+    type = MOTION_PATH,
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = HIDDEN,
+    pathprops = {
+        path_type = "CV_CROrientationSplinePath",
+        path_data = "OPEN, {43230, 400, 19949}, {1.000000,0.000000,0.000000,0.000000}, {40030, 300, 19949}, {1.000000,0.000000,0.000000,0.000000},"
+    }
+}, {
+    entity_name = "path_mobile_asteroid_4",
+    type = MOTION_PATH,
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = HIDDEN,
+    pathprops = {
+        path_type = "CV_CROrientationSplinePath",
+        path_data = "OPEN, {43230, 500, 19649}, {1.000000,0.000000,0.000000,0.000000}, {40030, 300, 19949}, {1.000000,0.000000,0.000000,0.000000},"
+    }
+}, -- Ship paths
+{
+    entity_name = "path_squad_right_to_left",
+    type = MOTION_PATH,
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = HIDDEN,
+    pathprops = {
+        path_type = "CV_CROrientationSplinePath",
+        path_data = "OPEN, {43230, 400, 19949}, {1.000000,0.000000,0.000000,0.000000}, {39930, 400, 19949}, {1.000000,0.000000,0.000000,0.000000},"
+    }
+}, {
+    entity_name = "path_squad_left_to_right",
+    type = MOTION_PATH,
+    lt_grp = 0,
+    srt_grp = 0,
+    usr_flg = 0,
+    flags = HIDDEN,
+    pathprops = {
+        path_type = "CV_CROrientationSplinePath",
+        path_data = "OPEN, {39930, 400, 19949}, {1.000000,0.000000,0.000000,0.000000}, {43240, 400, 20949}, {1.000000,0.000000,0.000000,0.000000},"
+    }
+}}
+-- Events defined below this point.
+events = {{0, SET_CAMERA, {"monitor_1", "camera_1"}}, {0.000, ATTACH_ENTITY, {"camera_1", "camera_marker"}, {
+    duration = 8000,
+    offset = {-500, 400, 1500},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "",
+    target_type = ROOT,
+    flags = POSITION + LOOK_AT + ENTITY_RELATIVE
+}}, -- Set planets spinning
+{0, START_SPATIAL_PROP_ANIM, {"planet_brazos"}, {
+    duration = 720,
+    target_type = ROOT,
+    spatialprops = {
+        axisrot = {360, NEG_Y_AXIS}
+    }
+}}, {0, START_SPATIAL_PROP_ANIM, {"planet_abilene"}, {
+    duration = 720,
+    target_type = ROOT,
+    spatialprops = {
+        axisrot = {360, NEG_Y_AXIS}
+    }
+}}, -- START_PSYS for Houston glow and the Debris Dust
+{0.000, START_PSYS, {"houston_glow"}, {
+    duration = -1
+}}, {0.000, START_PSYS, {"debris_dust"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"debris_dust"}, {
+    duration = 5,
+    psysprops = {
+        sparam = 0.5
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0.000000, 0.102564, 0.000000, 0.636364}, {1.000000, 1.000000, 0.900000, 0.000000}}
+    },
+    pcurve_period = -1000
+}}, {0, START_SPATIAL_PROP_ANIM, {"debris_dust"}, {
+    duration = 3600,
+    target_type = ROOT,
+    spatialprops = {
+        axisrot = {360, NEG_Y_AXIS}
+    }
+}}, -- START_PATH_ANIMATION entries for ships
+{0, START_PATH_ANIMATION, {"rh_fighter_a", "path_squad_right_to_left"}, {
+    duration = 30,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, -40, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {0, START_PATH_ANIMATION, {"rh_fighter_b", "path_squad_right_to_left"}, {
+    duration = 30,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {-20, -40, 40},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {30, START_PATH_ANIMATION, {"rh_elite_a", "path_squad_left_to_right"}, {
+    duration = 120,
+    start_percent = 0,
+    stop_percent = 0.5,
+    offset = {0, -20, -100},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {70, START_PATH_ANIMATION, {"rh_fighter_a", "path_squad_left_to_right"}, {
+    duration = 120,
+    start_percent = 0,
+    stop_percent = 0.5,
+    offset = {0, -40, -100},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {70, START_PATH_ANIMATION, {"rh_fighter_b", "path_squad_left_to_right"}, {
+    duration = 120,
+    start_percent = 0,
+    stop_percent = 0.5,
+    offset = {10, -20, -120},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {70, START_PATH_ANIMATION, {"rh_elite_b", "path_squad_left_to_right"}, {
+    duration = 140,
+    start_percent = 0,
+    stop_percent = 0.5,
+    offset = {60, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {190, START_PATH_ANIMATION, {"rh_fighter_a", "path_squad_right_to_left"}, {
+    duration = 25,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 25, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {250, START_PATH_ANIMATION, {"rh_fighter_b", "path_squad_right_to_left"}, {
+    duration = 35,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {40, 30, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {300, START_PATH_ANIMATION, {"li_elite_a", "path_squad_left_to_right"}, {
+    duration = 80,
+    start_percent = 0,
+    stop_percent = 0.5,
+    offset = {0, -50, -200},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {310, START_PATH_ANIMATION, {"li_fighter_a", "path_squad_left_to_right"}, {
+    duration = 60,
+    start_percent = 0,
+    stop_percent = 0.5,
+    offset = {0, 0, -220},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {400, START_PATH_ANIMATION, {"li_elite_a", "path_squad_right_to_left"}, {
+    duration = 30,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, -40, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, {400, START_PATH_ANIMATION, {"li_fighter_a", "path_squad_right_to_left"}, {
+    duration = 30,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {-20, -40, 40},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION + ORIENTATION + LOOK_AT
+}}, -- START_PATH_ANIMATION entries for mobile asteroids	
+{0, START_PATH_ANIMATION, {"mobile_asteroid_01", "path_mobile_asteroid_1"}, {
+    duration = 360,
+    start_percent = 0,
+    stop_percent = 1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {0, START_PATH_ANIMATION, {"mobile_asteroid_04", "path_mobile_asteroid_4"}, {
+    duration = 60,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {10, START_PATH_ANIMATION, {"mobile_asteroid_02", "path_mobile_asteroid_2"}, {
+    duration = 80,
+    start_percent = 0,
+    stop_percent = 1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {25, START_PATH_ANIMATION, {"mobile_asteroid_03", "path_mobile_asteroid_3"}, {
+    duration = 60,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 50, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {35, START_PATH_ANIMATION, {"mobile_asteroid_02", "path_mobile_asteroid_2"}, {
+    duration = 65,
+    start_percent = 0,
+    stop_percent = 1,
+    offset = {-40, 20, 30},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {100, START_PATH_ANIMATION, {"mobile_asteroid_04", "path_mobile_asteroid_4"}, {
+    duration = 120,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {-50, 12, 8},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {120, START_PATH_ANIMATION, {"mobile_asteroid_03", "path_mobile_asteroid_3"}, {
+    duration = 55,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 50, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {150, START_PATH_ANIMATION, {"mobile_asteroid_01", "path_mobile_asteroid_1"}, {
+    duration = 360,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {-300, -25, -60},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {200, START_PATH_ANIMATION, {"mobile_asteroid_01", "path_mobile_asteroid_1"}, {
+    duration = 360,
+    start_percent = 0,
+    stop_percent = 1,
+    offset = {-400, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {250, START_PATH_ANIMATION, {"mobile_asteroid_04", "path_mobile_asteroid_4"}, {
+    duration = 60,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {300, START_PATH_ANIMATION, {"mobile_asteroid_02", "path_mobile_asteroid_2"}, {
+    duration = 80,
+    start_percent = 0,
+    stop_percent = 1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {350, START_PATH_ANIMATION, {"mobile_asteroid_03", "path_mobile_asteroid_3"}, {
+    duration = 60,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 50, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {400, START_PATH_ANIMATION, {"mobile_asteroid_01", "path_mobile_asteroid_1"}, {
+    duration = 360,
+    start_percent = 0,
+    stop_percent = 1,
+    offset = {-400, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {450, START_PATH_ANIMATION, {"mobile_asteroid_04", "path_mobile_asteroid_4"}, {
+    duration = 60,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {500, START_PATH_ANIMATION, {"mobile_asteroid_02", "path_mobile_asteroid_2"}, {
+    duration = 80,
+    start_percent = 0,
+    stop_percent = 1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {550, START_PATH_ANIMATION, {"mobile_asteroid_03", "path_mobile_asteroid_3"}, {
+    duration = 60,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 50, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {575, START_PATH_ANIMATION, {"mobile_asteroid_01", "path_mobile_asteroid_1"}, {
+    duration = 360,
+    start_percent = 0,
+    stop_percent = 1,
+    offset = {-400, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {600, START_PATH_ANIMATION, {"mobile_asteroid_04", "path_mobile_asteroid_4"}, {
+    duration = 60,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {650, START_PATH_ANIMATION, {"mobile_asteroid_02", "path_mobile_asteroid_2"}, {
+    duration = 80,
+    start_percent = 0,
+    stop_percent = 1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, {700, START_PATH_ANIMATION, {"mobile_asteroid_03", "path_mobile_asteroid_3"}, {
+    duration = 60,
+    start_percent = 0.8,
+    stop_percent = 1,
+    offset = {0, 50, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    flags = POSITION
+}}, -- START_SPATIAL_PROP_ANIM entries for mobile asteroids	
+{0, START_SPATIAL_PROP_ANIM, {"mobile_asteroid_01"}, {
+    duration = 720,
+    target_type = ROOT,
+    spatialprops = {
+        axisrot = {70120, NEG_X_AXIS}
+    }
+}}, {0, START_SPATIAL_PROP_ANIM, {"mobile_asteroid_02"}, {
+    duration = 720,
+    target_type = ROOT,
+    spatialprops = {
+        axisrot = {65120, NEG_X_AXIS}
+    }
+}}, {0, START_SPATIAL_PROP_ANIM, {"mobile_asteroid_03"}, {
+    duration = 720,
+    target_type = ROOT,
+    spatialprops = {
+        axisrot = {68120, NEG_X_AXIS}
+    }
+}}, {0, START_SPATIAL_PROP_ANIM, {"mobile_asteroid_04"}, {
+    duration = 720,
+    target_type = ROOT,
+    spatialprops = {
+        axisrot = {69120, NEG_X_AXIS}
+    }
+}}, -- ATTACH events for ships
+-- ATTACH_ENTITY and START_PSYS for rh_fighter_a
+{0, START_PSYS, {"rh_fighter_a_engine_a"}, {
+    duration = -1
+}}, {0, ATTACH_ENTITY, {"rh_fighter_a_engine_a", "rh_fighter_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS_PROP_ANIM, {"rh_fighter_a_engine_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, START_PSYS, {"rh_fighter_a_engine_trail_a"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"rh_fighter_a_engine_trail_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, ATTACH_ENTITY, {"rh_fighter_a_engine_trail_a", "rh_fighter_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, -- ATTACH_ENTITY and START_PSYS for rh_fighter_b
+{0, START_PSYS, {"rh_fighter_b_engine_a"}, {
+    duration = -1
+}}, {0, ATTACH_ENTITY, {"rh_fighter_b_engine_a", "rh_fighter_b"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS_PROP_ANIM, {"rh_fighter_b_engine_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, START_PSYS, {"rh_fighter_b_engine_trail_a"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"rh_fighter_b_engine_trail_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, ATTACH_ENTITY, {"rh_fighter_b_engine_trail_a", "rh_fighter_b"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, -- ATTACH_ENTITY and START_PSYS for rh_elite_a
+{0, START_PSYS, {"rh_elite_a_engine_a"}, {
+    duration = -1
+}}, {0, ATTACH_ENTITY, {"rh_elite_a_engine_a", "rh_elite_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS_PROP_ANIM, {"rh_elite_a_engine_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, START_PSYS, {"rh_elite_a_engine_b"}, {
+    duration = -1
+}}, {0, ATTACH_ENTITY, {"rh_elite_a_engine_b", "rh_elite_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine02",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS_PROP_ANIM, {"rh_elite_a_engine_b"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, START_PSYS, {"rh_elite_a_engine_trail_a"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"rh_elite_a_engine_trail_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, ATTACH_ENTITY, {"rh_elite_a_engine_trail_a", "rh_elite_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS, {"rh_elite_a_engine_trail_b"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"rh_elite_a_engine_trail_b"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, ATTACH_ENTITY, {"rh_elite_a_engine_trail_b", "rh_elite_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine02",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, -- ATTACH_ENTITY and START_PSYS for rh_elite_b
+{0, START_PSYS, {"rh_elite_b_engine_a"}, {
+    duration = -1
+}}, {0, ATTACH_ENTITY, {"rh_elite_b_engine_a", "rh_elite_b"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS_PROP_ANIM, {"rh_elite_b_engine_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, START_PSYS, {"rh_elite_b_engine_b"}, {
+    duration = -1
+}}, {0, ATTACH_ENTITY, {"rh_elite_b_engine_b", "rh_elite_b"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine02",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS_PROP_ANIM, {"rh_elite_b_engine_b"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, START_PSYS, {"rh_elite_b_engine_trail_a"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"rh_elite_b_engine_trail_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, ATTACH_ENTITY, {"rh_elite_b_engine_trail_a", "rh_elite_b"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS, {"rh_elite_b_engine_trail_b"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"rh_elite_b_engine_trail_b"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, ATTACH_ENTITY, {"rh_elite_b_engine_trail_b", "rh_elite_b"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine02",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, -- ATTACH_ENTITY and START_PSYS for li_elite_a
+{0, START_PSYS, {"li_elite_a_engine_a"}, {
+    duration = -1
+}}, {0, ATTACH_ENTITY, {"li_elite_a_engine_a", "li_elite_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS_PROP_ANIM, {"li_elite_a_engine_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.5
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, START_PSYS, {"li_elite_a_engine_b"}, {
+    duration = -1
+}}, {0, ATTACH_ENTITY, {"li_elite_a_engine_b", "li_elite_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine02",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS_PROP_ANIM, {"li_elite_a_engine_b"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.5
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, START_PSYS, {"li_elite_a_engine_trail_a"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"li_elite_a_engine_trail_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, ATTACH_ENTITY, {"li_elite_a_engine_trail_a", "li_elite_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS, {"li_elite_a_engine_trail_b"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"li_elite_a_engine_trail_b"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, ATTACH_ENTITY, {"li_elite_a_engine_trail_b", "li_elite_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine02",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, -- ATTACH_ENTITY and START_PSYS for li_fighter_a
+{0, START_PSYS, {"li_fighter_a_engine_a"}, {
+    duration = -1
+}}, {0, ATTACH_ENTITY, {"li_fighter_a_engine_a", "li_fighter_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}, {0, START_PSYS_PROP_ANIM, {"li_fighter_a_engine_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, START_PSYS, {"li_fighter_a_engine_trail_a"}, {
+    duration = -1
+}}, {0, START_PSYS_PROP_ANIM, {"li_fighter_a_engine_trail_a"}, {
+    duration = 2,
+    psysprops = {
+        sparam = 0.1
+    },
+    param_curve = {
+        CLSID = "FreeFormPCurve",
+        points = {{0, 0, 0, 0}, {1, 1, 0, 0}}
+    },
+    pcurve_period = -1000
+}}, {0, ATTACH_ENTITY, {"li_fighter_a_engine_trail_a", "li_fighter_a"}, {
+    duration = -1,
+    offset = {0, 0, 0},
+    up = Y_AXIS,
+    front = NEG_Z_AXIS,
+    target_part = "HpEngine01",
+    target_type = HARDPOINT,
+    flags = POSITION + ORIENTATION
+}}}
+
+asteroidExclusion = {}
+
+function randomAsteroid(asteroids)
+    local max = getn(asteroids)
+    return asteroids[Math.random(1, max)]
+end
+function randomAxis(axis)
+    local max = getn(axis)
+    return axis[Math.random(1, max)]
+end
+function createDynamicAsteroid(xmin, xmax, ymin, ymax, zmin, zmax, camerapos, numAsteroids)
+    local asteroidCount = 0 -- Initializes asteroidCount to zero
+    asteroidExclusion["camera_1"] = camerapos -- Writes the position of the camera to the exclusion box table
+
+    repeat
+
+        local asteroidName = tostring("\"" .. "dynamic_asteroid" .. asteroidCount .. "\"") -- Sets the name for our dynamic asteroid as "dynamic_asteroid_#"
+        local x = Math.random(xmin, xmax)
+        local y = Math.random(ymin, ymax)
+        local z = Math.random(zmin, zmax)
+        local xyzpos = {x, y, z} -- Sets the position of the asteroid
+        local q = Convert.EulerToQuat(Math.random(-360, 360), Math.random(-360, 360), Math.random(-360, 360))
+        local m = Convert.QuatToMatrix(q)
+
+        local asteroid = {
+            entity_name = asteroidName,
+            type = COMPOUND,
+            template_name = randomAsteroid({"debris_small1", "debris_med1", "debris_large1", "debris_small2"}),
+            lt_grp = 0,
+            srt_grp = 0,
+            usr_flg = 0,
+            flags = LIT_DYNAMIC,
+            spatialprops = {
+                pos = xyzpos,
+                orient = m
+            },
+            userprops = {
+                category = "Asteroid"
+            }
+        }
+        local asteroidAnimEvent = {0, START_SPATIAL_PROP_ANIM, {asteroidName}, {
+            duration = Math.random(100, 500),
+            target_type = ROOT,
+            spatialprops = {
+                axisrot = {360, randomAxis({X_AXIS, Y_AXIS, Z_AXIS, NEG_X_AXIS, NEG_Y_AXIS, NEG_Z_AXIS})}
+            }
+        }}
+
+        local cameraExclusion = sphereCollision({
+            center = {0, 0, 0},
+            radius = 3
+        }, {
+            center = {-4, -4, -4},
+            radius = 3
+        })
+        write(tostring(cameraExclusion) .. "\n")
+
+        entities[asteroid] = asteroid -- Inserts our asteroid into the entities table
+        asteroidExclusion[asteroidName] = xyzpos -- Writes the position of the asteroid to the exclusion box table with the current asteroidName variable as an index.
+        asteroidCount = asteroidCount + 1 -- Increments asteroidCount variable by 1
+        events[asteroidAnimEvent] = asteroidAnimEvent -- Inserts our START_SPATIAL_PROP_ANIM event into the events table
+
+    until asteroidCount == numAsteroids - 1 -- Runs the loop until the value defined in numAsteroids is reached
+end
+-- Call our random asteroid function
+createDynamicAsteroid(38730, 42030, -100, 600, 19400, 19500, {21398, 0, -5973}, 75)
+createDynamicAsteroid(38730, 42030, -300, 900, 17500, 18500, {21398, 0, -5973}, 150)
