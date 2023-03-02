@@ -1418,3 +1418,26 @@ Rattler
 NAME
 Independence
 
+458813
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 8/0/0</TEXT><PARA/><TEXT>Armor: 60000</TEXT><PARA/><TEXT>Cargo Space: 350</TEXT><PARA/><TEXT>Mass: 750t</TEXT><PARA/><TEXT>Maximum Weapon Class: 1</TEXT><PARA/><TEXT>Additional Equipment: M, CM</TEXT><PARA/><POP/></RDL>
+
+458814
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>EL-HiL27 "Rattler Rhino" Liberty Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>With the economic foundation of Sirius firmly built on Liberty’s commercial interests, the Rhino certainly lives up to its name. The vast cargo hold is the hallmark of this impressive beast, surrounded by doubly reinforced structure and protective armor hull. This and the advanced weapon system make the Rhino a force to be reckoned with.</TEXT><PARA/><POP/></RDL>
+
+458815
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>8/0/0</TEXT><PARA/><TEXT>60000</TEXT><PARA/><TEXT>350</TEXT><PARA/><TEXT>750t</TEXT><PARA/><TEXT>1</TEXT><PARA/><TEXT>M, CM</TEXT><PARA/><POP/></RDL>
+
+458816
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 8/0/0</TEXT><PARA/><TEXT>Armor: 60000</TEXT><PARA/><TEXT>Cargo Space: 350</TEXT><PARA/><TEXT>Mass: 750t</TEXT><PARA/><TEXT>Maximum Weapon Class: 1</TEXT><PARA/><TEXT>Additional Equipment: M, CM</TEXT><PARA/><POP/></RDL>
+
+458817
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>EL-HiL27 "Independence Rhino" Liberty Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>With the economic foundation of Sirius firmly built on Liberty’s commercial interests, the Rhino certainly lives up to its name. The vast cargo hold is the hallmark of this impressive beast, surrounded by doubly reinforced structure and protective armor hull. This and the advanced weapon system make the Rhino a force to be reckoned with.</TEXT><PARA/><POP/></RDL>
+
+458818
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>8/0/0</TEXT><PARA/><TEXT>60000</TEXT><PARA/><TEXT>350</TEXT><PARA/><TEXT>750t</TEXT><PARA/><TEXT>1</TEXT><PARA/><TEXT>M, CM</TEXT><PARA/><POP/></RDL>
