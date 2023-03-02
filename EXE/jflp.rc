@@ -1,0 +1,35 @@
+/*
+  jflp.rc - Version resource for JFLP.DLL.
+
+  Jason Hood, 8 July, 2009.
+*/
+
+#include <winver.h>
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION	1,2,0,5
+PRODUCTVERSION	1,2,0,5
+FILEOS		VOS__WINDOWS32
+FILETYPE	VFT_DLL
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904B0"
+    {
+      VALUE "Comments",         "http://freelancer.adoxa.vze.com/"
+      VALUE "CompanyName",      "Jason Hood"
+      VALUE "FileDescription",  "Jason's Freelancer Patch"
+      VALUE "FileVersion",      "1.25"
+      VALUE "InternalName",     "JFLP"
+      VALUE "OriginalFilename", "jflp.dll"
+      VALUE "LegalCopyright",   "None"
+      VALUE "ProductName",      "Freelancer"
+      VALUE "ProductVersion",   "1, 0, 0, 0"
+    }
+  }
+
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0409, 0x04B0
+  }
+}
