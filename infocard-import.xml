@@ -1212,7 +1212,7 @@ LPI Alcatraz
 
 469182
 NAME
-Aspen Base
+Ouray Base
 
 473568
 NAME
@@ -1228,15 +1228,15 @@ Liberty Police\nTamms Equipment Dealer\nPlaceholder Name
 
 473571
 NAME
-Lane Hackers\nAspen Bartender\nPlaceholder Name
+Xenos\nOuray Bartender\nPlaceholder Name
 
 473572
 NAME
-Lane Hackers\nAspen Commodity Trader\nPlaceholder Name
+Xenos\nOuray Commodity Trader\nPlaceholder Name
 
 473573
 NAME
-Lane Hackers\nAspen Equipment Dealer\nPlaceholder Name
+Xenos\nOuray Equipment Dealer\nPlaceholder Name
 
 471188
 INFOCARD
@@ -1432,12 +1432,53 @@ INFOCARD
 
 458816
 INFOCARD
-<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 8/0/0</TEXT><PARA/><TEXT>Armor: 60000</TEXT><PARA/><TEXT>Cargo Space: 350</TEXT><PARA/><TEXT>Mass: 750t</TEXT><PARA/><TEXT>Maximum Weapon Class: 1</TEXT><PARA/><TEXT>Additional Equipment: M, CM</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 2/6/0</TEXT><PARA/><TEXT>Armor: 60000</TEXT><PARA/><TEXT>Cargo Space: 350</TEXT><PARA/><TEXT>Mass: 750t</TEXT><PARA/><TEXT>Maximum Weapon Class: 1</TEXT><PARA/><TEXT>Additional Equipment: M, CM</TEXT><PARA/><POP/></RDL>
 
 458817
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>EL-HiL27 "Independence Rhino" Liberty Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>With the economic foundation of Sirius firmly built on Liberty’s commercial interests, the Rhino certainly lives up to its name. The vast cargo hold is the hallmark of this impressive beast, surrounded by doubly reinforced structure and protective armor hull. This and the advanced weapon system make the Rhino a force to be reckoned with.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>EL-HiL-M2 "Independence" Liberty Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The M2-Independence is a heavily modified Rhino freighter used by the Xenos as a makeshift frigate. The cargo holds have been torn out and replaced with missile racks, additional armor plating has been bolted onto the hull, and the engines have had their saftey overrides removed.</TEXT><PARA/><POP/></RDL>
 
 458818
 INFOCARD
-<RDL><PUSH/><PARA/><PARA/><TEXT>8/0/0</TEXT><PARA/><TEXT>60000</TEXT><PARA/><TEXT>350</TEXT><PARA/><TEXT>750t</TEXT><PARA/><TEXT>1</TEXT><PARA/><TEXT>M, CM</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><PARA/><PARA/><TEXT>2/6/0</TEXT><PARA/><TEXT>60000</TEXT><PARA/><TEXT>50</TEXT><PARA/><TEXT>750t</TEXT><PARA/><TEXT>1</TEXT><PARA/><TEXT>M, CM</TEXT><PARA/><POP/></RDL>
+
+458819
+NAME
+Aurora Salvage Yards
+
+458820
+INFOCARD
+<RDL><PUSH/><TEXT>The Aurora Salvage Yards were quickly assembled in the aftermath of the Texas catastrophe in an effort to try and resolve the Liberty Navy's ship and equipment deficits. Several hulks have already been moved in from Houston and DSE have quickly begun stripping them down for parts that can be used to repair and maintain existing ships.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>The station reportedly employs the use of prison labour shipped in from planet-side facilities on Denver. However, DSE have been tight-lipped on the matter, and the Navy have zealously enforced the station's docking restrictions, denying anyone without direction affiliation access and shutting down all civilian requests for investigations.</TEXT><PARA/><POP/></RDL>
+
+458821
+INFOCARD
+<RDL><PUSH/><TEXT>Constructed in 777 AS, the Battleship </TEXT><TRA italic="true"/><TEXT>Rio Grande</TEXT><TRA italic="false"/><TEXT>  became famous in the 792 AS campaign against the Xenos in the Hudson System.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>One of the few intact battleships remaining after the Texas catastrophe, the </TEXT><TRA italic="true"/><TEXT>Rio Grande</TEXT><TRA italic="false"/><TEXT> was stationed in orbit of Denver to ensure that the Xenos were unable to seriously interfere with the construction of the Aurora Salvage Yards. The battleship is currently commanded by Captain John Palmer.</TEXT><PARA/><POP/></RDL>
+
+458822
+INFOCARD
+<RDL><PUSH/><TEXT>Denver was originally the home of miners, smelters, and shipyard workers, but these industries eventually collapsed in 600 AS. With the declining long-term water situation in the California System, however, the wealthy elite of Los Angeles began to look elsewhere for a vacation spot and found Denver’s rough, beautiful vistas to be ideal. Emigration from Los Angeles and Manhattan injected new life into the Denver economy, reviving the planet even as the new upper-class assumed control of the local government. Today Cryer Pharmaceuticals maintains a major research lab on Denver, while Ageira Technologies has a planetside headquarters to oversee its interests in the system. Liberty Police, Inc. (LPI) is well paid by Colorado’s new elite to handle security.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>DSE have also recently opened large corporate offices on-planet in order to coordinate the construction and operation of the new orbital salvage yards.</TEXT><PARA/><POP/></RDL>
+
+458823
+INFOCARD
+<RDL><PUSH/><TEXT>Ageira Technologies manufacturing facility. Notice: All ships should be aware that Ageira Technologies facilities are protected by private security authorized to use deadly force against any deviation from standard flight procedures.</TEXT><PARA/><POP/></RDL>
+
+458824
+INFOCARD
+<RDL><PUSH/><TEXT>CLASS: Ixion</TEXT><PARA/><TEXT>GRAVITY: Partial</TEXT><PARA/><TEXT>DOCKING: Yes</TEXT><PARA/><TEXT>AMENITIES: Limited</TEXT><PARA/><TEXT>POPULATION: 4K</TEXT><PARA/><POP/></RDL>
+
+
+458825
+INFOCARD
+<RDL><PUSH/><TEXT>CLASS: Tantalus</TEXT><PARA/><TEXT>GRAVITY: Complete</TEXT><PARA/><TEXT>DOCKING: Restricted</TEXT><PARA/><TEXT>AMENITIES: Limited</TEXT><PARA/><TEXT>POPULATION: 800</TEXT><PARA/><POP/></RDL>
+
+458826
+INFOCARD
+<RDL><PUSH/><TEXT>Tamms Text Placeholder</TEXT><PARA/><POP/></RDL>
+
+458827
+INFOCARD
+<RDL><PUSH/><TEXT>CLASS: Unknown</TEXT><PARA/><TEXT>GRAVITY: Partial</TEXT><PARA/><TEXT>DOCKING: Yes</TEXT><PARA/><TEXT>AMENITIES: Unknown</TEXT><PARA/><TEXT>POPULATION: Unknown</TEXT><PARA/><POP/></RDL>
+
+458828
+INFOCARD
+<RDL><PUSH/><TEXT>Ouray Text Placeholder</TEXT><PARA/><POP/></RDL>
