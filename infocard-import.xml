@@ -404,7 +404,7 @@ M-EX1 Drone Mine
 
 477580
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M433 "Drone" Static Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius.</TEXT><PARA/><PARA/><TEXT>* Fired by Drone Static Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EX1 "Drone" Static Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius.</TEXT><PARA/><PARA/><TEXT>* Fired by Drone Static Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475577
 NAME
@@ -412,7 +412,7 @@ M-EX1 Drone Mine
 
 477581
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M433 "Drone" Static Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius. Given its relatively low cost and availability throughout Sirius, this mine dropper is by and large considered to be an old and faithful standby weapon.</TEXT><PARA/><PARA/><TEXT>* Requires Drone Static Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EX1 "Drone" Static Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius. Given its relatively low cost and availability throughout Sirius, this mine dropper is by and large considered to be an old and faithful standby weapon.</TEXT><PARA/><PARA/><TEXT>* Requires Drone Static Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475578
 NAME
@@ -420,7 +420,7 @@ M-EX2 Cutter Mine
 
 477582
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-g "Cutter" Seeking Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>With its reformulated explosive charge and its re-engineered “seeking technology”, the Cutter is an uncompromisingly lethal ordinance.</TEXT><PARA/><PARA/><TEXT>* Fired by Cutter Seeking Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EX2 "Cutter" Seeking Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>With its reformulated explosive charge and its re-engineered “seeking technology”, the Cutter is an uncompromisingly lethal ordinance.</TEXT><PARA/><PARA/><TEXT>* Fired by Cutter Seeking Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475579
 NAME
@@ -428,7 +428,7 @@ M-EX2 Cutter Mine
 
 477583
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-g "Cutter" Seeking Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Based on an entirely new formula, the destructive capacity of the Cutter rivals that of any other standard mine. In addition to this, the “seeking technology” behind the Cutter has been entirely re-engineered, enabling it to now deliver a larger, more accurate and deadlier blow to its target.</TEXT><PARA/><PARA/><TEXT>* Requires Cutter Seeking Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EX2 "Cutter" Seeking Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Based on an entirely new formula, the destructive capacity of the Cutter rivals that of any other standard mine. In addition to this, the “seeking technology” behind the Cutter has been entirely re-engineered, enabling it to now deliver a larger, more accurate and deadlier blow to its target.</TEXT><PARA/><PARA/><TEXT>* Requires Cutter Seeking Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475580
 NAME
@@ -436,7 +436,7 @@ M-EM2 Wardog EMP Mine
 
 477584
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-b "Wardog" Seeking EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the HM-g Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Fired by Wardog Seeking EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EM2 "Wardog" Seeking EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the M-EX2 Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Fired by Wardog Seeking EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475581
 NAME
@@ -444,7 +444,7 @@ M-EM2 Wardog EMP Mine
 
 477585
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-b "Wardog" Seeking EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the HM-g Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Requires Wardog Seeking EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EM2 "Wardog" Seeking EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the M-EX2 Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Requires Wardog Seeking EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475582
 NAME
@@ -452,7 +452,7 @@ M-EM1 Razor EMP Mine
 
 477586
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M468 "Razor" Static EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the HM-b carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Fired by Razor Static EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EM1 "Razor" Static EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the M-EM1 carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Fired by Razor Static EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475583
 NAME
@@ -460,7 +460,7 @@ M-EM1 Razor EMP Mine
 
 477587
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M468 "Razor" Static EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the HM-b carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Requires Razor Static EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EM1 "Razor" Static EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the M-EM1 carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Requires Razor Static EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458772
 NAME
