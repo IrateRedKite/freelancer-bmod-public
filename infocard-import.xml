@@ -1562,14 +1562,3 @@ INFOCARD
 458848
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Va3 "Protector" Very Heavy Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
-
-001521
-NAME
-Auxiliary Gun/Missile
-
-001741
-NAME
-Auxiliary Weapon
-
-000908
-NAME
