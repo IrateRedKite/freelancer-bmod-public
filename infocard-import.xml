@@ -724,111 +724,111 @@ Adv. Protector Fr. Shield
 
 467961
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a "Barrier" Restrained Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-La "Barrier" Restrained Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467962
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a2 "Barrier" Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-La2 "Barrier" Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467963
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a3 "Barrier" Light Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-La3 "Barrier" Light Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467964
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Brigandine" Light Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-La "Brigandine" Light Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467965
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Brigandine" Light Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-La2 "Brigandine" Light Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467966
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Brigandine" Light Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-La3 "Brigandine" Light Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467967
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Protector" Light Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-La "Protector" Light Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467968
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Protector" Light Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-La2 "Protector" Light Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467969
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Protector" Light Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-La3 "Protector" Light Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467970
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a "Barrier" Restrained Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Ha "Barrier" Restrained Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467971
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a2 "Barrier" Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Ha2 "Barrier" Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467972
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a3 "Barrier" Heavy Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Ha3 "Barrier" Heavy Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467973
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Brigandine" Heavy Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Ha "Brigandine" Heavy Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467974
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Brigandine" Heavy Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Ha2 "Brigandine" Heavy Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467975
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Brigandine" Heavy Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Ha3 "Brigandine" Heavy Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467976
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Protector" Heavy Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Ha "Protector" Heavy Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467977
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Protector" Heavy Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Ha2 "Protector" Heavy Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467978
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Protector" Heavy Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Ha3 "Protector" Heavy Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467979
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a "Barrier" Restrained Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Fa "Barrier" Restrained Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467980
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a2 "Barrier" Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Fa2 "Barrier" Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467981
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a3 "Barrier" Freighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Fa3 "Barrier" Freighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467982
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Brigandine" Freighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Fa "Brigandine" Freighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467983
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Brigandine" Freighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Fa2 "Brigandine" Freighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467984
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Brigandine" Freighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Fa3 "Brigandine" Freighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467985
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Protector" Freighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Fa "Protector" Freighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467988
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Protector" Freighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Fa2 "Protector" Freighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467989
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Protector" Freighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Fa3 "Protector" Freighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 468774
 INFOCARD
@@ -1490,3 +1490,75 @@ Light Repeating Tri-Autocannon
 458830
 NAME
 Interdiction Rail
+
+458831
+NAME
+Rstr. Barrier V.H.F. Shield
+
+458832
+NAME
+Barrier V.H.F. Shield
+
+458833
+NAME
+Adv. Barrier V.H.F. Shield
+
+458834
+NAME
+Rstr. Brigandine V.H.F. Shield
+
+458835
+NAME
+Brigandine V.H.F. Shield
+
+458836
+NAME
+Adv. Brigandine V.H.F. Shield
+
+458837
+NAME
+Rstr. Protector V.H.F. Shield
+
+458838
+NAME
+Protector V.H.F. Shield
+
+458839
+NAME
+Adv. Protector V.H.F. Shield
+
+458840
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Va "Barrier" Restrained Very Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458841
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Va2 "Barrier" Very Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458842
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Va3 "Barrier" Very Heavy Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458843
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Va "Brigandine" Very Heavy Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458844
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Va2 "Brigandine" Very Heavy Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458845
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Va3 "Brigandine" Very Heavy Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458846
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Va "Protector" Very Heavy Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458847
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Va2 "Protector" Very Heavy Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458848
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Va3 "Protector" Very Heavy Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
