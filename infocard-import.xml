@@ -1562,3 +1562,11 @@ INFOCARD
 458848
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Va3 "Protector" Very Heavy Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458849
+NAME
+RAC-10
+
+458850
+INFOCARD
+<RDL><PUSH/><TEXT>RAC-10 Placeholder Text</TEXT><PARA/><POP/></RDL>
