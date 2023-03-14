@@ -1578,3 +1578,39 @@ Trapdoor Platform
 458852
 INFOCARD
 <RDL><PUSH/><TEXT>Trapdoor Placeholder Text</TEXT><PARA/><POP/></RDL>
+
+458853
+NAME
+Xenos Fighter
+
+458854
+NAME
+Xenos Freighter
+
+458855
+NAME
+Xenos Heavy Fighter
+
+458856
+NAME
+Marker Buoy
+
+458857
+INFOCARD
+<RDL><PUSH/><TEXT>Scans confirm these are Xenos vessels, though there's no sign of any crew onboard at all. The engines on all these wrecks are burned out from use, as though they'd been pushing past their limits as fast as they could go.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Blast marks around the rear of these ships seem to indicate that they were picked off from behind, though scans fail to match the scorch patterns to any known weapon signatures.</TEXT><PARA/><POP/></RDL>
+
+458858
+INFOCARD
+<RDL><PUSH/><TEXT>The cockpit of this fighter is open, floating nearby as it seems to have been pried open by some kind of energy tool. The seat is still in place, meaning no ejection, but there's no trace of the pilot.</TEXT><PARA/><POP/></RDL>
+
+458859
+INFOCARD
+<RDL><PUSH/><TEXT>The cockpit of this fighter has popped off, floating nearby, and a little further still floats the pilot's seat from an apparent ejection. There's no trace of the pilot. On closer inspection, it appears the seat straps of the ejected chair were cut open by some kind of energy tool.</TEXT><PARA/><POP/></RDL>
+
+458860
+INFOCARD
+<RDL><PUSH/><TEXT>The rear ramp door of this freighter seems to have been cut open by some kind of energy tool, a large hole allowing sight into the cargo bay where numerous generic cargo containers seem to have been cut open in the same kind of way, left completely emptied of whatever they previously held.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Supplies are still left along the bay's walls like fuel, ammo and rations, but there's no trace of any crew at all or anything to hint at the purpose of this ship's last journey.</TEXT><PARA/><POP/></RDL>
+
+458861
+INFOCARD
+<RDL><PUSH/><TEXT>Buoys like this, when not used to denote navigational hazards, are often used by private individuals to mark a location in space they need to remember or return to.</TEXT><PARA/><POP/></RDL>
