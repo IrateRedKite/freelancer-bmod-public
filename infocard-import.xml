@@ -1216,27 +1216,27 @@ Ouray Base
 
 473568
 NAME
-Liberty Police\nTamms Bartender\nPlaceholder Name
+Liberty Police\nTamms Bartender\nChester Robertson
 
 473569
 NAME
-Liberty Police\nTamms Commodity Trader\nPlaceholder Name
+Liberty Police\nTamms Commodity Trader\nTravis Guerrero
 
 473570
 NAME
-Liberty Police\nTamms Equipment Dealer\nPlaceholder Name
+Liberty Police\nTamms Equipment Dealer\nGilbert Wheeler
 
 473571
 NAME
-Xenos\nOuray Bartender\nPlaceholder Name
+Xenos\nOuray Bartender\nRichard York
 
 473572
 NAME
-Xenos\nOuray Commodity Trader\nPlaceholder Name
+Xenos\nOuray Commodity Trader\nKevin Wake
 
 473573
 NAME
-Xenos\nOuray Equipment Dealer\nPlaceholder Name
+Xenos\nOuray Equipment Dealer\nNathan Swindell
 
 471188
 INFOCARD
@@ -1614,3 +1614,7 @@ INFOCARD
 458861
 INFOCARD
 <RDL><PUSH/><TEXT>Buoys like this, when not used to denote navigational hazards, are often used by private individuals to mark a location in space they need to remember or return to.</TEXT><PARA/><POP/></RDL>
+
+458862
+NAME
+Xenos\nOuray Ship Dealer\nWilliam Brown
