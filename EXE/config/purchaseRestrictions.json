@@ -1,0 +1,22 @@
+{
+    "checkItemRestrictions": false,
+    "enforceItemRestrictions": false,
+    "goodItemRestrictions": {
+        "li_gun01_mark02": [
+            "li_gun01_mark03"
+        ]
+    },
+    "goodPurchaseDenied": "You are not authorized to buy this item.",
+    "itemsOfInterest": [
+        "li_gun01_mark01"
+    ],
+    "shipItemRestrictions": {
+        "li_fighter": [
+            "li_gun01_mark03"
+        ]
+    },
+    "shipPurchaseDenied": "You are not authorized to buy this ship.",
+    "unbuyableItems": [
+        "li_gun01_mark01"
+    ]
+}

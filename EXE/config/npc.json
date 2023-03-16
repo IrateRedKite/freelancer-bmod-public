@@ -1,0 +1,53 @@
+{
+    "fleetInfo": {
+        "example": {
+            "member": {
+                "canary_wing": 3
+            },
+            "name": "canary_wing"
+        }
+    },
+    "npcInfo": {
+        "Trent_Example": {
+            "graph": "FIGHTER",
+            "iff": "li_n_grp",
+            "infocard2Id": 197809,
+            "infocardId": 197808,
+            "loadout": "beagle_MP_start_n",
+            "pilot": "bmod_pilot_medium",
+            "shipArch": "ge_fighter"
+        },
+        "canary": {
+            "graph": "FIGHTER",
+            "iff": "fc_x_grp",
+            "infocard2Id": 197810,
+            "infocardId": 197811,
+            "loadout": "fc_x_ge_fighter_loadout01",
+            "pilot": "bmod_pilot_medium",
+            "shipArch": "ge_fighter5"
+        }
+    },
+    "npcInfocardIds": [
+        197808,
+        197809,
+        197810,
+        197811
+    ],
+    "startupNpcs": [
+        {
+            "name": "Trent_Example",
+            "position": [
+                31392.0,
+                0.0,
+                -24857.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "spawnChance": 1.0,
+            "system": "li03"
+        }
+    ]
+}

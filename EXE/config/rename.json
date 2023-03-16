@@ -1,0 +1,10 @@
+{
+    "asciiCharNameOnly": false,
+    "enableMoveChar": false,
+    "enableRename": false,
+    "enableTagProtection": false,
+    "makeTagCost": 2500000,
+    "moveCost": 0,
+    "renameCost": 0,
+    "renameTimeLimit": 0
+}

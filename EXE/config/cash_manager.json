@@ -1,0 +1,12 @@
+{
+    "blockedSystems": [],
+    "cashThreshold": 1800000000,
+    "cheatDetection": false,
+    "depositSurplusOnDock": false,
+    "eraseTransactionsAfterDaysPassed": 365,
+    "maximumTransfer": 0,
+    "minimumTime": 0,
+    "minimumTransfer": 0,
+    "safetyMargin": 0,
+    "transferFee": 0
+}

@@ -1,0 +1,31 @@
+{
+    "GenericFactor": 1.0,
+    "PlayerBonus": [
+        {
+            "Ammo": [
+                "missile01_mark01"
+            ],
+            "Bonus": 0.0,
+            "Items": [
+                "ge_s_battery_01"
+            ],
+            "Loot": "commodity_gold",
+            "Rep": "li_n_grp",
+            "Ships": [
+                "ge_fighter"
+            ]
+        }
+    ],
+    "PluginDebug": 0,
+    "ZoneBonus": [
+        {
+            "Bonus": 0.0,
+            "CurrentReserve": 100000.0,
+            "MaxReserve": 50000.0,
+            "Mined": 0.0,
+            "RechargeRate": 0.0,
+            "ReplacementLoot": "commodity_gold",
+            "Zone": "ExampleZone"
+        }
+    ]
+}
