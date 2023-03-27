@@ -1637,4 +1637,12 @@ Liberty Frigate
 
 458867
 INFOCARD
-<RDL><PUSH/><TEXT>Liberty Frigate Placeholder Description Text</TEXT><PARA/><POP/></RDL>
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>BDD-772 "Bulwark" Liberty Frigate</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>Liberty Frigate Placeholder Text</TEXT><PARA/><POP/></RDL>
+
+458868
+NAME
+Liberty Frigate Engine
+
+458869
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Z Series "Andromeda" Capital Engine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A powerful engine with excellent fuel economy. The Z series engines have been built from the ground up for modular installation on Liberty's capital fleet.</TEXT><PARA/><PARA/><POP/></RDL>
