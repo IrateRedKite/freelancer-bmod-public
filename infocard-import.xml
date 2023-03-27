@@ -1630,3 +1630,11 @@ AS-CM Battery
 458865
 NAME
 AS-CM
+
+458866
+NAME
+Liberty Frigate
+
+458867
+INFOCARD
+<RDL><PUSH/><TEXT>Liberty Frigate Placeholder Description Text</TEXT><PARA/><POP/></RDL>
