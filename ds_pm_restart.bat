@@ -28,7 +28,7 @@ copy "C:\freelancer-escalation\EXE\flserver.log" "C:\Users\Administrator\Desktop
 ::ren "C:\Freelancer Server Management Tools\fl-server-logs\flhook-logs\flhook_admincmds.log" "flhook_admincmds_%time:~0,2%-%time:~3,2%-%time:~6,2%_%date:~-10,2%-%date:~-7,2%-%date:~-4,4%.log"
 
 @echo "Checking for updates at %time:~0,2%:%time:~3,2%:%time:~6,2%."
-cd C:\freelancer-escalation
+cd C:\Users\Administrator\Documents\GitHub\freelancer-escalation
 git pull
 @echo "Finished updating at %time:~0,2%:%time:~3,2%:%time:~6,2%."
 
