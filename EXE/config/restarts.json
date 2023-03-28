@@ -1,6 +1,6 @@
 {
     "availableRestarts": {},
     "enableRestartCost": true,
-    "maxCash": 1000000,
-    "maxRank": 5
+    "maxCash": 100000000,
+    "maxRank": 30
 }
