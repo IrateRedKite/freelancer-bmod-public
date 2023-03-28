@@ -5,7 +5,7 @@
 ::"C:\Freelancer Server Management Tools\DSAccountManager1.4.1\bin\DSAccountManager.exe" -autoclean
 
 @echo "Preserving the server console log at %time:~0,2%:%time:~3,2%:%time:~6,2%."  
-copy "C:\freelancer-escalation\EXE\flserver.log" "C:\Users\Administrator\Desktop\Server Logs\console-logs\flserverconsole_%time:~0,2%-%time:~3,2%-%time:~6,2%_%date:~-10,2%-%date:~-7,2%-%date:~-4,4%.log"
+copy "C:\Users\Administrator\Documents\GitHub\freelancer-escalation\EXE\flserver.log" "C:\Users\Administrator\Desktop\Server Logs\console-logs\flserverconsole_%time:~0,2%-%time:~3,2%-%time:~6,2%_%date:~-10,2%-%date:~-7,2%-%date:~-4,4%.log"
 
 ::@echo "Backing up chat and event logs at %time:~0,2%:%time:~3,2%:%time:~6,2%."  
 ::ROBOCOPY C:\freelancer-escalation\EXE\flhook_logs "C:\Freelancer Server Management Tools\fl-server-logs\chats-and-events" private-chats.log /mov
