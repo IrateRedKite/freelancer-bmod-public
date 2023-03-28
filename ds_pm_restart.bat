@@ -33,9 +33,9 @@ git pull
 @echo "Finished updating at %time:~0,2%:%time:~3,2%:%time:~6,2%."
 
 @echo "Removing console logs older than 1 week at %time:~0,2%:%time:~3,2%:%time:~6,2%."  
-ROBOCOPY "C:\Users\Administrator\Desktop\Server Logs\console-logs\console-logs" C:\logs_old /mov /minage:7
+ROBOCOPY "C:\Users\Administrator\Desktop\Server Logs\console-logs\console-logs" "C:\Users\Administrator\Desktop\Server Logs\logs-old" /mov /minage:7
 ::@echo "Removing FLHook logs older than 1 week at %time:~0,2%:%time:~3,2%:%time:~6,2%."  
 ::ROBOCOPY "C:\Freelancer Server Management Tools\fl-server-logs\flhook-logs" C:\logs_old /mov /minage:7
-del C:\logs_old /q
+del "C:\Users\Administrator\Desktop\Server Logs\logs-old" /q
 
 @echo "Finished at at %time:~0,2%:%time:~3,2%:%time:~6,2% on %date:~-10,2%-%date:~-7,2%-%date:~-4,4%."  
