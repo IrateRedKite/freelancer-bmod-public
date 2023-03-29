@@ -1646,3 +1646,11 @@ Liberty Frigate Engine
 458869
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Z Series "Andromeda" Capital Engine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A powerful engine with excellent fuel economy. The Z series engines have been built from the ground up for modular installation on Liberty's capital fleet.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458870
+NAME
+RAC-10 Shell
+
+458871
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>RAC-10 Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Shells for a rotary autocannon. These shells are tiny, and designed to be belt-fed into a rapidly spinning autocannon, but still pack a considerable punch.</TEXT><PARA/><PARA/><POP/></RDL>
