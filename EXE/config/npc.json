@@ -46,7 +46,7 @@
                 0.0,
                 0.0
             ],
-            "spawnChance": 1.0,
+            "spawnChance": 0.0,
             "system": "li03"
         }
     ]
