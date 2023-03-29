@@ -12,6 +12,7 @@ EXE/logs
 *.log
 
 #Misc
+*-fl.ini
 *.lnk
 *.bak
 *.vscode
