@@ -1,0 +1,7 @@
+{
+    "defaultHuntTime": 30,
+    "enableBountyHunt": true,
+    "levelProtect": 0,
+    "maximumHuntTime": 240,
+    "minimalHuntTime": 1
+}

@@ -1,0 +1,21 @@
+{
+    "CargoMissions": {
+        "Example": {
+            "base": "li01_01_base",
+            "current_amount": 0,
+            "item": "commodity_gold",
+            "nickname": "Example",
+            "required_amount": 99
+        }
+    },
+    "NpcMissions": {
+        "Example": {
+            "current_amount": 0,
+            "nickname": "Example",
+            "reputation": "fc_lr_grp",
+            "required_amount": 99,
+            "sector": "D-6",
+            "system": "li01"
+        }
+    }
+}

@@ -6,12 +6,13 @@ TOOLS/
 #Logging
 FLSpew.txt
 EXE/flhook_logs
-EXE/config
+#EXE/config
 EXE/EXPORTS
 EXE/logs
 *.log
 
 #Misc
+*-fl.ini
 *.lnk
 *.bak
 *.vscode

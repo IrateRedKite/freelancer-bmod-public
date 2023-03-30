@@ -404,7 +404,7 @@ M-EX1 Drone Mine
 
 477580
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M433 "Drone" Static Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius.</TEXT><PARA/><PARA/><TEXT>* Fired by Drone Static Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EX1 "Drone" Static Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius.</TEXT><PARA/><PARA/><TEXT>* Fired by Drone Static Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475577
 NAME
@@ -412,7 +412,7 @@ M-EX1 Drone Mine
 
 477581
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M433 "Drone" Static Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius. Given its relatively low cost and availability throughout Sirius, this mine dropper is by and large considered to be an old and faithful standby weapon.</TEXT><PARA/><PARA/><TEXT>* Requires Drone Static Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EX1 "Drone" Static Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Drone is simple and effective, detonating and eviscerating its targets within a respectable kill radius. Given its relatively low cost and availability throughout Sirius, this mine dropper is by and large considered to be an old and faithful standby weapon.</TEXT><PARA/><PARA/><TEXT>* Requires Drone Static Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475578
 NAME
@@ -420,7 +420,7 @@ M-EX2 Cutter Mine
 
 477582
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-g "Cutter" Seeking Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>With its reformulated explosive charge and its re-engineered “seeking technology”, the Cutter is an uncompromisingly lethal ordinance.</TEXT><PARA/><PARA/><TEXT>* Fired by Cutter Seeking Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EX2 "Cutter" Seeking Explosive Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>With its reformulated explosive charge and its re-engineered “seeking technology”, the Cutter is an uncompromisingly lethal ordinance.</TEXT><PARA/><PARA/><TEXT>* Fired by Cutter Seeking Explosive Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475579
 NAME
@@ -428,7 +428,7 @@ M-EX2 Cutter Mine
 
 477583
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-g "Cutter" Seeking Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Based on an entirely new formula, the destructive capacity of the Cutter rivals that of any other standard mine. In addition to this, the “seeking technology” behind the Cutter has been entirely re-engineered, enabling it to now deliver a larger, more accurate and deadlier blow to its target.</TEXT><PARA/><PARA/><TEXT>* Requires Cutter Seeking Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EX2 "Cutter" Seeking Explosive Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Based on an entirely new formula, the destructive capacity of the Cutter rivals that of any other standard mine. In addition to this, the “seeking technology” behind the Cutter has been entirely re-engineered, enabling it to now deliver a larger, more accurate and deadlier blow to its target.</TEXT><PARA/><PARA/><TEXT>* Requires Cutter Seeking Explosive Mine.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475580
 NAME
@@ -436,7 +436,7 @@ M-EM2 Wardog EMP Mine
 
 477584
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-b "Wardog" Seeking EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the HM-g Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Fired by Wardog Seeking EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EM2 "Wardog" Seeking EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the M-EX2 Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Fired by Wardog Seeking EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475581
 NAME
@@ -444,7 +444,7 @@ M-EM2 Wardog EMP Mine
 
 477585
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HM-b "Wardog" Seeking EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the HM-g Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Requires Wardog Seeking EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EM2 "Wardog" Seeking EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Utilizing the high-quality seeking technology of the M-EX2 Cutter Mine, the Wardog has had it’s payload stripped out and replaced with a sophisticated EMP system designed to cripple any ship unfortunate enough to run into it.</TEXT><PARA/><PARA/><TEXT>* Requires Wardog Seeking EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475582
 NAME
@@ -452,7 +452,7 @@ M-EM1 Razor EMP Mine
 
 477586
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M468 "Razor" Static EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the HM-b carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Fired by Razor Static EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EM1 "Razor" Static EMP Mine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the M-EM1 carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Fired by Razor Static EMP Mine Dropper.</TEXT><PARA/><PARA/><POP/></RDL>
 
 475583
 NAME
@@ -460,7 +460,7 @@ M-EM1 Razor EMP Mine
 
 477587
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M468 "Razor" Static EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the HM-b carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Requires Razor Static EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-EM1 "Razor" Static EMP Mine Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Lacking any real guidance systems or seeking technology, the M-EM1 carries a maximized EMP payload. It is generally considered to be a reliable and non-lethal option for deterring attacks on freighters carrying valuable cargo.</TEXT><PARA/><PARA/><TEXT>* Requires Razor Static EMP Mine.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458772
 NAME
@@ -724,111 +724,111 @@ Adv. Protector Fr. Shield
 
 467961
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a "Barrier" Restrained Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-La "Barrier" Restrained Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467962
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a2 "Barrier" Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-La2 "Barrier" Light Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467963
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a3 "Barrier" Light Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-La3 "Barrier" Light Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467964
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Brigandine" Light Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-La "Brigandine" Light Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467965
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Brigandine" Light Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-La2 "Brigandine" Light Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467966
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Brigandine" Light Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-La3 "Brigandine" Light Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467967
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Protector" Light Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-La "Protector" Light Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467968
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Protector" Light Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-La2 "Protector" Light Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467969
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Protector" Light Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-La3 "Protector" Light Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Light Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467970
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a "Barrier" Restrained Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Ha "Barrier" Restrained Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467971
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a2 "Barrier" Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Ha2 "Barrier" Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467972
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a3 "Barrier" Heavy Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Ha3 "Barrier" Heavy Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467973
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Brigandine" Heavy Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Ha "Brigandine" Heavy Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467974
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Brigandine" Heavy Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Ha2 "Brigandine" Heavy Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467975
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Brigandine" Heavy Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Ha3 "Brigandine" Heavy Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467976
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Protector" Heavy Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Ha "Protector" Heavy Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467977
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Protector" Heavy Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Ha2 "Protector" Heavy Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467978
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Protector" Heavy Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Ha3 "Protector" Heavy Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467979
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a "Barrier" Restrained Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Fa "Barrier" Restrained Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467980
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a2 "Barrier" Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Fa2 "Barrier" Freighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467981
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-a3 "Barrier" Freighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Fa3 "Barrier" Freighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467982
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Brigandine" Freighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Fa "Brigandine" Freighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467983
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Brigandine" Freighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Fa2 "Brigandine" Freighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467984
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Brigandine" Freighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Fa3 "Brigandine" Freighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467985
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a "Protector" Freighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Fa "Protector" Freighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467988
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-a2 "Protector" Freighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Fa2 "Protector" Freighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 467989
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-b "Protector" Freighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Fa3 "Protector" Freighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Freighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
 
 468774
 INFOCARD
@@ -1212,31 +1212,31 @@ LPI Alcatraz
 
 469182
 NAME
-Aspen Base
+Ouray Base
 
 473568
 NAME
-Liberty Police\nTamms Bartender\nPlaceholder Name
+Liberty Police\nTamms Bartender\nChester Robertson
 
 473569
 NAME
-Liberty Police\nTamms Commodity Trader\nPlaceholder Name
+Liberty Police\nTamms Commodity Trader\nTravis Guerrero
 
 473570
 NAME
-Liberty Police\nTamms Equipment Dealer\nPlaceholder Name
+Liberty Police\nTamms Equipment Dealer\nGilbert Wheeler
 
 473571
 NAME
-Lane Hackers\nAspen Bartender\nPlaceholder Name
+Xenos\nOuray Bartender\nRichard York
 
 473572
 NAME
-Lane Hackers\nAspen Commodity Trader\nPlaceholder Name
+Xenos\nOuray Commodity Trader\nKevin Wake
 
 473573
 NAME
-Lane Hackers\nAspen Equipment Dealer\nPlaceholder Name
+Xenos\nOuray Equipment Dealer\nNathan Swindell
 
 471188
 INFOCARD
@@ -1341,3 +1341,336 @@ Dual Heavy Pulse Cannon
 458793
 NAME
 Flak Payload
+
+458794
+NAME
+Buzzard RAC-FR
+
+458795
+NAME
+Railgun Cruise Disruptor Turret
+
+458796
+NAME
+Cruise Disruptor Slug
+
+458797
+NAME
+Swarmer SRM6
+
+458798
+NAME
+Swarmer Missile
+
+458799
+NAME
+Cruise Disruptor
+
+458800
+NAME
+Cruise Disruptor Missile Turret
+
+458801
+NAME
+HAC-FR Turret
+
+458802
+NAME
+Railgun Slug
+
+458803
+NAME
+RG-FR Turret
+
+458804
+NAME
+ASM-FR Missile
+
+458805
+NAME
+ASM-FR Launcher
+
+458806
+NAME
+AAM-FR Missile
+
+458807
+NAME
+AAM-FR Launcher
+
+458808
+NAME
+AAT-FR Torpedo
+
+458809
+NAME
+AAT-FR Launcher
+
+458810
+NAME
+Anti-Fighter Close Defense Ballistic Turret
+
+458811
+NAME
+Rattler
+
+458812
+NAME
+Independence
+
+458813
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 8/0/0</TEXT><PARA/><TEXT>Armor: 60000</TEXT><PARA/><TEXT>Cargo Space: 350</TEXT><PARA/><TEXT>Mass: 750t</TEXT><PARA/><TEXT>Maximum Weapon Class: 1</TEXT><PARA/><TEXT>Additional Equipment: M, CM</TEXT><PARA/><POP/></RDL>
+
+458814
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>EL-HiL27 "Rattler Rhino" Liberty Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>With the economic foundation of Sirius firmly built on Liberty’s commercial interests, the Rhino certainly lives up to its name. The vast cargo hold is the hallmark of this impressive beast, surrounded by doubly reinforced structure and protective armor hull. This and the advanced weapon system make the Rhino a force to be reckoned with.</TEXT><PARA/><POP/></RDL>
+
+458815
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>8/0/0</TEXT><PARA/><TEXT>60000</TEXT><PARA/><TEXT>350</TEXT><PARA/><TEXT>750t</TEXT><PARA/><TEXT>1</TEXT><PARA/><TEXT>M, CM</TEXT><PARA/><POP/></RDL>
+
+458816
+INFOCARD
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 2/6/0</TEXT><PARA/><TEXT>Armor: 60000</TEXT><PARA/><TEXT>Cargo Space: 350</TEXT><PARA/><TEXT>Mass: 750t</TEXT><PARA/><TEXT>Maximum Weapon Class: 1</TEXT><PARA/><TEXT>Additional Equipment: M, CM</TEXT><PARA/><POP/></RDL>
+
+458817
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>EL-HiL-M2 "Independence" Liberty Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The M2-Independence is a heavily modified Rhino freighter used by the Xenos as a makeshift frigate. The cargo holds have been torn out and replaced with missile racks, additional armor plating has been bolted onto the hull, and the engines have had their saftey overrides removed.</TEXT><PARA/><POP/></RDL>
+
+458818
+INFOCARD
+<RDL><PUSH/><PARA/><PARA/><TEXT>2/6/0</TEXT><PARA/><TEXT>60000</TEXT><PARA/><TEXT>50</TEXT><PARA/><TEXT>750t</TEXT><PARA/><TEXT>1</TEXT><PARA/><TEXT>M, CM</TEXT><PARA/><POP/></RDL>
+
+458819
+NAME
+Aurora Salvage Yards
+
+458820
+INFOCARD
+<RDL><PUSH/><TEXT>The Aurora Salvage Yards were quickly assembled in the aftermath of the Texas catastrophe in an effort to try and resolve the Liberty Navy's ship and equipment deficits. Several hulks have already been moved in from Houston and DSE have quickly begun stripping them down for parts that can be used to repair and maintain existing ships.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>The station reportedly employs the use of prison labour shipped in from planet-side facilities on Denver. However, DSE have been tight-lipped on the matter, and the Navy have zealously enforced the station's docking restrictions, denying anyone without direction affiliation access and shutting down all civilian requests for investigations.</TEXT><PARA/><POP/></RDL>
+
+458821
+INFOCARD
+<RDL><PUSH/><TEXT>Constructed in 777 AS, the Battleship </TEXT><TRA italic="true"/><TEXT>Rio Grande</TEXT><TRA italic="false"/><TEXT>  became famous in the 792 AS campaign against the Xenos in the Hudson System.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>One of the few intact battleships remaining after the Texas catastrophe, the </TEXT><TRA italic="true"/><TEXT>Rio Grande</TEXT><TRA italic="false"/><TEXT> was stationed in orbit of Denver to ensure that the Xenos were unable to seriously interfere with the construction of the Aurora Salvage Yards. The battleship is currently commanded by Captain John Palmer.</TEXT><PARA/><POP/></RDL>
+
+458822
+INFOCARD
+<RDL><PUSH/><TEXT>Denver was originally the home of miners, smelters, and shipyard workers, but these industries eventually collapsed in 600 AS. With the declining long-term water situation in the California System, however, the wealthy elite of Los Angeles began to look elsewhere for a vacation spot and found Denver’s rough, beautiful vistas to be ideal. Emigration from Los Angeles and Manhattan injected new life into the Denver economy, reviving the planet even as the new upper-class assumed control of the local government. Today Cryer Pharmaceuticals maintains a major research lab on Denver, while Ageira Technologies has a planetside headquarters to oversee its interests in the system. Liberty Police, Inc. (LPI) is well paid by Colorado’s new elite to handle security.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>DSE have also recently opened large corporate offices on-planet in order to coordinate the construction and operation of the new orbital salvage yards.</TEXT><PARA/><POP/></RDL>
+
+458823
+INFOCARD
+<RDL><PUSH/><TEXT>Ageira Technologies manufacturing facility. Notice: All ships should be aware that Ageira Technologies facilities are protected by private security authorized to use deadly force against any deviation from standard flight procedures.</TEXT><PARA/><POP/></RDL>
+
+458824
+INFOCARD
+<RDL><PUSH/><TEXT>CLASS: Phlegyas</TEXT><PARA/><TEXT>GRAVITY: Partial</TEXT><PARA/><TEXT>DOCKING: Yes</TEXT><PARA/><TEXT>AMENITIES: Limited</TEXT><PARA/><TEXT>POPULATION: 4K</TEXT><PARA/><POP/></RDL>
+
+
+458825
+INFOCARD
+<RDL><PUSH/><TEXT>CLASS: Tantalus</TEXT><PARA/><TEXT>GRAVITY: Complete</TEXT><PARA/><TEXT>DOCKING: Restricted</TEXT><PARA/><TEXT>AMENITIES: Limited</TEXT><PARA/><TEXT>POPULATION: 800</TEXT><PARA/><POP/></RDL>
+
+458826
+INFOCARD
+<RDL><PUSH/><TEXT>Tamms Text Placeholder</TEXT><PARA/><POP/></RDL>
+
+458827
+INFOCARD
+<RDL><PUSH/><TEXT>CLASS: Unknown</TEXT><PARA/><TEXT>GRAVITY: Partial</TEXT><PARA/><TEXT>DOCKING: Yes</TEXT><PARA/><TEXT>AMENITIES: Unknown</TEXT><PARA/><TEXT>POPULATION: Unknown</TEXT><PARA/><POP/></RDL>
+
+458828
+INFOCARD
+<RDL><PUSH/><TEXT>Ouray Text Placeholder</TEXT><PARA/><POP/></RDL>
+
+458829
+NAME
+Light Repeating Tri-Autocannon
+
+458830
+NAME
+Interdiction Rail
+
+458831
+NAME
+Rstr. Barrier V.H.F. Shield
+
+458832
+NAME
+Barrier V.H.F. Shield
+
+458833
+NAME
+Adv. Barrier V.H.F. Shield
+
+458834
+NAME
+Rstr. Brigandine V.H.F. Shield
+
+458835
+NAME
+Brigandine V.H.F. Shield
+
+458836
+NAME
+Adv. Brigandine V.H.F. Shield
+
+458837
+NAME
+Rstr. Protector V.H.F. Shield
+
+458838
+NAME
+Protector V.H.F. Shield
+
+458839
+NAME
+Adv. Protector V.H.F. Shield
+
+458840
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Va "Barrier" Restrained Very Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has reduced power draw and is specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458841
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Va2 "Barrier" Very Heavy Fighter Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458842
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SM-Va3 "Barrier" Very Heavy Fighter Advanced Molecular Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a molecular-based shield that provides improved capacity at the cost of regeneration rate and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458843
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Va "Brigandine" Very Heavy Fighter Restrained Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has reduced power draw and is specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458844
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Va2 "Brigandine" Very Heavy Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458845
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Va3 "Brigandine" Very Heavy Fighter Advanced Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been overclocked and draws additional power. It is specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458846
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Va "Protector" Very Heavy Fighter Restrained Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has reduced power draw and is specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458847
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Va2 "Protector" Very Heavy Fighter Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458848
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SG-Va3 "Protector" Very Heavy Fighter Advanced Graviton Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a graviton-based shield that provides greatly improved rebuild time at the cost of regeneration rate and capacity. This model has been overclocked and draws additional power. It is specifically designed for Very Heavy Fighter class ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458849
+NAME
+RAC-10
+
+458850
+INFOCARD
+<RDL><PUSH/><TEXT>RAC-10 Placeholder Text</TEXT><PARA/><POP/></RDL>
+
+458851
+NAME
+Trapdoor Platform
+
+458852
+INFOCARD
+<RDL><PUSH/><TEXT>Trapdoor Placeholder Text</TEXT><PARA/><POP/></RDL>
+
+458853
+NAME
+Xenos Fighter
+
+458854
+NAME
+Xenos Freighter
+
+458855
+NAME
+Xenos Heavy Fighter
+
+458856
+NAME
+Marker Buoy
+
+458857
+INFOCARD
+<RDL><PUSH/><TEXT>Scans confirm these are Xenos vessels, though there's no sign of any crew onboard at all. The engines on all these wrecks are burned out from use, as though they'd been pushing past their limits as fast as they could go.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Blast marks around the rear of these ships seem to indicate that they were picked off from behind, though scans fail to match the scorch patterns to any known weapon signatures.</TEXT><PARA/><POP/></RDL>
+
+458858
+INFOCARD
+<RDL><PUSH/><TEXT>The cockpit of this fighter is open, floating nearby as it seems to have been pried open by some kind of energy tool. The seat is still in place, meaning no ejection, but there's no trace of the pilot.</TEXT><PARA/><POP/></RDL>
+
+458859
+INFOCARD
+<RDL><PUSH/><TEXT>The cockpit of this fighter has popped off, floating nearby, and a little further still floats the pilot's seat from an apparent ejection. There's no trace of the pilot. On closer inspection, it appears the seat straps of the ejected chair were cut open by some kind of energy tool.</TEXT><PARA/><POP/></RDL>
+
+458860
+INFOCARD
+<RDL><PUSH/><TEXT>The rear ramp door of this freighter seems to have been cut open by some kind of energy tool, a large hole allowing sight into the cargo bay where numerous generic cargo containers seem to have been cut open in the same kind of way, left completely emptied of whatever they previously held.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Supplies are still left along the bay's walls like fuel, ammo and rations, but there's no trace of any crew at all or anything to hint at the purpose of this ship's last journey.</TEXT><PARA/><POP/></RDL>
+
+458861
+INFOCARD
+<RDL><PUSH/><TEXT>Buoys like this, when not used to denote navigational hazards, are often used by private individuals to mark a location in space they need to remember or return to.</TEXT><PARA/><POP/></RDL>
+
+458862
+NAME
+Xenos\nOuray Ship Dealer\nWilliam Brown
+
+458863
+NAME
+Kinetic Artillery Cannon
+
+458864
+NAME
+AS-CM Battery
+
+458865
+NAME
+AS-CM
+
+458866
+NAME
+Liberty Frigate
+
+458867
+INFOCARD
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>BDD-772 "Bulwark" Liberty Frigate</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>Liberty Frigate Placeholder Text</TEXT><PARA/><POP/></RDL>
+
+458868
+NAME
+Liberty Frigate Engine
+
+458869
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Z Series "Andromeda" Capital Engine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A powerful engine with excellent fuel economy. The Z series engines have been built from the ground up for modular installation on Liberty's capital fleet.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458870
+NAME
+RAC-10 Shell
+
+458871
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>RAC-10 Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Shells for a rotary autocannon. These shells are tiny, and designed to be belt-fed into a rapidly spinning autocannon, but still pack a considerable punch.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458872
+NAME
+Rookie
+
+458873
+NAME
+Pilot
+
+458874
+NAME
+Veteran
+
+458875
+NAME
+Elite
+
+458876
+NAME
+Ace

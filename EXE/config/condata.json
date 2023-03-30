@@ -1,0 +1,12 @@
+{
+    "allowPing": true,
+    "fluctKick": 0,
+    "kickThreshold": 0,
+    "lagDetectionFrame": 50,
+    "lagDetectionMin": 50,
+    "lagKick": 0,
+    "lossKick": 0,
+    "lossKickFrame": 120,
+    "pingKick": 0,
+    "pingKickFrame": 120
+}

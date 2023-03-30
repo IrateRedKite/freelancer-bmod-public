@@ -1,0 +1,11 @@
+{
+    "cannotPay": "This rogue isn't interested in money. Run for cover, they want to kill you!",
+    "customColor": 9498256,
+    "customFormat": 144,
+    "huntingMessage": "You are being hunted by {}. Run for cover, they want to kill you!",
+    "huntingMessageOriginator": "Good luck hunting {} !",
+    "killDisconnectingPlayers": true,
+    "maxTax": 300,
+    "minplaytimeSec": 0,
+    "taxRequestReceived": "You have received a tax request: Pay {} credits to {}! Type \"/pay\" to pay the tax."
+}
