@@ -1654,3 +1654,23 @@ RAC-10 Shell
 458871
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>RAC-10 Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Shells for a rotary autocannon. These shells are tiny, and designed to be belt-fed into a rapidly spinning autocannon, but still pack a considerable punch.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458872
+NAME
+Rookie
+
+458873
+NAME
+Pilot
+
+458874
+NAME
+Veteran
+
+458875
+NAME
+Elite
+
+458876
+NAME
+Ace
