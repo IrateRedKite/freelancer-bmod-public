@@ -1698,3 +1698,31 @@ Repair Gun
 458882
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Repair Gun</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for a Repair Gun.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458883
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Anti-Fighter Close Defense Ballistic Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for Anti-Fighter Close Defense Ballistic Turret.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458884
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Buzzard" RAC-FR</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for Buzzard RAC-FR.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458885
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HAC-FR Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for HAC FR Turret.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458886
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>RG-FR Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for RG-FR Turret.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458887
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>ASM-FR Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info forASM-FR Turret.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458888
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>AAM-FR Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for AAM-FR Turret.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458889
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>AAT-FR Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for AAT-FR Turret.</TEXT><PARA/><PARA/><POP/></RDL>
