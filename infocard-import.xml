@@ -856,27 +856,27 @@ INFOCARD
 
 468780
 INFOCARD
-<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 2/1/1</TEXT><PARA/><TEXT>Armor: 7500</TEXT><PARA/><TEXT>Cargo Space: 25</TEXT><PARA/><TEXT>Mass: 150t</TEXT><PARA/><TEXT>Maximum Weapon Class: 3</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 3/1/0</TEXT><PARA/><TEXT>Armor: 7500</TEXT><PARA/><TEXT>Cargo Space: 25</TEXT><PARA/><TEXT>Mass: 150t</TEXT><PARA/><TEXT>Maximum Weapon Class: 3</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
 
 468781
 INFOCARD
-<RDL><PUSH/><PARA/><PARA/><TEXT>2/1/1</TEXT><PARA/><TEXT>7500</TEXT><PARA/><TEXT>25</TEXT><PARA/><TEXT>150t</TEXT><PARA/><TEXT>3</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><PARA/><PARA/><TEXT>3/1/0</TEXT><PARA/><TEXT>7500</TEXT><PARA/><TEXT>25</TEXT><PARA/><TEXT>150t</TEXT><PARA/><TEXT>3</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
 
 468782
 INFOCARD
-<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/1/1</TEXT><PARA/><TEXT>Armor: 15000</TEXT><PARA/><TEXT>Cargo Space: 45</TEXT><PARA/><TEXT>Mass: 300t</TEXT><PARA/><TEXT>Maximum Weapon Class: 4</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 4/1/1</TEXT><PARA/><TEXT>Armor: 15000</TEXT><PARA/><TEXT>Cargo Space: 45</TEXT><PARA/><TEXT>Mass: 150t</TEXT><PARA/><TEXT>Maximum Weapon Class: 4</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
 
 468783
 INFOCARD
-<RDL><PUSH/><PARA/><PARA/><TEXT>4/1/1</TEXT><PARA/><TEXT>15000</TEXT><PARA/><TEXT>45</TEXT><PARA/><TEXT>300t</TEXT><PARA/><TEXT>4</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><PARA/><PARA/><TEXT>4/1/1</TEXT><PARA/><TEXT>15000</TEXT><PARA/><TEXT>45</TEXT><PARA/><TEXT>150t</TEXT><PARA/><TEXT>4</TEXT><PARA/><TEXT>M, CM, CD, T</TEXT><PARA/><POP/></RDL>
 
 468784
 INFOCARD
-<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 5/2/1</TEXT><PARA/><TEXT>Armor: 25000</TEXT><PARA/><TEXT>Cargo Space: 65</TEXT><PARA/><TEXT>Mass: 500t</TEXT><PARA/><TEXT>Maximum Weapon Class: 5</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><PARA/><JUST loc="c"/><TRA bold="true"/><TEXT>Stats</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Primary/Missile/Aux Mounts: 5/2/1</TEXT><PARA/><TEXT>Armor: 25000</TEXT><PARA/><TEXT>Cargo Space: 65</TEXT><PARA/><TEXT>Mass: 300t</TEXT><PARA/><TEXT>Maximum Weapon Class: 5</TEXT><PARA/><TEXT>Additional Equipment: M, CM, CD</TEXT><PARA/><POP/></RDL>
 
 468785
 INFOCARD
-<RDL><PUSH/><PARA/><PARA/><TEXT>5/2/1</TEXT><PARA/><TEXT>25000</TEXT><PARA/><TEXT>65</TEXT><PARA/><TEXT>500t</TEXT><PARA/><TEXT>5</TEXT><PARA/><TEXT>M, CM, CD</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><PARA/><PARA/><TEXT>5/2/1</TEXT><PARA/><TEXT>25000</TEXT><PARA/><TEXT>65</TEXT><PARA/><TEXT>300t</TEXT><PARA/><TEXT>5</TEXT><PARA/><TEXT>M, CM, CD, T</TEXT><PARA/><POP/></RDL>
 
 468786
 INFOCARD
