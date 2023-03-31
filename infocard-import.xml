@@ -1674,3 +1674,27 @@ Elite
 458876
 NAME
 Ace
+
+458877
+NAME
+Small Blaster Turret
+
+458878
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Small Blaster Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for a Small Blaster Turret.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458879
+NAME
+Medium Blaster Turret
+
+458880
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Medium Blaster Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for a Medium Blaster Turret.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458881
+NAME
+Repair Gun
+
+458882
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Repair Gun</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for a Repair Gun.</TEXT><PARA/><PARA/><POP/></RDL>
