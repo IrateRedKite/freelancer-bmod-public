@@ -1726,3 +1726,15 @@ INFOCARD
 458889
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>AAT-FR Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for AAT-FR Turret.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458890
+NAME
+Utility-Class Engine
+
+458891
+NAME
+Watchdog Turret
+
+458892
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LQZ "Watchdog" Standard Transport Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The watchdog is a low-cost, low-power turret typically mounted on civilian transports as a deterrent against petty thieves and pirates.</TEXT><PARA/><PARA/><POP/></RDL>
