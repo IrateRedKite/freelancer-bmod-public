@@ -6,14 +6,14 @@
                 "x_falcon": 2,
                 "x_eagle": 1,
                 "x_rhino": 2
-            },
-            "l_attack_group": {
-                "member": {
-                    "l_patriot": 4,
-                    "l_defender": 4,
-                    "l_guardian": 2
-                },
-            "name": "x_attack_1"
+            }
+        },
+        "l_attack_group": {
+            "member": {
+                "l_patriot": 6,
+                "l_defender": 4,
+                "l_guardian": 2
+            }
         }
     },
     "npcInfo": {
