@@ -20,7 +20,7 @@
         "x_hawk": {
             "graph": "FIGHTER",
             "iff": "fc_x_grp",
-            "infocard2Id": 47034,
+            "infocard2Id": 197090,
             "infocardId": 923,
             "loadout": "bmod_ge_fighter4_co_me_grp_veteran",
             "pilot": "bmod_pilot_medium",
@@ -29,7 +29,7 @@
         "x_falcon": {
             "graph": "FIGHTER",
             "iff": "fc_x_grp",
-            "infocard2Id": 47034,
+            "infocard2Id": 197090,
             "infocardId": 924,
             "loadout": "bmod_ge_fighter5_co_me_grp_veteran",
             "pilot": "bmod_pilot_medium",
@@ -38,7 +38,7 @@
         "x_eagle": {
             "graph": "FIGHTER",
             "iff": "fc_x_grp",
-            "infocard2Id": 47034,
+            "infocard2Id": 197090,
             "infocardId": 926,
             "loadout": "bmod_ge_fighter6_co_me_grp_veteran",
             "pilot": "bmod_pilot_medium",
@@ -47,7 +47,7 @@
         "x_rhino": {
             "graph": "FIGHTER",
             "iff": "fc_x_grp",
-            "infocard2Id": 47034,
+            "infocard2Id": 197090,
             "infocardId": 925,
             "loadout": "bmod_li_freighter_x_02_fc_x_grp_veteran",
             "pilot": "bmod_gunboat_pilot_medium_artillery",
@@ -56,7 +56,7 @@
         "l_patriot": {
             "graph": "FIGHTER",
             "iff": "li_n_grp",
-            "infocard2Id": 47001,
+            "infocard2Id": 197090,
             "infocardId": 923,
             "loadout": "bmod_li_fighter_li_n_grp_veteran",
             "pilot": "bmod_pilot_medium",
@@ -65,7 +65,7 @@
         "l_defender": {
             "graph": "FIGHTER",
             "iff": "li_n_grp",
-            "infocard2Id": 47001,
+            "infocard2Id": 197090,
             "infocardId": 924,
             "loadout": "bmod_li_elite_li_n_grp_veteran",
             "pilot": "bmod_pilot_medium",
@@ -74,7 +74,7 @@
         "l_guardian": {
             "graph": "FIGHTER",
             "iff": "li_n_grp",
-            "infocard2Id": 47001,
+            "infocard2Id": 197090,
             "infocardId": 926,
             "loadout": "bmod_li_elite2_li_n_grp_veteran",
             "pilot": "bmod_pilot_medium",
