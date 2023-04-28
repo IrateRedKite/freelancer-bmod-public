@@ -69,6 +69,8 @@ house = 0, fc_f_grp
 house = 0, gd_im_grp
 house = 0, gd_z_grp
 house = 0, gd_bh_grp
+house = 0, bmod_fc_fl_grp_lawful
+house = -0.65, bmod_fc_fl_grp_unlawful
 
 visit = 2208796239,1    ;Li01
 visit = 2745692751,1	;Li02
@@ -84,5 +86,7 @@ visit = 21524,65        ;co_vr_grp
 visit = 36813,65        ;fc_x_grp
 visit = 57826,65        ;fc_j_grp
 visit = 28402,65        ;fc_lr_grp
+visit = 22644,192       ;bmod_fc_fl_grp_unlawful
+visit = 23253,192       ;bmod_fc_fl_grp_lawful
 
 %%PACKAGE%%
