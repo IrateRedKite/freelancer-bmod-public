@@ -1770,3 +1770,52 @@ M-ER7 Nanite Burster
 458900
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-ER7 Basic Repair Burst Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Basic Repair Mine Launcher Placeholder</TEXT><PARA/><PARA/><TEXT>* Requires M-ER7 Basic Repair Burst Charge.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458901
+NAME
+Scorpion(-)
+
+458902
+NAME
+Scorpion(+)
+
+458903
+NAME
+Tarantula(-)
+
+458904
+NAME
+Tarantula(+)
+
+458905
+NAME
+Lavablade(-)
+
+458906
+NAME
+Lavablade(+)
+
+458907
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Xeno "Scorpion" Particle Cannon(-)</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458908
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Xeno "Scorpion" Particle Cannon(+)</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458909
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Xeno "Tarantula" Particle Cannon(-)</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+
+458910
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Xeno "Tarantula" Particle Cannon(+)</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458911
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>N5-A "Lavablade" Liberty Plasma Cannon(-)</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon produced by the Liberty Navy. Liberty weapons typically have higher velocity projectiles at the cost of energy efficiency.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458912
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>N5-A "Lavablade" Liberty Plasma Cannon(+)</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon produced by the Liberty Navy. Liberty weapons typically have higher velocity projectiles at the cost of energy efficiency.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
