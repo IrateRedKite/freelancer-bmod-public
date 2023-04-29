@@ -1858,19 +1858,19 @@ Outlaw
 
 458922
 NAME
-Small Laser
+S Laser
 
 458923
 NAME
-Medium Laser
+M Laser
 
 458924
 NAME
-Large Laser
+L Laser
 
 458925
 NAME
-Machine Gun
+MG
 
 458926
 INFOCARD
@@ -1886,12 +1886,12 @@ INFOCARD
 
 458929
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Machine Gun Placeholder</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Machine Gun Placeholder Text.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Machinegun Placeholder</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Machine Gun Placeholder Text.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458930
 NAME
-Machine Gun Shell
+MG Ammo
 
 458931
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Machine Gun Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Machine Gun Shell Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Machinegun Ammo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Machinegun Ammo Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
