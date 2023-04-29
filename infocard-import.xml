@@ -1895,3 +1895,7 @@ MG Ammo
 458931
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Machinegun Ammo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Machinegun Ammo Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458932
+NAME
+Bounty: Xenos Gunship Freighter
