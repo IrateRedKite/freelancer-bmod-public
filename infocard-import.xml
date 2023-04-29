@@ -1855,3 +1855,35 @@ Freelancer
 458921
 NAME
 Outlaw
+
+458922
+NAME
+Small Laser
+
+458923
+NAME
+Medium Laser
+
+458924
+NAME
+Large Laser
+
+458925
+NAME
+Machine Gun
+
+458926
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Small Laser Placeholder</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Small Laser Placeholder Text.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458927
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Medium Laser Placeholder</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Medium Laser Placeholder Text.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458928
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Large Laser Placeholder</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Large Laser Placeholder Text.</TEXT><PARA/><PARA/><POP/></RDL>
+
+458929
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Machine Gun Placeholder</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Machine Gun Placeholder Text.</TEXT><PARA/><PARA/><POP/></RDL>
