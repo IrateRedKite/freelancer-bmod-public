@@ -1749,11 +1749,11 @@ Bounty: Xenos Veteran
 
 458895
 NAME
-Bounty: Xenos Ace
+Bounty: Xenos Elite
 
 458896
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>BOUNTY VOUCHERS</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Bounty vouchers are digital tokens issued by the house navies and police. They are generated when a pilot takes down or disables a registered illegal and can usually be turned in for a decent sum of credits at the local navy or police headquarters.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>BOUNTY VOUCHERS</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Bounty vouchers are digital tokens issued by the house navies and police. They are generated when a pilot takes down or disables a registered target and can usually be turned in for a decent sum of credits at the local navy or police headquarters.</TEXT><PARA/><POP/></RDL>
 
 458897
 NAME
