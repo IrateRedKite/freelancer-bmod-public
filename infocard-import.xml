@@ -1473,7 +1473,7 @@ INFOCARD
 
 458826
 INFOCARD
-<RDL><PUSH/><TEXT>Tamms Text Placeholder</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Following the loss of both the LPI </TEXT><TRA italic="true"/><TEXT>Huntsville</TEXT><TRA italic="false"/><TEXT> and the LPI </TEXT><TRA italic="true"/><TEXT>Sugarland </TEXT><TRA italic="false"/><TEXT> in the wake of the Houston Catastrophe, the Liberty authorities were forced to halt the mothballing of several ageing prison liners and rapidly bring them into service across New York and Colorado.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>The </TEXT><TRA italic="true"/><TEXT>Tamms</TEXT><TRA italic="false"/><TEXT> sits in orbit around Durango, housing Denver's domestic criminals and any Xenos unlucky enough to be captured alive by the Liberty Navy. Lacking a sizeable professional workforce, the LPI regularly put inmates to work on the nearby skeleton of LPI </TEXT><TRA italic="true"/><TEXT>Alcatraz</TEXT><TRA italic="false"/><TEXT>, which is set to replace the prison liner next year.</TEXT><PARA/><POP/></RDL>
 
 458827
 INFOCARD
@@ -1481,7 +1481,7 @@ INFOCARD
 
 458828
 INFOCARD
-<RDL><PUSH/><TEXT>Ouray Text Placeholder</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A Xenos base. Xenos are a radical political faction that seeks to drive all foreign elements from their territory.</TEXT><PARA/><POP/></RDL>
 
 458829
 NAME
@@ -1577,7 +1577,7 @@ Trapdoor Platform
 
 458852
 INFOCARD
-<RDL><PUSH/><TEXT>Trapdoor Placeholder Text</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Trapdoor" Improvised Weapons Platform</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>An improvised weapons platform. These are usually set up ahead of time by pirates and quickly manoeuvred into positions where extra defensive firepower is needed.</TEXT><PARA/><POP/></RDL>
 
 458853
 NAME
@@ -1637,7 +1637,7 @@ Liberty Frigate
 
 458867
 INFOCARD
-<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>BDD-772 "Bulwark" Liberty Frigate</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>Liberty Frigate Placeholder Text</TEXT><PARA/><POP/></RDL>
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>BDD-972 "Lazrius" Liberty Frigate</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>Lazrius Frigate Placeholder Text</TEXT><PARA/><POP/></RDL>
 
 458868
 NAME
