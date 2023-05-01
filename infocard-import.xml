@@ -1899,3 +1899,262 @@ INFOCARD
 458932
 NAME
 Bounty: Xenos Gunship Freighter
+
+458933
+NAME
+LRM Launcher
+
+458934
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LRM Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458935
+NAME
+LRM Ammo
+
+458936
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LRM Ammo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458937
+NAME
+Rocket Pod
+
+458938
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Rocket Pod</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458939
+NAME
+Rockets
+
+458940
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Rockets</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458941
+NAME
+UGB
+
+458942
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>UGB</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458943
+NAME
+UGB x 4
+
+458944
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>UGB x 4</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458945
+NAME
+UGB x 8
+
+458946
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>UGB x 8</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458947
+NAME
+Torpedo
+
+458948
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Torpedo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458949
+NAME
+Torpedoes
+
+458950
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Torpedoes</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458951
+NAME
+Vulcan
+
+458952
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Vulcan</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458953
+NAME
+Repair Tool
+
+458954
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Repair Tool</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458955
+NAME
+Repair Tool Ammo
+
+458956
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Repair Tool Ammo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458957
+NAME
+Repair Gun Ammo
+
+458958
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Repair Gun Ammo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458959
+NAME
+Ion Gun
+
+458960
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Ion Gun</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458961
+NAME
+Ion Cannon
+
+458962
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Ion Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458963
+NAME
+Anti-Missile System
+
+458964
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Anti-Missile System</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458965
+NAME
+Anti-Missile System Ammo
+
+458966
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Anti-Missile System Ammo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458967
+NAME
+PPC
+
+458968
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>PPC</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458969
+NAME
+Ultra Medium AC
+
+458970
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Ultra Medium AC</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458971
+NAME
+Small Pulse Laser
+
+458972
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Small Pulse Laser</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458973
+NAME
+Large Pulse Laser
+
+458974
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Large Pulse Laser</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458975
+NAME
+ER Large Laser
+
+458976
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>ER Large Laser</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458977
+NAME
+Ballistic PD
+
+458978
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Ballistic PD</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458979
+NAME
+Ballistic PD Ammo
+
+458980
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Ballistic PD Ammo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458981
+NAME
+"Foil" Light Fighter
+
+458982
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Foil LF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458983
+NAME
+"Phantom" Heavy Fighter
+
+458984
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Phantom HF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458985
+NAME
+"Spectre" Light Fighter
+
+458986
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Spectre LF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458987
+NAME
+"Hornet" Heavy Fighter
+
+458988
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Hornet HF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458989
+NAME
+"Jackal" Heavy Fighter
+
+458990
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Jackal HF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458991
+NAME
+"Coyote" Very Heavy Fighter
+
+458992
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Coyote VHF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458993
+NAME
+"Starfarer" Freighter
+
+458994
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Starfarer Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+458995
+NAME
+"Hustler" Freighter
+
+458996
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Hustler Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+
+
