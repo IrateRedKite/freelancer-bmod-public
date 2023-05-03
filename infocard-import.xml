@@ -2160,27 +2160,19 @@ INFOCARD
 
 458997
 NAME
-1 x SRM
-
+SRM Pylon
+ 
 458998
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>1 x Pylon Mounted SRM</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A single Short Range Missile pylon, able to be fitted inside a Small Missile slot. Small missiles like these provide additional damage and flexibility to a loadout, but very long reload times mean they can usually only be used once or twice a battle.
-
-Short Range Missiles or "SRMs" are agile missiles made to track nimble fighters in close-range dogfights. The SRM's lower effectiveness against shields makes it best used as a secondary weapon deployed when a target's hull is vulnerable.
-
-The slow reload time on this single pylon restricts the user from firing its missiles often, but provides an added bit of punch intermittently for pilots who want to line up more numerous salvos at critical moments, further pressure an opponent's countermeasures, or just provide some close range flexibility while their main launcher uses LRMs instead.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>1 x Pylon Mounted SRM</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A single Short Range Missile pylon, able to be fitted inside a Small Missile slot. Small missiles like these provide additional damage and flexibility to a loadout, but very long reload times mean they can usually only be used once or twice a battle.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Short Range Missiles or "SRMs" are agile missiles made to track nimble fighters in close-range dogfights. The SRM's lower effectiveness against shields makes it best used as a secondary weapon deployed when a target's hull is vulnerable.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>The slow reload time on this single pylon restricts the user from firing its missiles often, but provides an added bit of punch intermittently for pilots who want to line up more numerous salvos at critical moments, further pressure an opponent's countermeasures, or just provide some close range flexibility while their main launcher uses LRMs instead.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458999
 NAME
-1 x LRM
+LRM Pylon
 
 459000
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>1 x Pylon Mounted LRM</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A single Long Range Missile pylon, able to be fitted inside a Small Missile slot. Small missiles like these provide additional damage and flexibility to a loadout, but very long reload times mean they can usually only be used once or twice a battle.
-
-Long Range Missiles or "LRMs" accelerate fast and can track targets at long distances. Their lack of agility makes them easier to dodge in a dogfight, but their increased effectiveness against shields compared to SRMs means they can be used to initiate an attack rather than only follow up on one.
-
-The slow reload time on this single pylon restricts the user from firing its missiles often, but provides a useful accessory for those who want to close in on a new target with bigger initial punch, or shoot down runners trying to escape after the dogfight.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>1 x Pylon Mounted LRM</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A single Long Range Missile pylon, able to be fitted inside a Small Missile slot. Small missiles like these provide additional damage and flexibility to a loadout, but very long reload times mean they can usually only be used once or twice a battle.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Long Range Missiles or "LRMs" accelerate fast and can track targets at long distances. Their lack of agility makes them easier to dodge in a dogfight, but their increased effectiveness against shields compared to SRMs means they can be used to initiate an attack rather than only follow up on one.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>The slow reload time on this single pylon restricts the user from firing its missiles often, but provides a useful accessory for those who want to close in on a new target with bigger initial punch, or shoot down runners trying to escape after the dogfight.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459001
 NAME
@@ -2188,9 +2180,7 @@ NAME
 
 459002
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED PB71 "Brave" Bounty Hunter Particle Blaster</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Brave blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.
-
-This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The PB71 is the Guild's preferred suppression weapon and is based on an entirely original design produced some time before the Texas incident. </TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED PB71 "Brave" Bounty Hunter Particle Blaster</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Brave blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The PB71 is the Guild's preferred suppression weapon and is based on an entirely original design produced some time before the Texas incident. </TEXT><PARA/><PARA/><POP/></RDL>
 
 459003
 NAME
@@ -2198,9 +2188,7 @@ NAME
 
 459004
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED LB21 "Gunslinger" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Gunslinger blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.
-
-This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>A veritable workhorse of a weapon, the LB21 Gunslinger is the Guild's weapon of choice for patrol duty across the Sirius Sector. Concentrated fire from the LB21 can easily punch right through a ship, but if properly focused can be used to slag vital systems without dealing too much collateral damage. </TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED LB21 "Gunslinger" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Gunslinger blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>A veritable workhorse of a weapon, the LB21 Gunslinger is the Guild's weapon of choice for patrol duty across the Sirius Sector. Concentrated fire from the LB21 can easily punch right through a ship, but if properly focused can be used to slag vital systems without dealing too much collateral damage. </TEXT><PARA/><PARA/><POP/></RDL>
 
 459005
 NAME
@@ -2208,9 +2196,7 @@ NAME
 
 459006
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED LB31 "Winchester" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Winchester blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.
-
-This is a particle-based weapon developed by the Bounty Hunter’s guild. This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED LB31 "Winchester" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Winchester blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459007
 NAME
@@ -2218,9 +2204,7 @@ NAME
 
 459008
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED CL-a "Starbeam" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Starbeam blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.
-
-This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>The CL-a is Ageira's baseline rapid-fire suppression weapon. With a high rate of fire and good range, it's able to keep pressure on shields and act as point defence in a pinch, keeping threats at bay until they can either be dealt with or disengaged from.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED CL-a "Starbeam" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Starbeam blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>The CL-a is Ageira's baseline rapid-fire suppression weapon. With a high rate of fire and good range, it's able to keep pressure on shields and act as point defence in a pinch, keeping threats at bay until they can either be dealt with or disengaged from.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459009
 NAME
@@ -2228,9 +2212,7 @@ NAME
 
 459010
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED CL-d "Flashpoint" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Flashpoint blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.
-
-This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>Built upon the frame of the CL-a, the Flashpoint boasts reinforced power conduits and a built-in heatsink. The refraction cavity of the weapon has been expanded, resulting in a much hotter projectile that can punch thhrough shields and armor plating much more effectively at the cost of a significantly longer charge time.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED CL-d "Flashpoint" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Flashpoint blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>Built upon the frame of the CL-a, the Flashpoint boasts reinforced power conduits and a built-in heatsink. The refraction cavity of the weapon has been expanded, resulting in a much hotter projectile that can punch thhrough shields and armor plating much more effectively at the cost of a significantly longer charge time.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459011
 NAME
@@ -2238,9 +2220,7 @@ NAME
 
 459012
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED R6-A "Justice" Liberty Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Justice blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.
-
-This is a laser-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>Produced exclusively by Ageira for the Liberty Navy, the R6-A is built upon the frame of the CL-a Starbeam, but has been retrofitted and reinforced for military use.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED R6-A "Justice" Liberty Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Justice blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a laser-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>Produced exclusively by Ageira for the Liberty Navy, the R6-A is built upon the frame of the CL-a Starbeam, but has been retrofitted and reinforced for military use.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459013
 NAME
@@ -2248,9 +2228,7 @@ NAME
 
 459014
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED N5-A "Lavablade" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Lavablade blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.
-
-This is a plasma-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED N5-A "Lavablade" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Lavablade blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a plasma-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459015
 NAME
@@ -2258,9 +2236,7 @@ NAME
 
 459016
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED N9-A "Magma Hammer" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Magma Hammer blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.
-
-This is a plasma-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>For all intents and purposes, the N9-A is an overclocked Lavablade with bulked out cooling fins and expanded plasma conduits. Equipping this weapon on smaller ships often requires hard modifications to the power grid, and incautious or inexperienced engineers risk frying ship systems if they don't follow the Ageira-provided installation instructions.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED N9-A "Magma Hammer" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This twin-linked housing pairs two Magma Hammer blasters into a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a plasma-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>For all intents and purposes, the N9-A is an overclocked Lavablade with bulked out cooling fins and expanded plasma conduits. Equipping this weapon on smaller ships often requires hard modifications to the power grid, and incautious or inexperienced engineers risk frying ship systems if they don't follow the Ageira-provided installation instructions.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459017
 NAME
@@ -2268,9 +2244,7 @@ NAME
 
 459018
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED PB71 "Brave" Bounty Hunter Particle Blaster</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Brave blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.
-
-This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The PB71 is the Guild's preferred suppression weapon and is based on an entirely original design produced some time before the Texas incident. </TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED PB71 "Brave" Bounty Hunter Particle Blaster</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Brave blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The PB71 is the Guild's preferred suppression weapon and is based on an entirely original design produced some time before the Texas incident. </TEXT><PARA/><PARA/><POP/></RDL>
 
 459019
 NAME
@@ -2278,9 +2252,7 @@ NAME
 
 459020
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB21 "Gunslinger" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Gunslinger blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.
-
-This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>A veritable workhorse of a weapon, the LB21 Gunslinger is the Guild's weapon of choice for patrol duty across the Sirius Sector. Concentrated fire from the LB21 can easily punch right through a ship, but if properly focused can be used to slag vital systems without dealing too much collateral damage. </TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB21 "Gunslinger" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Gunslinger blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>A veritable workhorse of a weapon, the LB21 Gunslinger is the Guild's weapon of choice for patrol duty across the Sirius Sector. Concentrated fire from the LB21 can easily punch right through a ship, but if properly focused can be used to slag vital systems without dealing too much collateral damage. </TEXT><PARA/><PARA/><POP/></RDL>
 
 459021
 NAME
@@ -2288,9 +2260,7 @@ NAME
 
 459022
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB31 "Winchester" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Winchester blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.
-
-This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB31 "Winchester" Bounty Hunter Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Winchester blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459023
 NAME
@@ -2298,9 +2268,7 @@ NAME
 
 459024
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-a "Starbeam" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Starbeam blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.
-
-This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>The CL-a is Ageira's baseline rapid-fire suppression weapon. With a high rate of fire and good range, it's able to keep pressure on shields and act as point defence in a pinch, keeping threats at bay until they can either be dealt with or disengaged from.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-a "Starbeam" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Starbeam blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>The CL-a is Ageira's baseline rapid-fire suppression weapon. With a high rate of fire and good range, it's able to keep pressure on shields and act as point defence in a pinch, keeping threats at bay until they can either be dealt with or disengaged from.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459025
 NAME
@@ -2308,9 +2276,7 @@ NAME
 
 459026
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-d "Flashpoint" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Flashpoint blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.
-
-This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>Built upon the frame of the CL-a, the Flashpoint boasts reinforced power conduits and a built-in heatsink. The refraction cavity of the weapon has been expanded, resulting in a much hotter projectile that can punch thhrough shields and armor plating much more effectively at the cost of a significantly longer charge time.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-d "Flashpoint" Civilian Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Flashpoint blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>Built upon the frame of the CL-a, the Flashpoint boasts reinforced power conduits and a built-in heatsink. The refraction cavity of the weapon has been expanded, resulting in a much hotter projectile that can punch thhrough shields and armor plating much more effectively at the cost of a significantly longer charge time.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459027
 NAME
@@ -2318,9 +2284,7 @@ NAME
 
 459028
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED R6-A "Justice" Liberty Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Justice blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.
-
-This is a laser-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>Produced exclusively by Ageira for the Liberty Navy, the R6-A is built upon the frame of the CL-a Starbeam, but has been retrofitted and reinforced for military use.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED R6-A "Justice" Liberty Laser Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Justice blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a laser-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>Produced exclusively by Ageira for the Liberty Navy, the R6-A is built upon the frame of the CL-a Starbeam, but has been retrofitted and reinforced for military use.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459029
 NAME
@@ -2328,9 +2292,7 @@ NAME
 
 459030
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N5-A "Lavablade" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Lavablade blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.
-
-This is a plasma-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N5-A "Lavablade" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Lavablade blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a plasma-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459031
 NAME
@@ -2338,7 +2300,4 @@ NAME
 
 459032
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N9-A "Magma Hammer" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Magma Hammer blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.
-
-This is a plasma-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>For all intents and purposes, the N9-A is an overclocked Lavablade with bulked out cooling fins and expanded plasma conduits. Equipping this weapon on smaller ships often requires hard modifications to the power grid, and incautious or inexperienced engineers risk frying ship systems if they don't follow the Ageira-provided installation instructions.</TEXT><PARA/><PARA/><POP/></RDL>
-
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N9-A "Magma Hammer" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Magma Hammer blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a plasma-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>For all intents and purposes, the N9-A is an overclocked Lavablade with bulked out cooling fins and expanded plasma conduits. Equipping this weapon on smaller ships often requires hard modifications to the power grid, and incautious or inexperienced engineers risk frying ship systems if they don't follow the Ageira-provided installation instructions.</TEXT><PARA/><PARA/><POP/></RDL>
