@@ -1906,9 +1906,7 @@ LRM Launcher
 
 458934
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LRM Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Long Range Missiles or "LRMs" accelerate fast and can track targets at long distances. Their lack of agility makes them easier to dodge in a dogfight, but their increased effectiveness against shields compared to SRMs means they can be used to initiate an attack rather than only follow up on one.
-
-This launcher fits in the Medium Missile slot and has an average cooldown between shots. It's useful for putting out a steady number of LRMs throughout a fight, allowing users to support a battle from afar or deal good damage to large targets unable to effectively evade them.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LRM Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Long Range Missiles or "LRMs" accelerate fast and can track targets at long distances. Their lack of agility makes them easier to dodge in a dogfight, but their increased effectiveness against shields compared to SRMs means they can be used to initiate an attack rather than only follow up on one.</TEXT><PARA/><PARA/><TEXT>This launcher fits in the Medium Missile slot and has an average cooldown between shots. It's useful for putting out a steady number of LRMs throughout a fight, allowing users to support a battle from afar or deal good damage to large targets unable to effectively evade them.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458935
 NAME
