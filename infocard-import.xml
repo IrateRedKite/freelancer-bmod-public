@@ -2299,3 +2299,7 @@ NAME
 459032
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N9-A "Magma Hammer" Liberty Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Magma Hammer blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a plasma-based weapon produced by the Liberty Navy. Liberty Navy weapons typically have higher velocity projectiles at the cost of energy efficiency and overall range.</TEXT><PARA/><PARA/><TEXT>For all intents and purposes, the N9-A is an overclocked Lavablade with bulked out cooling fins and expanded plasma conduits. Equipping this weapon on smaller ships often requires hard modifications to the power grid, and incautious or inexperienced engineers risk frying ship systems if they don't follow the Ageira-provided installation instructions.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459033
+NAME
+VER. %d.%d BMOD "Goose"
