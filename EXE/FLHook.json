@@ -1,0 +1,79 @@
+{
+    "bans": {
+        "banAccountOnMatch": false,
+        "banWildcardsAndIPs": []
+    },
+    "callsign": {
+        "allowedFormations": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "disableRandomisedFormations": false,
+        "disableUsingAffiliationForCallsign": false
+    },
+    "general": {
+        "antiBaseIdle": 600,
+        "antiCharMenuIdle": 600,
+        "antiDockKill": 4000,
+        "antiF1": 0,
+        "changeCruiseDisruptorBehaviour": false,
+        "chatSuppressList": [],
+        "debugMode": false,
+        "disableCharfileEncryption": false,
+        "disableNPCSpawns": 0,
+        "disconnectDelay": 0,
+        "localTime": false,
+        "logPerformanceTimers": false,
+        "maxGroupSize": 8,
+        "noPVPSystems": [],
+        "persistGroup": false,
+        "reservedSlots": 0,
+        "torpMissileBaseDamageMultiplier": 1.0
+    },
+    "messages": {
+        "defaultLocalChat": false,
+        "dieMsg": true,
+        "dockingMessages": true,
+        "echoCommands": true,
+        "suppressInvalidCommands": true
+    },
+    "plugins": {
+        "loadAllPlugins": true,
+        "plugins": []
+    },
+    "socket": {
+        "activated": false,
+        "ePort": 1921,
+        "eWPort": 1922,
+        "encryptionKey": "SomeRandomKey000",
+        "passRightsMap": {
+            "SuperSecret": "superadmin"
+        },
+        "port": 1919,
+        "wPort": 1920
+    },
+    "userCommands": {
+        "defaultLocalChat": false,
+        "userCmdHelp": true,
+        "userCmdIgnore": true,
+        "userCmdMaxIgnoreList": 1,
+        "userCmdSetChatFont": true,
+        "userCmdSetDieMsg": true,
+        "userCmdSetDieMsgSize": true
+    }
+}
