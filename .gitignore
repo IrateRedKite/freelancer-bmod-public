@@ -17,7 +17,6 @@ EXE/logs
 *.bak
 *.vscode
 *.orig
-FLHook.json
 escalation-releases-key.pub
 escalation-releases-key
 
