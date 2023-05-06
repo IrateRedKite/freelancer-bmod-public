@@ -1637,7 +1637,7 @@ Liberty Frigate
 
 458867
 INFOCARD
-<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>BDD-972 "Lazrius" Liberty Frigate</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>Lazrius Frigate Placeholder Text</TEXT><PARA/><POP/></RDL>
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>BDD-972 "Lazrius" Liberty Frigate</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>Once a workhorse of the Liberty Navy, the BDD-972 is now only deployed in a handful of systems across Liberty and the Independent Worlds. Several have been bought out of storage following the Houston Catastrophe in order to deal with a sharp increase in pirate activity across Colorado and New York.</TEXT><PARA/><POP/></RDL>
 
 458868
 NAME
@@ -1761,7 +1761,7 @@ M-ER7 Nanite Repair Burst Charge
 
 458898
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-ER7 Basic Repair Burst Charge</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Basic Repair Mine Ammo Placeholder</TEXT><PARA/><PARA/><TEXT>* Requires M-ER7 Nanite Repair Burst Launcher.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-ER7 Basic Repair Burst Charge</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The M-ER7 Repair Charge deploys short-lived nanites in an area to repair basic material damage of a ship’s hull or internal systems. These nanometer-scale artificial organisms are programmed to synthesize and apply the molecular building blocks as necessary.</TEXT><PARA/><PARA/><TEXT>* Requires M-ER7 Nanite Repair Burst Launcher.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458899
 NAME
@@ -1769,7 +1769,7 @@ M-ER7 Nanite Burster
 
 458900
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-ER7 Basic Repair Burst Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Basic Repair Mine Launcher Placeholder</TEXT><PARA/><PARA/><TEXT>* Requires M-ER7 Basic Repair Burst Charge.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-ER7 Basic Repair Burst Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The M-ER7 Nanite Burster deploys short-lived nanites in an area to repair basic material damage of a ship’s hull or internal systems. These nanometer-scale artificial organisms are programmed to synthesize and apply the molecular building blocks as necessary.</TEXT><PARA/><PARA/><TEXT>* Requires M-ER7 Basic Repair Burst Charge.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458901
 NAME
@@ -1874,15 +1874,15 @@ MG
 
 458926
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Small Laser Placeholder</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Small Laser Placeholder Text.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SEQ-4 Small Laser</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The S Laser uses an infrared beam from a solid-state laser array to quickly inflict damage against targets at short ranges and is designed to be mounted on a standard small-energy fighter hardpoint.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Despite decades of research across Sirius, true directed energy laser weapons are a relatively recent development made possible by significant advances in material science by Ageira.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458927
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Medium Laser Placeholder</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Medium Laser Placeholder Text.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SEQ-5 Medium Laser</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The M Laser uses an infrared beam from a solid-state laser array to quickly inflict damage against targets at moderate ranges and is designed to be mounted on a standard medium-energy fighter hardpoint.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Despite decades of research across Sirius, true directed energy laser weapons are a relatively recent development made possible by significant advances in material science by Ageira.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458928
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Large Laser Placeholder</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Large Laser Placeholder Text.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SEQ-6 Large Laser</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The L Laser uses an infrared beam from a solid-state laser array to quickly inflict damage against targets at long ranges and is designed to be mounted on a standard large-energy fighter hardpoint, found only on the heaviest of fighters.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Despite decades of research across Sirius, true directed energy laser weapons are a relatively recent development made possible by significant advances in material science by Ageira.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458929
 INFOCARD
