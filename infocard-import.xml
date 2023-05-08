@@ -1693,11 +1693,11 @@ INFOCARD
 
 458881
 NAME
-Repair Gun
+Mobile Repair Beam
 
 458882
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Repair Gun</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for a Repair Gun.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>MRB-22 Mobile Repair Beam</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for a Repair Gun.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458883
 INFOCARD
@@ -2311,3 +2311,59 @@ Ageira Technologies\nPueblo Ship Dealer\nJames Robinson
 459035
 NAME
 ??????
+
+459036
+NAME
+Fleet LRM Ammo
+
+459037
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet LRM Ammo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Fleet LRM Ammo Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+459038
+NAME
+Fleet LRM2 Launcher
+
+459039
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet LRM2 Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Fleet LRM2 Launcher Placeholder</TEXT><PARA/><PARA/><POP/></RDL>
+
+459040
+NAME
+Fleet Shredder AC
+
+459041
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet Shredder Autocannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Fleet Shredder AC Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+459042
+NAME
+Fleet Shredder AC Shell
+
+459043
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet Shredder AC Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Fleet Shredder AC Shell Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+459044
+NAME
+Fleet Tri Justice Turret
+
+459045
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet Tri Justice Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Tri Justice Turret Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+459046
+NAME
+Fleet L Laser
+
+459047
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet Large Laser</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Fleet L Laser Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+459048
+NAME
+Mobile Repair Beam Charge
+
+459049
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Mobile Repair Beam Charge</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Mobile Repair Beam Charge Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
