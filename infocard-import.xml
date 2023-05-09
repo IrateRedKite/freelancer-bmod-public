@@ -2367,3 +2367,15 @@ Mobile Repair Beam Charge
 459049
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Mobile Repair Beam Charge</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Mobile Repair Beam Charge Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+459050
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>8d Multi-Focal Heavy Tractor Beam</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Projects energy beams to manipulate or retrieve objects in space. Uses a variation of the same technology that produces energy shields.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>The 8d is a heavy-duty variant designed to be mounted on larger ships.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459051
+NAME
+Light Tractor Beam
+
+459052
+NAME
+Heavy Tractor Beam
