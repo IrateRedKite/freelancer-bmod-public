@@ -1408,7 +1408,7 @@ AAT-FR Launcher
 
 458810
 NAME
-Anti-Fighter Close Defense Ballistic Turret
+Fleet PD Turret
 
 458811
 NAME
@@ -1701,7 +1701,7 @@ INFOCARD
 
 458883
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Anti-Fighter Close Defense Ballistic Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for Anti-Fighter Close Defense Ballistic Turret.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet PD Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeolder info for Anti-Fighter Close Defense Ballistic Turret.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458884
 INFOCARD
