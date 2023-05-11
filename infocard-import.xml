@@ -2379,3 +2379,27 @@ Light Tractor Beam
 459052
 NAME
 Heavy Tractor Beam
+
+459053
+NAME
+Fleet PPC
+
+459054
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet PPC</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Fleet PPC Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+459055
+NAME
+Naval Autocannon
+
+459056
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>NAC/L</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>NAC/L Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+
+459057
+NAME
+Fleet NAC/L Shell
+
+459058
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>NAC/L Shell</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>NAC/L Shell Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
