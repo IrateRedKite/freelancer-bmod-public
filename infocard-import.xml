@@ -2406,120 +2406,240 @@ INFOCARD
 
 459059
 NAME
-3x Justice Turret [-]
+3 x Justice Turret [-]
 
 459060
 NAME
-3x Justice Turret
+3 x Justice Turret
 
 459061
 NAME
-3x Justice Turret [+]
+3 x Justice Turret [+]
 
 459062
 NAME
-3x Lavablade Turret [-]
+3 x Lavablade Turret [-]
 
 459063
 NAME
-3x Lavablade Turret
+3 x Lavablade Turret
 
 459064
 NAME
-3x Lavablade Turret [+]
+3 x Lavablade Turret [+]
 
-45905965
+459065
 NAME
-3x Magma Hammer Turret [-]
+3 x Magma Hammer Turret [-]
 
 459066
 NAME
-3x Magma Hammer Turret
+3 x Magma Hammer Turret
 
 459067
 NAME
-3x Magma Hammer Turret [+]
+3 x Magma Hammer Turret [+]
 
 459068
 NAME
-3x Scorpion Turret [-]
+3 x Scorpion Turret [-]
 
 459069
 NAME
-3x Scorpion Turret
+3 x Scorpion Turret
 
 459070
 NAME
-3x Scorpion Turret [+]
+3 x Scorpion Turret [+]
 
 459071
 NAME
-3x Tarantula Turret [-]
+3 x Tarantula Turret [-]
 
 459072
 NAME
-3x Tarantula Turret
+3 x Tarantula Turret
 
 459073
 NAME
-3x Tarantula Turret [+]
+3 x Tarantula Turret [+]
 
 459074
 NAME
-3x Starbeam Turret [-]
+3 x Starbeam Turret [-]
 
 459075
 NAME
-3x Starbeam Turret
+3 x Starbeam Turret
 
 459076
 NAME
-3x Starbeam Turret [+]
+3 x Starbeam Turret [+]
 
 459077
 NAME
-3x Flashpoint Turret [-]
+3 x Flashpoint Turret [-]
 
 459078
 NAME
-3x Flashpoint Turret
+3 x Flashpoint Turret
 
 459079
 NAME
-3x Flashpoint Turret [+]
+3 x Flashpoint Turret [+]
 
 459080
 NAME
-3x Brave Turret [-]
+3 x Brave Turret [-]
 
 459081
 NAME
-3x Brave Turret
+3 x Brave Turret
 
 459082
 NAME
-3x Brave Turret [+]
+3 x Brave Turret [+]
 
 459083
 NAME
-3x Gunslinger Turret [-]
+3 x Gunslinger Turret [-]
 
 459084
 NAME
-3x Gunslinger Turret
+3 x Gunslinger Turret
 
 459085
 NAME
-3x Gunslinger Turret [+]
+3 x Gunslinger Turret [+]
 
 459086
 NAME
-3x Winchester Turret [-]
+3 x Winchester Turret [-]
 
 459087
 NAME
-3x Winchester Turret
+3 x Winchester Turret
 
 459088
 NAME
-3x Winchester Turret [+]
+3 x Winchester Turret [+]
+
+459089
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED Xeno "Scorpion" Particle Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Scorpion blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459090
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED Xeno "Scorpion" Particle Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Scorpion blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459091
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED Xeno "Scorpion" Particle Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Scorpion blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459092
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED Xeno "Tarantula" Particle Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Tarantula blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459093
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED Xeno "Tarantula" Particle Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Tarantula blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459094
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED Xeno "Tarantula" Particle Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Tarantula blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459095
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED R6-A "Justice" Liberty Laser Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Justice blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>Produced exclusively by Ageira for the Liberty Navy, the R6-A is built upon the frame of the CL-a Starbeam, but has been retrofitted and reinforced for military use.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459096
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED R6-A "Justice" Liberty Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Justice blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>Produced exclusively by Ageira for the Liberty Navy, the R6-A is built upon the frame of the CL-a Starbeam, but has been retrofitted and reinforced for military use.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459097
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED R6-A "Justice" Liberty Laser Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Justice blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>Produced exclusively by Ageira for the Liberty Navy, the R6-A is built upon the frame of the CL-a Starbeam, but has been retrofitted and reinforced for military use.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459098
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N5-A "Lavablade" Liberty Plasma Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Lavablade blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459099
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N5-A "Lavablade" Liberty Plasma Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Lavablade blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459100
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N5-A "Lavablade" Liberty Plasma Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Lavablade blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>The first in a series of weapons designed by Ageira for the Liberty Navy, the N5-A expels plasma at temperatures hot enough to sublimate ship hull plating and overload shields. Unusually, the N-series of weapons are still manufactured by Ageira, despite the Navy's recent efforts to in-house as much of their supply chain as possible.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459101
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N9-A "Magma Hammer" Liberty Plasma Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Magma Hammer blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>For all intents and purposes, the N9-A is an overclocked Lavablade with bulked out cooling fins and expanded plasma conduits. Equipping this weapon on smaller ships often requires hard modifications to the power grid, and incautious or inexperienced engineers risk frying ship systems if they don't follow the Ageira-provided installation instructions.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459102
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N9-A "Magma Hammer" Liberty Plasma Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Magma Hammer blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>For all intents and purposes, the N9-A is an overclocked Lavablade with bulked out cooling fins and expanded plasma conduits. Equipping this weapon on smaller ships often requires hard modifications to the power grid, and incautious or inexperienced engineers risk frying ship systems if they don't follow the Ageira-provided installation instructions.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459103
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED N9-A "Magma Hammer" Liberty Plasma Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Magma Hammer blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>For all intents and purposes, the N9-A is an overclocked Lavablade with bulked out cooling fins and expanded plasma conduits. Equipping this weapon on smaller ships often requires hard modifications to the power grid, and incautious or inexperienced engineers risk frying ship systems if they don't follow the Ageira-provided installation instructions.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459104
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED PB71 "Brave" Bounty Hunter Particle Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Brave blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The PB71 is the Guild's preferred suppression weapon and is based on an entirely original design produced some time before the Texas incident.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459105
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED PB71 "Brave" Bounty Hunter Particle Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Brave blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The PB71 is the Guild's preferred suppression weapon and is based on an entirely original design produced some time before the Texas incident.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459106
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED PB71 "Brave" Bounty Hunter Particle Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Brave blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a particle-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The PB71 is the Guild's preferred suppression weapon and is based on an entirely original design produced some time before the Texas incident.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459107
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB21 "Gunslinger" Bounty Hunter Laser Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Gunslinger blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>A veritable workhorse of a weapon, the LB21 Gunslinger is the Guild's weapon of choice for patrol duty across the Sirius Sector. Concentrated fire from the LB21 can easily punch right through a ship, but if properly focused can be used to slag vital systems without dealing too much collateral damage.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459108
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB21 "Gunslinger" Bounty Hunter Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Gunslinger blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>A veritable workhorse of a weapon, the LB21 Gunslinger is the Guild's weapon of choice for patrol duty across the Sirius Sector. Concentrated fire from the LB21 can easily punch right through a ship, but if properly focused can be used to slag vital systems without dealing too much collateral damage.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459109
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB21 "Gunslinger" Bounty Hunter Laser Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Gunslinger blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>A veritable workhorse of a weapon, the LB21 Gunslinger is the Guild's weapon of choice for patrol duty across the Sirius Sector. Concentrated fire from the LB21 can easily punch right through a ship, but if properly focused can be used to slag vital systems without dealing too much collateral damage.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459110
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB31 "Winchester" Bounty Hunter Laser Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Winchester blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459111
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB31 "Winchester" Bounty Hunter Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Winchester blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459112
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB31 "Winchester" Bounty Hunter Laser Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Winchester blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459113
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-a "Starbeam" Civilian Laser Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Starbeam blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>The CL-a is Ageira's baseline rapid-fire suppression weapon. With a high rate of fire and good range, it's able to keep pressure on shields and act as point defence in a pinch, keeping threats at bay until they can either be dealt with or disengaged from.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459114
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-a "Starbeam" Civilian Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Starbeam blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>The CL-a is Ageira's baseline rapid-fire suppression weapon. With a high rate of fire and good range, it's able to keep pressure on shields and act as point defence in a pinch, keeping threats at bay until they can either be dealt with or disengaged from.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459115
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-a "Starbeam" Civilian Laser Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Starbeam blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>The CL-a is Ageira's baseline rapid-fire suppression weapon. With a high rate of fire and good range, it's able to keep pressure on shields and act as point defence in a pinch, keeping threats at bay until they can either be dealt with or disengaged from.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459116
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-d "Flashpoint" Civilian Laser Turret [-]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Flashpoint blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>Built upon the frame of the CL-a, the Flashpoint boasts reinforced power conduits and a built-in heatsink. The refraction cavity of the weapon has been expanded, resulting in a much hotter projectile that can punch thhrough shields and armor plating much more effectively at the cost of a significantly longer charge time.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment has degraded performance compared to the average model, but draws less power.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459117
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-d "Flashpoint" Civilian Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Flashpoint blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>Built upon the frame of the CL-a, the Flashpoint boasts reinforced power conduits and a built-in heatsink. The refraction cavity of the weapon has been expanded, resulting in a much hotter projectile that can punch thhrough shields and armor plating much more effectively at the cost of a significantly longer charge time.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459118
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED CL-d "Flashpoint" Civilian Laser Turret [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This tri-linked housing pairs three Flashpoint blasters and a gimballed turret mount, requring a specialized PD hardpoint to mount.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon produced by Ageira Technologies. Civilian-grade weapons are typically tuned for balanced performance and are designed to be more energy efficient than most.</TEXT><PARA/><PARA/><TEXT>Built upon the frame of the CL-a, the Flashpoint boasts reinforced power conduits and a built-in heatsink. The refraction cavity of the weapon has been expanded, resulting in a much hotter projectile that can punch thhrough shields and armor plating much more effectively at the cost of a significantly longer charge time.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment performs better than its average model, at the cost of more power.</TEXT><PARA/><PARA/><POP/></RDL>
