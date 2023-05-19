@@ -3639,3 +3639,68 @@ Tripped Power Circuit
 459367
 NAME
 Ward Console
+
+459368
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>ARMOR PLATES</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>An assortment of damaged ship hull panels. These combine a Polymer and Hydrocarbon base along with Basic and Super Alloys to create a substance that is light and flexible, while providing insulation from hard vacuum and all but the most intense radiation. Boron fibers are infused into the panels to endow them with structural rigidity, protecting ships against kinetic impact and high-energy weapons fire </TEXT><PARA/><POP/></RDL>
+
+459369
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>BROKEN RADIO TRANSCEIVERS</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Ship sensor packages typically use a range of transceivers tuned to different EM wavelengths. While these fragile components rarely survive any serious damage, spare parts can usually be salvaged from ship wreckage.</TEXT><PARA/><POP/></RDL>
+
+459370
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>BURNED LOGIC CIRCUIT</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Ships computers make use of many different types of logic circuits of varying complexity. These can be responsible for power management, shield attenuation and even piloting.</TEXT><PARA/><POP/></RDL>
+
+459371
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CHARRED MICRO CIRCUIT</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Ships computers make use of many different types of logic circuits of varying complexity. These can be responsible for power management, shield attenuation and even piloting. Micro circuits are a variant of these, and can be found in many auxiliary subsystems.</TEXT><PARA/><POP/></RDL>
+
+459372
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CONDUCTIVE POLYMER</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Conductive polymers are are common component of electrical conduits in ships and stations.</TEXT><PARA/><POP/></RDL>
+
+459373
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CONTAMINATED NANITE COMPOUND</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Nanite compounds are used in active damage control systems. These release short-lived repair nanites to seal hull breaches quickly. This compound needs to go through purification before it's of use again.</TEXT><PARA/><POP/></RDL>
+
+459374
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>DAMAGED ARTIFICIAL NEURAL NETWORK</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>ANNs preside over a ship's various electronics subsystems and keep everything in working order, rerouting power and processing when systems are damaged or go offline. This ANN is damaged but doesn't seem to be a total loss.</TEXT><PARA/><POP/></RDL>
+
+459375
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>FRIED INTERFACE CIRCUIT</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Interface circuits are printed boards used to connect two or more ship subsystems.</TEXT><PARA/><POP/></RDL>
+
+459376
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>MALFUNCTIONING SHIELD EMITTER</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Fighter shields make use of eight to sixteen magnetic emitters depending on size and model.</TEXT><PARA/><POP/></RDL>
+
+459377
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>MELTED CAPACITOR CONSOLE</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Capacitor consoles are used to regulate power flux in shipboard batteries.</TEXT><PARA/><POP/></RDL>
+
+459378
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SCORCHED TELEMETRY PROCESSOR</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Telemetry processors handle large amounts of data fed in from the variety of EM and radio transceivers used in ship sensor packages.</TEXT><PARA/><POP/></RDL>
+
+459379
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SMASHED TRIGGER UNIT</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Trigger units are found on ship hardpoints and typically lock into mounted weapons. Very rarely, a weapon will have it’s own built in trigger unit, which requires some work to interface with a standard ship hardpoint.</TEXT><PARA/><POP/></RDL>
+
+459380
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TANGLED POWER CONDUIT</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>Ship power conduits are typically made from conductive polymer, but often incorporate, silver, copper and beryllium as well.</TEXT><PARA/><POP/></RDL>
+
+459381
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>THRUSTER CONSOLE</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>These consoles are used to regulate engine and thruster impulse.</TEXT><PARA/><POP/></RDL>
+
+459382
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRIPPED POWER CIRCUIT</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>A closed loop electrical network with redundant autonomous switchgear. This unit has all of its breakers tripped but isn't beyond repair.
+</TEXT><PARA/><POP/></RDL>
+
+459383
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>WARD CONSOLE</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>A control unit for ship shield systems.</TEXT><PARA/><POP/></RDL>
