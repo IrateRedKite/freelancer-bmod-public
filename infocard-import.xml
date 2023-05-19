@@ -3698,8 +3698,7 @@ INFOCARD
 
 459382
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRIPPED POWER CIRCUIT</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>A closed loop electrical network with redundant autonomous switchgear. This unit has all of its breakers tripped but isn't beyond repair.
-</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRIPPED POWER CIRCUIT</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>A closed loop electrical network with redundant autonomous switchgear. This unit has all of its breakers tripped but isn't beyond repair.</TEXT><PARA/><POP/></RDL>
 
 459383
 INFOCARD
