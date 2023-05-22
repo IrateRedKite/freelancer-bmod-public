@@ -3703,3 +3703,11 @@ INFOCARD
 459383
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>WARD CONSOLE</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Salvage components, taken from a destroyed or derelict ship. These can be turned in at certain locations for additional credits.</TEXT><PARA/><PARA/><TEXT>A control unit for ship shield systems.</TEXT><PARA/><POP/></RDL>
+
+459384
+NAME
+Barrager
+
+459385
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Junker "Barrager" Overclocked Cutting Laser</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Barrager is a large cutting laser commonly used by Junkers to remove valuable scraps of salvage from wrecks. This model has been modified by it's owner and can also be used as a powerful short range weapon. The beam is fixed, has poor energy economy, and requires immediate venting of coolant after each shot, but the strength of the beam is almost always enough to deter a would-be thief or pirate if used defensively.</TEXT><PARA/><PARA/><POP/></RDL>
