@@ -2322,7 +2322,7 @@ INFOCARD
 
 459038
 NAME
-Fleet LRM2 Launcher
+Fleet LRM-2 Launcher
 
 459039
 INFOCARD
@@ -3791,3 +3791,35 @@ News Placeholder
 459405
 NAME
 News Placeholder
+
+459406
+NAME
+LRM-2 Launcher
+
+459407
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LRM-2 Twin Missile Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Long Range Missiles or "LRMs" accelerate fast and can track targets at long distances. Their lack of agility makes them easier to dodge in a dogfight, but their increased effectiveness against shields compared to SRMs means they can be used to initiate an attack rather than only follow up on one.</TEXT><PARA/><PARA/><TEXT>This launcher fits in the Large Missile slot and fires two missiles per salvo, doubling the potential damage if both missiles hit. It's useful for delivering a deadly punch of LRMs throughout a fight, allowing users to support a battle from afar or deal heavy damage to large targets unable to effectively evade them.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459408
+NAME
+SRM-2 Launcher
+
+459409
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SRM-2 Twin Missile Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Short Range Missiles or "SRMs" are fast, agile missiles made to track nimble fighters in close-range dogfights. This launcher fires two SRMs at once, combining for a huge amount of potential burst damage that can deliver a sudden knockout punch in the middle of a dogfight. Its significant refire delay and ineffectiveness against shields still make it best used as a secondary weapon deployed when a target's hull is vulnerable.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459410
+NAME
+Fleet SRM-2 Launcher
+
+459411
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet SRM2 Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Fleet SRM2 Launcher Placeholder</TEXT><PARA/><PARA/><POP/></RDL>
+
+459412
+NAME
+Fleet SRM Ammo
+
+459413
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Fleet SRM Ammo</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Fleet SRM Ammo Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
