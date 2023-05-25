@@ -2094,67 +2094,67 @@ INFOCARD
 
 458981
 NAME
-"Foil" Light Fighter
+Foil
 
 458982
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Foil LF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Foil" Light Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
 
 458983
 NAME
-"Phantom" Heavy Fighter
+Phantom
 
 458984
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Phantom HF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Phantom" Heavy Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
 
 458985
 NAME
-"Spectre" Light Fighter
+Spectre
 
 458986
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Spectre LF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Spectre" Light Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
 
 458987
 NAME
-"Hornet" Heavy Fighter
+Hornet
 
 458988
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Hornet HF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Hornet" Heavy Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
 
 458989
 NAME
-"Jackal" Heavy Fighter
+Jackal
 
 458990
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Jackal HF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Jackal" Heavy Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
 
 458991
 NAME
-"Coyote" Very Heavy Fighter
+Coyote
 
 458992
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Coyote VHF</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Coyote" Very Heavy Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
 
 458993
 NAME
-"Starfarer" Freighter
+Starfarer
 
 458994
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Starfarer Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Starfarer" Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
 
 458995
 NAME
-"Hustler" Freighter
+Hustler
 
 458996
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Hustler Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Hustler" Freighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Placeholder Text</TEXT><PARA/><PARA/><POP/></RDL>
 
 458997
 NAME
