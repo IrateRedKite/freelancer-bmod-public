@@ -612,7 +612,7 @@ INFOCARD
 
 468365
 NAME
-Condor
+Fighting Falcon
 
 467560
 NAME
@@ -984,7 +984,7 @@ INFOCARD
 
 468812
 INFOCARD
-<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>CTL-6000 "Condor" Liberty Heavy Fighter</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>The CTL-6000 was developed by Universal Shipping in collaboration with Deep Space Engineering in response to increased pirate activity in Liberty and the independent worlds. The blueprints were bought by Ageira Technologies, who now manufacture the Condor as a high-end escort for Luxury Yachts and VIP passengers.</TEXT><PARA/><POP/></RDL>
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>FALC-16C "Fighting Falcon" Reclaimed Over-Heavy Fighter</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>Based on a regular Falcon underneath its skin, this version designated as the "Fighting Falcon" is the result of countless hours spent tuning the generic civilian fighter to personal specifications. A slight increase in mass adds marginally to the ship's turning circle, but in exchange, the extra space is used to upgrade the powerplant and engine, increasing energy capacity, regeneration, and the ship's top speed. The Ballistic hardpoint of the original Falcon is downsized to make room for one of the Medium Energy slots to be upgraded into a Large, letting the Fighting Falcon wield a PPC or L Laser without sacrificing the damage potential of a full suite of primary blasters. An upgraded layer of armour boosts the hull's protection without sacrificing much in the way of weight, the homemade result of talented metallurgy and smithing that that has melted down Liberty Navy ship panels and reformed them into a reclaimed second skin. A couple salvaged panels have been bolted onto the sides with their original Navy insignias left intact, reminding would-be opponents exactly who the parts of this refurbished ship were claimed from.</TEXT><PARA/><POP/></RDL>
 
 466758
 NAME
