@@ -1645,7 +1645,7 @@ Liberty Frigate Engine
 
 458869
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Z Series "Andromeda" Capital Engine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A powerful engine with excellent fuel economy. The Z series engines have been built from the ground up for modular installation on Liberty's capital fleet.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Z Series "Andromeda" Frigate Engine</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>A powerful engine with excellent fuel economy. The Z series engines have been built from the ground up for modular installation on Liberty's capital fleet.</TEXT><PARA/><PARA/><POP/></RDL>
 
 458870
 NAME
@@ -3907,3 +3907,11 @@ C. S. V. Engine
 459434
 NAME
 C. S. V. Powerplant
+
+459435
+NAME
+Bastion Frigate Shield
+
+459436
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Zu4 "Bastion" Frigate Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for frigate class capital ships.</TEXT><PARA/><PARA/><POP/></RDL>
