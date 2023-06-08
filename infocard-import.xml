@@ -3918,140 +3918,268 @@ INFOCARD
 
 459437
 NAME
-Spread: 
+This is an equipment hard point.
 
 459438
 NAME
-Placeholder
+Small Energy/Ballistic Weapon
 
 459439
 NAME
-Placeholder
+Medium Energy/Ballistic Weapon
 
 459440
 NAME
-Placeholder
+Large Energy/Ballistic Weapon
 
 459441
 NAME
-Placeholder
+hp_hybrid_gun_4 Placeholder
 
 459442
 NAME
-Placeholder
+hp_hybrid_gun_5 Placeholder
 
 459443
 NAME
-Placeholder
+hp_hybrid_gun_6 Placeholder
 
 459444
 NAME
-Placeholder
+hp_hybrid_gun_7 Placeholder
 
 459445
 NAME
-Placeholder
+hp_hybrid_gun_8 Placeholder
 
 459446
 NAME
-Placeholder
+hp_hybrid_gun_9 Placeholder
 
 459447
 NAME
-Placeholder
+hp_hybrid_gun_10 Placeholder
 
 459448
 NAME
-This is a countermeasure hard point.
+This is a kinetic weapon hard point that accepts missile and ballistic type weapons.
 
 459449
 NAME
-Countermeasure
+Small Missile/Ballistic Weapon
 
 459450
 NAME
-This is a cruise disruptor hard point.
+Medium Missile/Ballistic Weapon
 
 459451
 NAME
-Cruise Disruptor
+Large Missile/Ballistic Weapon
 
 459452
 NAME
-This is a torpedo hard point.
+hp_kinetic_gun_4 Placeholder
 
 459453
 NAME
-Torpedo
+hp_kinetic_gun_5 Placeholder
 
 459454
 NAME
-This is a mine dropper hard point.
+hp_kinetic_gun_6 Placeholder
 
 459455
 NAME
-Mine
+hp_kinetic_gun_7 Placeholder
 
 459456
 NAME
-This is an equipment hard point.
+hp_kinetic_gun_8 Placeholder
 
 459457
 NAME
-Small Energy/Ballistic Weapon
+hp_kinetic_gun_9 Placeholder
 
 459458
 NAME
-Medium Energy/Ballistic Weapon
+hp_kinetic_gun_10 Placeholder
 
 459459
 NAME
-Large Energy/Ballistic Weapon
+This is a reactive weapon hard point that accepts energy and missile type weapons.
 
 459460
 NAME
-This is a kinetic weapon hard point that accepts missile and ballistic type weapons.
+Small Missile/Energy Weapon
 
 459461
 NAME
-Small Missile/Ballistic Weapon
+Medium Missile/Energy Weapon
 
 459462
 NAME
-Medium Missile/Ballistic Weapon
+Large Missile/Energy Weapon
 
 459463
 NAME
-Large Missile/Ballistic Weapon
+Small Omni Weapon
 
 459464
 NAME
-This is a reactive weapon hard point that accepts energy and missile type weapons.
+Medium Omni Weapon
 
 459465
 NAME
-Small Missile/Energy Weapon
+Large Omni Weapon
 
 459466
 NAME
-Medium Missile/Energy Weapon
+hp_reactive_gun_7 Placeholder
 
 459467
 NAME
-Large Missile/Energy Weapon
+hp_reactive_gun_8 Placeholder
 
 459468
 NAME
-This is an omni weapon hard point that accepts all types of weapons.
+hp_reactive_gun_9 Placeholder
 
 459469
 NAME
-Small Omni Weapon
+hp_reactive_gun_10 Placeholder
 
 459470
 NAME
-Medium Omni Weapon
+This is a cruise disruptor hard point.
 
-459470
+459471
 NAME
-Large Omni Weapon
+Cruise Disruptor
+
+459472
+NAME
+hp_dummy_cruise_disruptor_2 Placeholder
+
+459473
+NAME
+hp_dummy_cruise_disruptor_3 Placeholder
+
+459474
+NAME
+hp_dummy_cruise_disruptor_4 Placeholder
+
+459475
+NAME
+hp_dummy_cruise_disruptor_5 Placeholder
+
+459476
+NAME
+hp_dummy_cruise_disruptor_6 Placeholder
+
+459477
+NAME
+hp_dummy_cruise_disruptor_7 Placeholder
+
+459478
+NAME
+hp_dummy_cruise_disruptor_8 Placeholder
+
+459479
+NAME
+hp_dummy_cruise_disruptor_9 Placeholder
+
+459480
+NAME
+hp_dummy_cruise_disruptor_10 Placeholder
+
+459481
+NAME
+This is a mine dropper hard point.
+
+459482
+NAME
+Mine
+
+459483
+NAME
+hp_dummy_minedropper_2 Placeholder
+
+459484
+NAME
+hp_dummy_minedropper_3 Placeholder
+
+459485
+NAME
+hp_dummy_minedropper_4 Placeholder
+
+459486
+NAME
+hp_dummy_minedropper_5 Placeholder
+
+459487
+NAME
+hp_dummy_minedropper_6 Placeholder
+
+459488
+NAME
+hp_dummy_minedropper_7 Placeholder
+
+459489
+NAME
+hp_dummy_minedropper_8 Placeholder
+
+459490
+NAME
+hp_dummy_minedropper_9 Placeholder
+
+459491
+NAME
+hp_dummy_minedropper_10 Placeholder
+
+459492
+NAME
+This is a countermeasure hard point.
+
+459493
+NAME
+Countermeasure
+
+459494
+NAME
+hp_dummy_countermeasure_2 Placeholder
+
+459495
+NAME
+hp_dummy_countermeasure_3 Placeholder
+
+459496
+NAME
+hp_dummy_countermeasure_4 Placeholder
+
+459497
+NAME
+hp_dummy_countermeasure_5 Placeholder
+
+459498
+NAME
+hp_dummy_countermeasure_6 Placeholder
+
+459499
+NAME
+hp_dummy_countermeasure_7 Placeholder
+
+459500
+NAME
+hp_dummy_countermeasure_8 Placeholder
+
+459501
+NAME
+hp_dummy_countermeasure_9 Placeholder
+
+459502
+NAME
+hp_dummy_countermeasure_10 Placeholder
+
+459503
+NAME
+Spread: 
