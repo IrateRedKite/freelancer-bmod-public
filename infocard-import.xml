@@ -3934,15 +3934,15 @@ Large Energy/Ballistic Weapon
 
 459441
 NAME
-hp_hybrid_gun_4 Placeholder
+Small Energy/Ballistic Turret
 
 459442
 NAME
-hp_hybrid_gun_5 Placeholder
+Medium Energy/Ballistic Turret
 
 459443
 NAME
-hp_hybrid_gun_6 Placeholder
+Large Energy/Ballistic Turret
 
 459444
 NAME
@@ -3978,15 +3978,15 @@ Large Missile/Ballistic Weapon
 
 459452
 NAME
-hp_kinetic_gun_4 Placeholder
+Small Missile/Ballistic Turret
 
 459453
 NAME
-hp_kinetic_gun_5 Placeholder
+Medium Missile/Ballistic Turret
 
 459454
 NAME
-hp_kinetic_gun_6 Placeholder
+Large Missile/Ballistic Turret
 
 459455
 NAME
@@ -4022,15 +4022,15 @@ Large Missile/Energy Weapon
 
 459463
 NAME
-Small Omni Weapon
+Small Missile/Energy Turret
 
 459464
 NAME
-Medium Omni Weapon
+Medium Missile/Energy Turret
 
 459465
 NAME
-Large Omni Weapon
+Large Missile/Energy Turret
 
 459466
 NAME
