@@ -4182,7 +4182,7 @@ hp_dummy_countermeasure_10 Placeholder
 
 459503
 NAME
-Spread: 
+Spread:
 
 459504
 NAME
@@ -4206,11 +4206,11 @@ NAME
 
 459509
 NAME
-Hull Average DPS: 
+Hull Average DPS:
 
 459510
 NAME
-Shield Average DPS: 
+Shield Average DPS:
 
 459511
 NAME
@@ -4218,12 +4218,28 @@ NAME
 
 459512
 NAME
-Sustained Energy Usage: 
+Sustained Energy Usage:
 
 459513
 NAME
-Projectile Turn Rate: 
+Projectile Turn Rate:
 
 459514
 NAME
 °/s
+
+459515
+NAME
+Hull Repaired Per Shot:
+
+459516
+NAME
+Hull Repaired Per Second:
+
+459517
+NAME
+Hull Damage:
+
+459518
+NAME
+Shield Damage:
