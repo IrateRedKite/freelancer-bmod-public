@@ -4182,64 +4182,144 @@ hp_dummy_countermeasure_10 Placeholder
 
 459503
 NAME
-Spread:
+Energy Capacity:
 
 459504
 NAME
-GJ
+Regeneration Rate:
 
 459505
 NAME
-GW
+Top Speed:
 
 459506
 NAME
-u
+Reverse Speed:
 
 459507
 NAME
-u/s
+Cruise Charge Time:
 
 459508
 NAME
-/s
+Cruise Energy Drain:
 
 459509
 NAME
-Hull Average DPS:
+Range: 
 
 459510
 NAME
-Shield Average DPS:
+Cargo Scan Range:
 
 459511
 NAME
-°
+Extend Speed:
 
 459512
 NAME
-Sustained Energy Usage:
+Armor Improvement:
 
 459513
 NAME
-Projectile Turn Rate:
+Shield Capacity:
 
 459514
 NAME
-°/s
+Regeneration Rate:
 
 459515
 NAME
-Hull Repaired Per Shot:
+Rebuild Time:
 
 459516
 NAME
-Hull Repaired Per Second:
+Rebuild Energy Drain:
 
 459517
 NAME
-Hull Damage:
+Constant Energy Drain:
 
 459518
 NAME
+Hull Damage:
+
+459519
+NAME
+Hull Repair:
+
+459520
+NAME
 Shield Damage:
+
+459521
+NAME
+Shield Repair:
+
+459522
+NAME
+Energy Usage:
+
+459523
+NAME
+Refire Rate:
+
+459524
+NAME
+Projectile Speed:
+
+459525
+NAME
+Top Speed:
+
+459526
+NAME
+Range:
+
+459527
+NAME
+Spread:
+
+459528
+NAME
+Projectile Turn Rate:
+
+459529
+NAME
+Explosion Radius:
+
+459530
+NAME
+Lifetime:
+
+459531
+NAME
+Seek Distance:
+
+459532
+NAME
+u
+
+459533
+NAME
+u/s
+
+459534
+NAME
+/s
+
+459535
+NAME
+°
+
+459536
+NAME
+°/s
+
+459537
+NAME
+Detonation Distance:
+
+459538
+NAME
+Maximum Range:
