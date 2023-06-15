@@ -4323,3 +4323,91 @@ Detonation Distance:
 459538
 NAME
 Maximum Range:
+
+459539
+NAME
+Winchester [+]
+
+459540
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LB31 "Winchester" Bounty Hunter Laser Cannon [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] Uses 15% less energy</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, using less energy per shot than its base model.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459541
+NAME
+2 x Winchester [+]
+
+459542
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TWIN-LINKED LB31 "Winchester" Bounty Hunter Laser Cannon [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] Uses 15% less energy</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>This twin-linked housing pairs two Winchester blasters in a single fixture, requring a Medium Energy or larger hardpoint to mount. Twin-linked blasters pack double the power into every shot, but are slightly less energy efficient and accurate than their normal versions.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, using less energy per shot than its base model.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459543
+NAME
+3 x Winchester [+]
+
+459544
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>TRI-LINKED LB31 "Winchester" Bounty Hunter Laser Cannon [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] Uses 15% less energy</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>This tri-linked housing pairs three Winchester blasters into a single array, requring a Large Energy or larger hardpoint to mount. Tri-linked blasters pack three times the damage into every shot, but lose more energy efficiency and fine precision compared to their twin-linked or single versions.</TEXT><PARA/><PARA/><TEXT>This is a laser-based weapon developed by the Bounty Hunter’s guild. Bounty Hunter weapons typically have higher max range, but lower energy efficiency and damage per second.</TEXT><PARA/><PARA/><TEXT>The Guild's answer to other heavy weapons such as the Magma Hammer and the Drail, the LB31 fires bolts of concentrated exotic particles at high velocities using magnetic force. The latest model has significantly increased power requirements and a larger gauge compared it's predecessors as the Guild have begun to adjust their fighter doctrines in response to recent developments in Texas, preferring to avoid furballs in favor of fights that are over quickly.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, using less energy per shot than its base model.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459545
+NAME
+SRM Launcher [+]
+
+459546
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SRM Short Range Missile Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] 20% faster refire</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>Short Range Missiles or "SRMs" are fast, agile missiles made to track nimble fighters in close-range dogfights. This launcher is one of the smallest on the market, and its significant refire delay and ineffectiveness against shields makes it best used as a secondary weapon deployed when a target's hull is vulnerable.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, firing more frequently than its base model.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459547
+NAME
+1 x LRM Pylon [+]
+
+459548
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>1 x Pylon Mounted LRM</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] 20% faster refire</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>A single Long Range Missile pylon, able to be fitted inside a Small Missile slot. Small missiles like these provide additional damage and flexibility to a loadout, but very long reload times mean they can usually only be used once or twice a battle.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Long Range Missiles or "LRMs" accelerate fast and can track targets at long distances. Their lack of agility makes them easier to dodge in a dogfight, but their increased effectiveness against shields compared to SRMs means they can be used to initiate an attack rather than only follow up on one.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>The slow reload time on this single pylon restricts the user from firing its missiles often, but provides a useful accessory for those who want to close in on a new target with bigger initial punch, or shoot down runners trying to escape after the dogfight.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, firing more frequently than its base model.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459549
+NAME
+CM-1 Countermeasure Flare [+]
+
+459550
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Firewall" CM-1 Long-Life Countermeasure Flare</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] +10% countermeasure effectiveness</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>The CM-1 Countermeasure Flare is an expendable "package" of light, heat and electromagnetic radiation that attracts the attention of incoming ordinance and draws it away from the ship. This one has been tuned for maximum duration, at the expense of direct effectiveness.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, and is more effective at distracting missiles than its base model.</TEXT><PARA/><PARA/><TEXT>* Fired by "Firewall" Long-Life Countermeasure Dropper [+].</TEXT><PARA/><PARA/><POP/></RDL>
+
+459551
+NAME
+Countermeasure Dropper [+]
+
+459552
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Firewall" CM-1 Long-Life Countermeasure Dropper</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] +10% countermeasure effectiveness</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>The CM-1 Countermeasure Dropper dispenses an expendable "package" of light, heat and electromagnetic radiation that attracts the attention of incoming ordinance and draws it away from the ship. This one has been tuned for maximum duration, at the expense of direct effectiveness.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, and is more effective at distracting missiles than its base model.</TEXT><PARA/><PARA/><TEXT>* Requires "Firewall" Long-Life Countermeasure Flare [+].</TEXT><PARA/><PARA/><POP/></RDL>
+
+459553
+NAME
+M-ER7 Nanite Burster [+]
+
+459554
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M-ER7 Basic Repair Burst Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] 20% faster refire</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>The M-ER7 Nanite Burster deploys short-lived nanites in an area to repair basic material damage of a ship’s hull or internal systems. These nanometer-scale artificial organisms are programmed to synthesize and apply the molecular building blocks as necessary.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, capable of dispensing repair charges more frequently than its base model.</TEXT><PARA/><PARA/><TEXT>* Requires M-ER7 Basic Repair Burst Charge.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459555
+NAME
+Heavy AC [+]
+
+459556
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>DS-10 Heavy Autocannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] 15% increased velocity</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>Autocannons fire heavy slugs at high speed, punching through armor at considerable range. DSE's Heavy Autocannon is one of the more powerful ballistic weapons available for fighters, firing huge hole-punching projectiles at the cost of lower velocity and range.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, firing its projectiles at a higher velocity.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459557
+NAME
+Brigandine HF Shield [+]
+
+459558
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SP-Ha2 "Brigandine" Heavy Fighter Positron Shield</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] 15% increased shield regeneration rate</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>This is a positron-based shield that provides improved regeneration rate at the cost of capacity and rebuild time. This model has been specifically designed for Heavy Fighter class ships.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, featuring a higher shield regen rate than its base model.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459559
+NAME
+Wasp Cruise Disruptor [+]
+
+459560
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CD88a "Wasp" Cruise Disruptor Missile Launcher [ + ]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] 20% faster refire</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>Originally designed to help local law enforcement stop fleeing pirates, the Wasp uses a complex guidance and deployment system to effectively disrupt a target's ability to maintain cruise velocity.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, firing more frequently than its base model.</TEXT><PARA/><PARA/><TEXT>* Requires Wasp Cruise Disruptor Missile.</TEXT><PARA/><PARA/><POP/></RDL>
