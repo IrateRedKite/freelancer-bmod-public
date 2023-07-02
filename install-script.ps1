@@ -35,3 +35,6 @@ Copy-Item *.TTF c:\windows\fonts\
 Write-Output "Creating shortcut on the Desktop"
 
 Copy-Item "freelancer-bmod\Freelancer BMOD.lnk" "$Home\Desktop\Freelancer BMOD.lnk"
+
+Remove-Variable freelancer
+Remove-Variable flserver
