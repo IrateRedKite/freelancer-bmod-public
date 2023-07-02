@@ -1,3 +1,4 @@
+<<<<<<< dev-liberty-alpha
 /*
   jflp.c - Jason's Freelancer Patch code support.
 
