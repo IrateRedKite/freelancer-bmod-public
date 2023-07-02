@@ -6,7 +6,21 @@ BMod is currently in the early stages of active development.
 
 ## Instructions for Playtesters
 
-1. Clone this repository using git CLI or the Github Desktop app. If you're unfamiliar with git, we suggest using Github Desktop. Once you've downloaded and installed it,  select 'Clone Repository' from the file menu and then select TheStarport/freelancer-escalation from the list under GitHub.com. If you can't find it in the list, select the URL tab and enter https://github.com/TheStarport/freelancer-escalation.git
-2. Hit clone. Have the current repository set to freelancer-escalation and current branch set to dev-liberty-alpha.
-3. Once downloaded, go to the downloaded folder -> EXE folder -> start Freelancer.exe to play the game (Feel free to make a shortcut)
-4. Click 'Fetch Origin' and check for/pull changes using the Github Desktop app before joining the server to ensure you're up to date with the latest changes 
+1. Download the following install scripts and ensure they're placed in the same folder: [`install-script.ps1`](https://raw.githubusercontent.com/TheStarport/freelancer-bmod/main/install-script.ps1), [`install-script.bat`](https://raw.githubusercontent.com/TheStarport/freelancer-bmod/main/install-script.bat).
+2. Right click and run `install-script.bat` as administrator. Agree to any prompts in the console window. The install process can take around 10 minutes, depending on your internet speed. 
+3. The mod will be installed to your `User\AppData\Roaming` directory and a shortcut will be placed on your desktop. Using this shortcut will launch another script that will ensure the game is up-to date and you're able to connect to the server quickly.
+
+The install script will install the following programs if they're not present:
+
+- Git CLI
+- Microsoft Visual C++ 2010  x64 Redistributable
+- Microsoft Visual C++ 2013 Redistributable (x64)
+- Microsoft Visual C++ 2013 Redistributable (x64)
+- Microsoft Visual C++ 2012 Redistributable (x86)
+- Microsoft Visual C++ 2015-2022 Redistributable (x86)
+- Microsoft Visual C++ 2015-2022 Redistributable (x64)
+- Microsoft Visual C++ 2013 Redistributable (x86)
+- Microsoft Visual C++ 2012 Redistributable (x64)
+- Microsoft Visual C++ 2010 Redistributable (x86)
+- Microsoft Visual C++ 2013 Redistributable (x86)
+- The Agency FB, Agency FB Bold and Arial Unitype Fonts
