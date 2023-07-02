@@ -1,30 +1,84 @@
 {
     "fleetInfo": {
-        "example": {
+        "x_attack_group": {
             "member": {
-                "canary_wing": 3
-            },
-            "name": "canary_wing"
+                "x_hawk": 4,
+                "x_falcon": 2,
+                "x_eagle": 1,
+                "x_rhino": 2
+            }
+        },
+        "l_attack_group": {
+            "member": {
+                "l_patriot": 6,
+                "l_defender": 4,
+                "l_guardian": 2
+            }
         }
     },
     "npcInfo": {
-        "Trent_Example": {
-            "graph": "FIGHTER",
-            "iff": "li_n_grp",
-            "infocard2Id": 197809,
-            "infocardId": 197808,
-            "loadout": "beagle_MP_start_n",
-            "pilot": "bmod_pilot_medium",
-            "shipArch": "ge_fighter"
-        },
-        "canary": {
+        "x_hawk": {
             "graph": "FIGHTER",
             "iff": "fc_x_grp",
-            "infocard2Id": 197810,
-            "infocardId": 197811,
-            "loadout": "fc_x_ge_fighter_loadout01",
+            "infocard2Id": 197090,
+            "infocardId": 923,
+            "loadout": "bmod_ge_fighter4_co_me_grp_veteran",
+            "pilot": "bmod_pilot_medium",
+            "shipArch": "ge_fighter4"
+        },
+        "x_falcon": {
+            "graph": "FIGHTER",
+            "iff": "fc_x_grp",
+            "infocard2Id": 197090,
+            "infocardId": 924,
+            "loadout": "bmod_ge_fighter5_co_me_grp_veteran",
             "pilot": "bmod_pilot_medium",
             "shipArch": "ge_fighter5"
+        },
+        "x_eagle": {
+            "graph": "FIGHTER",
+            "iff": "fc_x_grp",
+            "infocard2Id": 197090,
+            "infocardId": 926,
+            "loadout": "bmod_ge_fighter6_co_me_grp_veteran",
+            "pilot": "bmod_pilot_medium",
+            "shipArch": "ge_fighter6"
+        },
+        "x_rhino": {
+            "graph": "FIGHTER",
+            "iff": "fc_x_grp",
+            "infocard2Id": 197090,
+            "infocardId": 925,
+            "loadout": "bmod_li_freighter_x_02_fc_x_grp_veteran",
+            "pilot": "bmod_gunboat_pilot_medium_artillery",
+            "shipArch": "li_freighter_x_02"
+        },
+        "l_patriot": {
+            "graph": "FIGHTER",
+            "iff": "li_n_grp",
+            "infocard2Id": 197090,
+            "infocardId": 923,
+            "loadout": "bmod_li_fighter_li_n_grp_veteran",
+            "pilot": "bmod_pilot_medium",
+            "shipArch": "li_fighter"
+        },
+        "l_defender": {
+            "graph": "FIGHTER",
+            "iff": "li_n_grp",
+            "infocard2Id": 197090,
+            "infocardId": 924,
+            "loadout": "bmod_li_elite_li_n_grp_veteran",
+            "pilot": "bmod_pilot_medium",
+            "shipArch": "li_elite"
+        },
+        "l_guardian": {
+            "graph": "FIGHTER",
+            "iff": "li_n_grp",
+            "infocard2Id": 197090,
+            "infocardId": 926,
+            "loadout": "bmod_li_elite2_li_n_grp_veteran",
+            "pilot": "bmod_pilot_medium",
+            "shipArch": "li_elite2"
         }
     },
     "npcInfocardIds": [

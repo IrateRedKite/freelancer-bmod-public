@@ -1,3 +1,4 @@
+<<<<<<< dev-liberty-alpha
 /*
   jflp.c - Jason's Freelancer Patch code support.
 
@@ -133,9 +134,9 @@ const DWORD stats_jump_table[] = {
 	(DWORD)Stats_Hook, // Armor
 	(DWORD)Stats_Hook, // ShieldGenerator
 	0x484DA9,		   // Thruster
-	0x484377,		   // Gun
-	0x4840E3,		   // MineDropper
-	0x48531E, 		   // CounterMeasureDropper
+	0x484377,		   // Gun 0x484377
+	0x4840E3,		   // MineDropper 0x484A6B
+	(DWORD)Stats_Hook, // CounterMeasureDropper
 	0x484C9C,		   // RepairKit
 	0x484D23,		   // ShieldBattery
 	0x484A6B,		   // Munition & Mine
@@ -197,51 +198,15 @@ const BYTE stats_BOOL_index[] = {
 	0  // Armor
 };
 
-struct Power
+struct Vector
 {
-	BYTE equip[0x70];
-	float capacity;
-	float charge_rate;
-	float thrust_capacity;
-	float thrust_charge_rate;
+	float x;
+	float y;
+	float z;
 };
 
-struct Engine
+struct Root
 {
-	BYTE equip[0x70];
-	float max_force;
-	float linear_drag;
-	float power_usage;
-	float cruise_power_usage;
-	float cruise_charge_time;
-	BYTE indestructible;
-	float reverse_fraction;
-};
-
-struct Scanner
-{
-	BYTE equip[0x70];
-	float power_usage;
-	float range;
-	float cargo_scan_range;
-};
-
-struct Tractor
-{
-	BYTE equip[0x70];
-	float max_length;
-	float reach_speed;
-};
-
-struct Armor
-{
-	BYTE equip[0x70];
-	float hit_pts_scale;
-};
-
-struct ShieldGenerator
-{
-
 	/*  1 */ uint vtable;
 	/*  2 */ uint iArchId;
 	/*  3 */ char *szName;
@@ -252,46 +217,222 @@ struct ShieldGenerator
 	/*  8 */ float fMass;
 	/*  9 */ int iExplosionArchId;
 	/* 10 */ float fExplosionResistance;
-	float fRotationInertia[3];
+	/* 11x4 */ union
+	{
+		float fRotationInertia[3];
+		struct Vector vRotationInertia;
+	};
 	/* 14 */ BOOL bHasRotationInertia;
 	BOOL bPhantomPhysics;
 	/* 15 */ uint iDunno1;
 	/* 16 */ uint iDunno2;
 	/* 17 */ void *anim;
 	/* 18 */ uint iArray[5]; // not sure about this.
+};
+
+struct Equipment
+{
+	BYTE padding[sizeof(struct Root)];
 	/* 23 */ float fVolume;
 	/* 24 */ uint bUseCount;
 	/* 25 */ uint iUnitsPerContainer;
 	/* 26 */ uint iTractoredExplosionId;
 	/* 27 */ uint bLootable;
+};
+
+struct EqObj
+{
+	BYTE padding[sizeof(struct Root)];
+	/* 23 */ void *cg;
+	/* 24 */ uint iDunno1;
+	/* 25 */ uint iDunno2;
+	/* 26 */ uint iDunno3;
+	/* 27 */ uint iDunno4;
+	/* 28 */ uint iDunno5;
+	/* 29 */ uint iDunno6;
+	/* 30 */ uint iDunno7;
+	/* 31 */ uint iDunno9;
+	/* 32 */ BOOL b128;
+	BOOL bDockingCamera;
+	/* 33 */ uint iDunno10;
+	/* 34 */ uint iDunno11;
+	/* 35 */ uint iDunno12;
+};
+
+struct AttachedEquipment
+{
+	BYTE padding[sizeof(struct Equipment)];
 	/* 28 */ uint iSeparationExplosionId;
 	/* 29 */ uint iDebrisTypeId;
 	/* 30 */ float fChildImpulse;
 	/* 31 */ float fParentImpulse;
 	/* 32 */ char *szHpChild;
 	/* 33 */ int iToughness;
+};
 
-	uint iHpType;
-	uint iShieldTypeId;
-	float fRegenerationRate;
-	float fMaxCapacity;
-	float fConstantPowerDraw;
-	float fRebuildPowerDraw;
-	float fOfflineThreshold;
-	float fOfflineRebuildTime;
-	uint stdVectorHpShieldType[3];
+struct Armor
+{
+	BYTE padding[sizeof(struct Equipment)];
+	/* 28 */ float fHitPointsScale;
+};
+
+struct CloakingDevice
+{
+	BYTE padding[sizeof(struct AttachedEquipment)];
+	/* 34 */ float fPowerUsage;
+	/* 35 */ float fCloakinTime;
+	/* 36 */ float fCloakoutTime;
+	/* 37 */ uint iCloakinFxId;
+	/* 38 */ uint iCloakoutFxId;
+};
+
+struct Engine
+{
+	BYTE padding[sizeof(struct Equipment)];
+	/* 28 */ float fMaxForce;
+	/* 29 */ float fLinearDrag;
+	/* 30 */ float fPowerUsage;
+	/* 31 */ float fCruisePowerUsage;
+	/* 32 */ float fCruiseChargeTime;
+	/* 33 */ BOOL bIndestructible;
+	/* 34 */ float fReverseFraction;
+};
+
+struct Explosion
+{
+	/*  0 */ uint iID;
+	/*  1 */ float fRadius;
+	/*  2 */ float fImpulse;
+	/*  3 */ float fHullDamage;
+	/*  4 */ float fEnergyDamage;
+	// and some other stuff
+};
+
+struct Launcher
+{
+	BYTE padding[sizeof(struct AttachedEquipment)];
+	/* 34 */ float fDamagePerFire;
+	/* 35 */ float fPowerUsage;
+	/* 36 */ float fRefireDelay;
+	/* 37 */ float fMuzzleVelocity;
+	/* 38 */ uint iProjectileArchId;
+	/* 39 */ char *szUseAnimation;
+};
+
+struct Gun
+{
+	BYTE padding[sizeof(struct Launcher)];
+	/* 40 */ float fDispersionAngle;
+	/* 41 */ float fTurnRate;
+	/* 42 */ float fGunAzimuth[2];
+	/* 44 */ float fGunElevation[2];
+	/* 46 */ BOOL bUseGunAzimuth;
+	BOOL bUseGunElevation;
+	BOOL bAutoTurret;
+	/* 47 */ uint stdVectorHpTypes[4]; // st6::vector?
+};
+
+struct MineDropper
+{
+	BYTE padding[sizeof(struct Launcher)];
+	// no fields here
+};
+
+struct Power
+{
+	BYTE padding[sizeof(struct Equipment)];
+	/* 28 */ float fCapacity;
+	/* 29 */ float fChargeRate;
+	/* 30 */ float fThrustCapacity;
+	/* 31 */ float fThrustChargeRate;
+};
+
+struct Projectile
+{
+	BYTE padding[sizeof(struct Equipment)];
+	/* 28 */ float fLifeTime;
+	/* 29 */ float fOwnerSafeTime;
+	/* 30 */ BOOL bRequiresAmmo;
+	BOOL bForceGunOri;
+	/* 31 */ uint iLootAppearanceId;
+};
+
+struct CounterMeasure
+{
+	BYTE padding[sizeof(struct Projectile)];
+	/* 32 */ float fLinearDrag;
+	/* 33 */ float fRange;
+	/* 34 */ float fDiversionPctg;
 };
 
 struct CounterMeasureDropper
 {
-	BYTE equip[0x58];
-	float fDamagePerFire;
-	float fPowerUsage;
-	float fRefireDelay;
-	float fMuzzleVelocity;
-	uint iProjectileArchId;
-	char *szUseAnimation;
-	float aiRange;
+	BYTE padding[sizeof(struct Launcher)];
+	/* 40 */ float fAiRange;
+};
+
+struct Munition
+{
+	BYTE padding[sizeof(struct Projectile)];
+	/* 32 */ float fHullDamage;
+	/* 33 */ float fEnergyDamage;
+	/* 34 */ uint iWeaponTypeId;
+	/* 35 */ uint iMotorId;
+	/* 36 */ uint iSeeker; // 2 = lock, dumb = 1, ? = 0
+	/* 37 */ float fTimeToLock;
+	/* 38 */ float fSeekerRange;
+	/* 39 */ float fSeekerFovDeg;
+	/* 40 */ float fMaxAngularVelocity;
+	/* 41 */ float fDetonationDist;
+	/* 42 */ uint iHpType;
+	/* 43 */ BOOL bCruiseDisruptor;
+};
+
+struct Mine
+{
+	BYTE padding[sizeof(struct Projectile)];
+	/* 32 */ float fLinearDrag;
+	/* 33 */ float fDetonationDist;
+	/* 34 */ float fSeekerDist;
+	/* 35 */ float fAcceleration;
+	/* 36 */ float fTopSpeed;
+};
+
+struct Scanner
+{
+	BYTE padding[sizeof(struct Equipment)];
+
+	/* 28 */ float fPowerUsage;
+	/* 29 */ float fRange;
+	/* 30 */ float fCargoScanRange;
+};
+
+struct ShieldGenerator
+{
+	BYTE padding[sizeof(struct AttachedEquipment)];
+	/* 34 */ uint iHpType;
+	/* 35 */ uint iShieldTypeId;
+	/* 36 */ float fRegenerationRate;
+	/* 37 */ float fMaxCapacity;
+	/* 38 */ float fConstantPowerDraw;
+	/* 39 */ float fRebuildPowerDraw;
+	/* 40 */ float fOfflineThreshold;
+	float fOfflineRebuildTime;
+	/* 41 */ uint stdVectorHpShieldType[3];
+};
+
+struct Thruster
+{
+	BYTE padding[sizeof(struct AttachedEquipment)];
+	/* 34 */ float fPowerUsage;
+	/* 35 */ float fMaxForce;
+};
+
+struct Tractor
+{
+	BYTE padding[sizeof(struct Equipment)];
+	/* 28 */ float fMaxLength;
+	/* 29 */ float fReachSpeed;
 };
 
 HMODULE multicruise = INVALID_HANDLE_VALUE;
@@ -391,6 +532,7 @@ UINT STDCALL Stats(int idx, LPBYTE equip, BYTE name, BYTE value)
 	LPCWSTR f0fmtPercent = L"%.0f%%";
 	LPCWSTR f2fmtS = L" %.2fs";
 	LPCWSTR f0fmtSpace = L" %.0f";
+	LPCWSTR ufmt = L"%u";
 
 	// If the name contains a non-breaking space, display the stats as "n/a".
 	if (value)
@@ -404,44 +546,41 @@ UINT STDCALL Stats(int idx, LPBYTE equip, BYTE name, BYTE value)
 	{
 	case 0: // Power
 	{
-		// Energy Capacity:   1000
-		// Regeneration Rate: 95
-		//
-		// Thrust Capacity:   1000
-		// Regeneration Rate: 100
+		// Energy Capacity:   1000 GJ
+		// Regeneration Rate: 95 GW
 		struct Power *power = (struct Power *)equip;
-		get_stat_line(flags, &len, 1758, ifmt, 0, (int)power->capacity);
-		get_stat_line(flags, &len, 1753, ifmt, 0, (int)power->charge_rate);
-		//buf[len++] = '\n';
-		get_stat_line(flags, &len, 1698, ifmt, 0, (int)power->thrust_capacity);
-		get_stat_line(flags, &len, 1753, ifmt, 0, (int)power->thrust_charge_rate);
+		get_stat_line(flags, &len, 1758, ifmt, 0, (int)power->fCapacity);
+		get_stat_line(flags, &len, 1753, ifmt, 0, (int)power->fChargeRate);
+		// buf[len++] = '\n';
+		// get_stat_line(flags, &len, 1698, ifmt, 0, (int)power->fThrustCapacity);
+		// get_stat_line(flags, &len, 1753, ifmt, 0, (int)power->fThrustChargeRate);
 	}
 	break;
 	case 1: // Engine
 	{
 		// Top Speed:	     80 m/s
 		// Reverse Speed:      16 m/s
-		// Energy Drain:	     0
+		// Energy Drain:	     0 GW
 		//(Cruise Speed:	     300 m/s)
 		// Cruise Charge Time: 5.00s
-		// Cruise Power Drain: 20
+		// Cruise Energy Drain: 20 GW
 		struct Engine *engine = (struct Engine *)equip;
 		float top_speed, cruise_speed;
 		Find_MultiCruise();
 		if (value)
 		{
-			top_speed = engine->max_force / engine->linear_drag;
+			top_speed = engine->fMaxForce / engine->fLinearDrag;
 			cruise_speed = Cruise_Speed(*(PUINT)(equip + 8));
 		}
 		get_stat_line(flags, &len, 945, ifmt, 1760, (int)top_speed);
-		get_stat_line(flags, &len, 1699, ifmt, 1760, (int)(top_speed * engine->reverse_fraction));
-		//get_stat_line(flags, &len, 1755, ifmt, 0, (int)engine->power_usage);
-		//if (multicruise)
-			//get_stat_line(flags, &len, 1703, ifmt, 1760, (int)cruise_speed);
-		//else
-			//buf[len++] = '\n';
-		get_stat_line(flags, &len, 1762, f2fmt, 1764, engine->cruise_charge_time);
-		get_stat_line(flags, &len, 1763, ifmt, 0, (int)engine->cruise_power_usage);
+		get_stat_line(flags, &len, 1699, ifmt, 1760, (int)(top_speed * engine->fReverseFraction));
+		// get_stat_line(flags, &len, 1755, ifmt, 0, (int)engine->power_usage);
+		// if (multicruise)
+		// get_stat_line(flags, &len, 1703, ifmt, 1760, (int)cruise_speed);
+		// else
+		// buf[len++] = '\n';
+		get_stat_line(flags, &len, 1762, f2fmt, 1764, engine->fCruiseChargeTime);
+		get_stat_line(flags, &len, 1763, ifmt, 0, (int)engine->fCruisePowerUsage);
 	}
 	break;
 	case 2: // Scanner
@@ -449,8 +588,9 @@ UINT STDCALL Stats(int idx, LPBYTE equip, BYTE name, BYTE value)
 		// Range: 	   2500m
 		// Cargo Scan Range: 2000m
 		struct Scanner *scanner = (struct Scanner *)equip;
-		get_stat_line(flags, &len, 1745, ifmt, 1759, (int)scanner->range);
-		get_stat_line(flags, &len, 1697, ifmt, 1759, (int)scanner->cargo_scan_range);
+		get_stat_line(flags, &len, 1745, ifmt, 1759, (int)scanner->fRange);
+		get_stat_line(flags, &len, 1697, ifmt, 1759, (int)scanner->fCargoScanRange);
+		// get_stat_line(flags, &len, 1748, f0fmtSpace, 0, (int)scanner->fPowerUsage);
 	}
 	break;
 	case 3: // Tractor
@@ -458,20 +598,24 @@ UINT STDCALL Stats(int idx, LPBYTE equip, BYTE name, BYTE value)
 		// Range:        1500m
 		// Extend Speed: 2000 m/s
 		struct Tractor *tractor = (struct Tractor *)equip;
-		get_stat_line(flags, &len, 1745, ifmt, 1759, (int)tractor->max_length);
-		get_stat_line(flags, &len, 1696, ifmt, 1760, (int)tractor->reach_speed);
+		get_stat_line(flags, &len, 1745, ifmt, 1759, (int)tractor->fMaxLength);
+		get_stat_line(flags, &len, 1696, ifmt, 1760, (int)tractor->fReachSpeed);
 	}
 	break;
 	case 4: // Armor
 	{
 		// Armor Improvement: 17%
 		struct Armor *armor = (struct Armor *)equip;
-		get_stat_line(flags, &len, 1695, f0fmtPercent, 0, (armor->hit_pts_scale - 1) * 100);
+		get_stat_line(flags, &len, 1695, f0fmtPercent, 0, (armor->fHitPointsScale - 1) * 100);
 	}
 	break;
 	case 5: // ShieldGenerator
 	{
-		//
+		// Shield Capacity: 3570 u
+		// Regeneration Rate: 320 u/s
+		// Rebuild Time 9.45s
+		// Rebuild Energy Drain: 41 GW
+		// Constant Energy Drain: 271 GW
 		struct ShieldGenerator *shield = (struct ShieldGenerator *)equip;
 		get_stat_line(flags, &len, 1752, f0fmt, 0, shield->fMaxCapacity * (1.0f - shield->fOfflineThreshold));
 		get_stat_line(flags, &len, 1753, f0fmt, 0, shield->fRegenerationRate);
@@ -480,12 +624,73 @@ UINT STDCALL Stats(int idx, LPBYTE equip, BYTE name, BYTE value)
 		get_stat_line(flags, &len, 479578, f0fmtSpace, 0, shield->fConstantPowerDraw);
 	}
 	break;
+	case 7: // Gun
+	{
+		// Hull Damage Per Shot: 250
+		// Hull Average DPS: 1000/s
+		// Shield Damage Per Shot: 251
+		// Shield Average DPS: 500/s
+		// Range: 742m
+		// Refire Rate: 3.03/s
+		// Projectile Speed: 1776 m/s
+		// Spread: 2° (If present)
+		// Energy Usage: 49 GW (If present)
+		// Sustained Energy Usage: 490 KW (If present)
+		// Turn Rate: 15°/s (If present)
+		// Mount: Gimballed, 40°
+		struct Launcher *lnch = (struct Launcher *)equip;
+		struct Gun *gn = (struct Gun *)equip;
+		struct Projectile *prj = (struct Projectile *)equip;
+		struct Munition *mun = (struct Munition *)equip;
+		struct Root *rt = (struct Root *)equip;
+		get_stat_line(flags, &len, 1743, f0fmt, 0, mun->fHullDamage);
+		get_stat_line(flags, &len, 1744, f0fmt, 0, mun->fEnergyDamage);
+		get_stat_line(flags, &len, 1745, f0fmt, 1759, (prj->fLifeTime * lnch->fMuzzleVelocity));
+		get_stat_line(flags, &len, 1746, f0fmt, 1760, lnch->fMuzzleVelocity);
+		get_stat_line(flags, &len, 1747, f2fmt, 0, (1.0f / lnch->fRefireDelay));
+		get_stat_line(flags, &len, 1748, f0fmt, 0, lnch->fPowerUsage);
+		get_stat_line(flags, &len, 459437, f0fmtSpace, 0, (gn->fDispersionAngle * 180.0f / 3.141592653f));
+		get_stat_line(flags, &len, 977, f2fmt, 0, (mun->fMaxAngularVelocity));
+		// get_stat_line(flags, &len, 0, ufmt, 0, (rt->vtable));
+	}
+	break;
+	case 8: // MineDropper
+	{
+		// Hull Damage Per Shot: 250
+		// Shield Damage Per Shot: 251
+		// Explosion Radius: 30m
+		// Refire Rate: 3.03/s
+		// Top Speed: 30 m/s
+		// Lifetime: 10.50s
+		// Seeker Distance: 100m
+		// Energy Usage: 25 GW (If present)
+		struct Launcher *lnch = (struct Launcher *)equip;
+		struct Explosion *expl = (struct Explosion *)equip;
+		struct Mine *mine = (struct Mine *)equip;
+		struct Projectile *prj = (struct Projectile *)equip;
+		get_stat_line(flags, &len, 1743, f0fmt, 0, expl->fHullDamage);
+		get_stat_line(flags, &len, 1744, f0fmt, 0, expl->fEnergyDamage);
+		get_stat_line(flags, &len, 1744, f0fmt, 0, expl->fRadius);
+		get_stat_line(flags, &len, 1744, f0fmt, 0, mine->fTopSpeed);
+		get_stat_line(flags, &len, 1744, f0fmt, 0, mine->fSeekerDist);
+		get_stat_line(flags, &len, 1745, f0fmt, 1759, prj->fLifeTime);
+		get_stat_line(flags, &len, 1746, f0fmt, 1760, lnch->fPowerUsage);
+	}
+	break;
 	case 9: // CounterMeasureDropper
 	{
-		//
-		struct CounterMeasureDropper *cm = (struct CounterMeasureDropper *)equip;
-		get_stat_line(flags, &len, 1745, ifmt, 1759, (int)cm->fMuzzleVelocity);
-		get_stat_line(flags, &len, 1745, ifmt, 1759, (int)cm->fRefireDelay);
+		// Decoy Effectiveness: 25%
+		// Decoy Range: 1000m
+		// Projectile Speed: 1500 m/s
+		// Refire Rate: 8.33/s
+		// Energy Usage: 5 GW
+		struct CounterMeasure *cm = (struct CounterMeasure *)equip;
+		struct Launcher *cmdr = (struct Launcher *)equip;
+		get_stat_line(flags, &len, 1751, f0fmtPercent, 0, cm->fDiversionPctg);
+		get_stat_line(flags, &len, 1750, f0fmt, 1759, cm->fRange);
+		get_stat_line(flags, &len, 1748, f0fmt, 0, cmdr->fPowerUsage);
+		get_stat_line(flags, &len, 1747, f2fmt, 0, (1.0f / cmdr->fRefireDelay));
+		get_stat_line(flags, &len, 1746, f0fmt, 1760, cmdr->fMuzzleVelocity);
 	}
 	break;
 	}

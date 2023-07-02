@@ -69,6 +69,9 @@ house = 0, fc_f_grp
 house = 0, gd_im_grp
 house = 0, gd_z_grp
 house = 0, gd_bh_grp
+house = 0, fc_fll_grp
+house = -0.65, fc_flu_grp
+house = 0, fc_rck_grp
 
 visit = 2208796239,1    ;Li01
 visit = 2745692751,1	;Li02

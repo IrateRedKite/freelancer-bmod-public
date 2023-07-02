@@ -1,11 +1,11 @@
 #Folders
 SAVE/
 SCREENSHOTS/
-TOOLS/
 
 #Logging
 FLSpew.txt
 EXE/flhook_logs
+
 #EXE/config
 EXE/EXPORTS
 EXE/logs
@@ -17,6 +17,25 @@ EXE/logs
 *.bak
 *.vscode
 *.orig
-FLHook.json
 escalation-releases-key.pub
 escalation-releases-key
+
+#IDA
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.i64
+
+#TOOLS
+TOOLS/CRCTool/tmp.cdb
+TOOLS/CRCTool/tmp.txt
+TOOLS/CRCTool/esc-db
+TOOLS/ALE Editor Alpha 4.1/.window_settings
+TOOLS/ALE Editor Alpha 4.1/.window_layout
+HashList.txt
+*.pdb
+EXE/jflp.obj
+EXE/jflp.res
+IDs.txt
