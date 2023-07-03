@@ -4411,3 +4411,27 @@ Wasp Cruise Disruptor [+]
 459560
 INFOCARD
 <RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CD88a "Wasp" Cruise Disruptor Missile Launcher [ + ]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TRA bold="true"/><TEXT>[ + ] 20% faster refire</TEXT><TRA bold="false"/><PARA/><PARA/><TEXT>Originally designed to help local law enforcement stop fleeing pirates, the Wasp uses a complex guidance and deployment system to effectively disrupt a target's ability to maintain cruise velocity.</TEXT><PARA/><PARA/><TEXT>This particular piece of equipment is upgraded, firing more frequently than its base model.</TEXT><PARA/><PARA/><TEXT>* Requires Wasp Cruise Disruptor Missile.</TEXT><PARA/><PARA/><POP/></RDL>
+
+459561
+INFOCARD
+<RDL><PUSH/><TEXT>A large rock asteroid field. Although initial surveys indicated no ore or other resources worth mining, recent investigations have revealed a cluster of copper-rich asteroids in the southern end of the field. The field is heavily patrolled by the Liberty Navy, but remains a favorite haunt for Xenos looking for easy targets along the Denver-Galileo trade lane.</TEXT><PARA/><POP/></RDL>
+
+459562
+INFOCARD
+<RDL><PUSH/><TEXT>Once the major source of Silver for all of Liberty, the Silverton Field has been mined to rubble and dust. Within the field is the former site of an Ageira Technologies manufacturing facility, abandoned over a century ago in favor of Pueblo Station. Xenos and rogues regularly use the field as cover to attack traffic moving to and from Pueblo. Only trace amounts of silver remain.</TEXT><PARA/><POP/></RDL>
+
+459563
+INFOCARD
+<RDL><PUSH/><TEXT>Like most of the resources in Colorado, the famed Copperton Field has long since been exhausted. Trace amounts of copper remain. Navy patrols rarely venture into the field, which houses a significant contingent of Xenos.</TEXT><PARA/><POP/></RDL>
+
+459564
+INFOCARD
+<RDL><PUSH/><TEXT>A dense field of rock and dust, Xenos use the Alamosa field as cover to cross the Colorado system and raid the Galileo gate. The Liberty Navy conduct regular sorties into the field, but has had little effect on piracy in the area.</TEXT><PARA/><POP/></RDL>
+
+459565
+NAME
+Kepler Gate Debris Field
+
+459566
+INFOCARD
+<RDL><PUSH/><TEXT>A field of twisted scrap and charred metal. It's still unclear why the Kepler gate fragmented when the Texas catastrophe occured. Xenos patrols have been sighted in the area.</TEXT><PARA/><POP/></RDL>
