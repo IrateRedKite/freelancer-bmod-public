@@ -1,0 +1,17 @@
+{
+    "lootDropContainer": "lootcrate_ast_loot_metal",
+    "lootTables": [
+        {
+            "applyToNpcs": true,
+            "applyToPlayers": true,
+            "dropCount": 1,
+            "dropWeights": [
+                {
+                    "item": "beagle_gd_bh_turret02",
+                    "weighting": 1
+                }
+            ],
+            "triggerItemNickname": "commodity_bounty_token_fc_x_grp_rookie"
+        }
+    ]
+}
