@@ -50,6 +50,23 @@ entities  =
 	},
 
 	{
+		entity_name  =  "SET_li_03_Cityscape1",
+		type  =  COMPOUND,
+		template_name  =  "li_03_cityscape",
+		lt_grp  =  9, srt_grp  =  0, usr_flg  =  0,
+		flags  =  LIT_DYNAMIC,
+		spatialprops  = 
+		{
+			pos  =  { -500, -200, 0 },
+			orient  =  { { 1, 0, 0 }, { 0, 1, 0 }, { 0, 0, 1 } }
+		},
+		userprops  = 
+		{
+			category  =  "Room",
+		}
+	},
+
+	{
 		entity_name  =  "Zg/PC/Player/01/A/Stand",
 		type  =  MARKER,
 		template_name  =  "",
@@ -64,13 +81,13 @@ entities  =
 	},
 
 	{
-		entity_name  =  "Camera_0_Old050702",
+		entity_name  =  "Camera_0",
 		type  =  CAMERA,
 		template_name  =  "",
 		lt_grp  =  0, srt_grp  =  0, usr_flg  =  0,
 		spatialprops  = 
 		{
-			pos  =  { -13.02615, 32.03855, 119.4818 },
+			pos  =  { 10.02615, 30.03855, 119.4818 },
 			orient  =  { { 0.996356, 0.000000, -0.085293 },
 					   { 0.014014, 0.986409, 0.163710 },
 					   { 0.084133, -0.164309, 0.982814 } }
@@ -134,7 +151,7 @@ entities  =
 		flags  =  LIT_DYNAMIC,
 		spatialprops  = 
 		{
-			pos  =  { 1339.974, -700, -16000 },
+			pos  =  { 339.974, -700, -16000 },
 			orient  =  { { 1, 0, 0 }, { 0, 1, 0 }, { 0, 0, 1 } }
 		},
 		userprops  = 
@@ -256,7 +273,7 @@ entities  =
 	},
 
 	{
-		entity_name  =  "Camera_0",
+		entity_name  =  "Camera_01",
 		type  =  CAMERA,
 		template_name  =  "",
 		lt_grp  =  0, srt_grp  =  0, usr_flg  =  0,
@@ -281,6 +298,18 @@ events  =
 {
 	{
 		0.000, START_MOTION, { "SET_li_03_Cityscape" },
+		{
+			animation  =  "Sc_loop",
+			duration  =  53.099,
+			time_scale  =  1,
+			weight  =  1,
+			trans_scale  =  1,
+			event_flags  =  2
+		}
+	},
+
+	{
+		0.000, START_MOTION, { "SET_li_03_Cityscape1" },
 		{
 			animation  =  "Sc_loop",
 			duration  =  53.099,
