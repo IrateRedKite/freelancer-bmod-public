@@ -1,0 +1,17 @@
+{
+    "lootDropContainer": "lootcrate_ast_loot_metal",
+    "lootTables": [
+        {
+            "applyToNpcs": false,
+            "applyToPlayers": false,
+            "dropCount": 0,
+            "dropWeights": [
+                {
+                    "item": "missile01_mark02_ammo",
+                    "weighting": 0.0
+                }
+            ],
+            "triggerItem": "missile01_mark02"
+        }
+    ]
+}
