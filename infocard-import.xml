@@ -4591,3 +4591,7 @@ INFOCARD
 459605
 NAME
 ‹‹Scrambled Signal››
+
+459606
+INFOCARD
+<RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>Heavily modified CTE-3000 "Falcon" Heavy Fighter</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>While this ship looks like an ordinary Falcon Heavy Fighter at first glance, any opposing pilot will quickly realize that someone has made significant changes to almost every single one of its systems. In exchange for increased wear, lateral thrust and steering torque have been greatly improved, allowing the ship to perform extremely tight turns. Any superfluous interiors and even some redundancies have been replaced with angled armor plating or removed entirely - the ship is by no means cushy on the inside, but the net decreased weight adds to its already impressive manoeuverability. The scanner struggles to produce exact details about the ship, possibly due to some type of EM scrambling system ...</TEXT><PARA/><POP/></RDL>
