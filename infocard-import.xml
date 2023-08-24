@@ -4582,7 +4582,7 @@ INFOCARD
 
 459603
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Xeno "Minuteman" Particle Cannon [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range. Aces often modify their weapons or create new ones entirely from scratch. This particularly flamboyant piece of equipment is a ramshackle creation borne of equal parts mechanical ingenuity and lack of fear of death. It boasts an extremely high fire rate and incredible muzzle velocity.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Xeno "Minuteman" Particle Cannon [+]</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon developed by the Xenos. Xeno weapons deliver more damage, but at a shorter range. Aces often modify their weapons or create new ones entirely from scratch. This particularly flamboyant piece of equipment is a ramshackle creation borne of equal parts mechanical ingenuity and lack of fear of death. In exchange for some accuracy, and significant stress on the barrel and energy cells, it boasts an extremely high fire rate, muzzle velocity, and improved damage.</TEXT><PARA/><PARA/><POP/></RDL>
 
 459604
 INFOCARD
