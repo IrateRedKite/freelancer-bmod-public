@@ -4595,3 +4595,11 @@ NAME
 459606
 INFOCARD
 <RDL><PUSH/><TRA data="1" mask="1" def="-2"/><JUST loc="center"/><TEXT>Heavily modified CTE-3000 "Falcon" Heavy Fighter</TEXT><PARA/><TRA data="0" mask="1" def="-1"/><JUST loc="left"/><TEXT> </TEXT><PARA/><TEXT>While this ship looks like an ordinary Falcon Heavy Fighter at first glance, any opposing pilot will quickly realize that someone has made significant changes to almost every single one of its systems. In exchange for increased wear, lateral thrust and steering torque have been greatly improved, allowing the ship to perform extremely tight turns. Any superfluous interiors and even some redundancies have been replaced with angled armor plating or removed entirely - the ship is by no means cushy on the inside, but the net decreased weight adds to its already impressive manoeuverability.</TEXT><PARA/> <PARA/><TEXT>The scanner struggles to produce exact details about the ship, possibly due to some type of EM scrambling system ...</TEXT><PARA/><POP/></RDL>
+
+459607
+NAME
+M Laser [-]
+
+459608
+INFOCARD
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>SEQ-5 Medium Laser</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The M Laser uses an infrared beam from a solid-state laser array to quickly inflict damage against targets at moderate ranges and is designed to be mounted on a standard medium-energy fighter hardpoint.</TEXT><PARA/><TEXT></TEXT><PARA/><TEXT>Despite decades of research across Sirius, true directed energy laser weapons are a relatively recent development made possible by significant advances in material science by Ageira. This particularly flamboyant piece of equipment is a ramshackle creation borne of equal parts mechanical ingenuity and lack of fear of death. It sacrifices about a quarter of its range and a good sixth of its energy output for increased refire rate and a significantly reduced power draw, allowing the user to operate it near constantly.</TEXT><PARA/><PARA/><POP/></RDL>
