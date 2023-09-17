@@ -1,20 +1,4 @@
 {
-    "iniPaths": [
-        "..\\data\\equipment\\light_equip.ini",
-        "..\\data\\equipment\\select_equip.ini",
-        "..\\data\\equipment\\misc_equip.ini",
-        "..\\data\\equipment\\engine_equip.ini",
-        "..\\data\\equipment\\ST_equip.ini",
-        "..\\data\\equipment\\weapon_equip.ini",
-        "..\\data\\equipment\\prop_equip.ini",
-        "..\\data\\equipment\\bmod\\bmod_equip_aux.ini",
-        "..\\data\\equipment\\bmod\\bmod_equip_blaster.ini",
-        "..\\data\\equipment\\bmod\\bmod_equip_fleet_aux.ini",
-        "..\\data\\equipment\\bmod\\bmod_equip_fleet_blaster.ini",
-        "..\\data\\equipment\\bmod\\bmod_equip_gear.ini",
-        "..\\data\\equipment\\bmod\\bmod_equip_npc.ini",
-        "..\\data\\equipment\\bmod\\bmod_equip_shield.ini"
-    ],
     "nanobot_nickname": "ge_s_repair_01",
     "shield_battery_nickname": "ge_s_battery_01"
 }
