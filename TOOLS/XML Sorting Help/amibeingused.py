@@ -5,6 +5,16 @@ Created on Sun Sep 17 15:43:51 2023
 @author: Katzenkebap
 """
 
+### usage
+"""
+Run in TOOLS/XML Sorting Help or adjust base_dir below.
+Recursively searches for all files of a type (default ".ini")
+and asks for keywords. Then prints out any of the files
+and the lines in those files where the expression
+f"= {keyword}" shows up, as that is typically what the
+assignment as some sort of parameter looks like.
+"""
+
 import os
 
 def getFileList(path: str, fileType: str = '.ini'):
