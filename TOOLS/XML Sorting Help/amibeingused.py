@@ -52,8 +52,11 @@ all_inis = getFileList(base_dir, ".ini")
 print(f"Found {len(all_inis)} relevant files. Caching ...")
 cache = {ini: [] for ini in all_inis}
 for ini in all_inis:
-    with open(ini, 'r') as reader:
-        cache[ini] = reader.readlines()
+    with open(ini, 'r', encoding="utf-8") as reader:
+        try:
+            cache[ini] = reader.readlines()
+        except:
+            cache[ini] = ["binary file has been excluded :v)"]
 print("Cached.")
 
 # Enter nickname (or arbitrary skin) and search cache for f"= {keyword}"

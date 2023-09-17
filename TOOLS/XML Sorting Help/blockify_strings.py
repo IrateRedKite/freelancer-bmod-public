@@ -32,29 +32,29 @@ If you get any OSErrors, you're probably executing from the wrong place.
 
 ### config
 blocks = {
-    "0": {"name": "Equipment", 
-          "offset": 0
+    "0": {"name": "UI", 
+          "offset": 1000 # first 1k is reserved for special things
           },
-    "1": {"name": "Commodities", 
-          "offset": 32768
+    "1": {"name": "Equipment", 
+          "offset": 8192
           },
-    "2": {"name": "NPCs", 
-          "offset": 32768*2
+    "2": {"name": "Commodities", 
+          "offset": 8192*2
           },
-    "3": {"name": "UI", 
-          "offset": 32768*3
+    "3": {"name": "NPCs", 
+          "offset": 8192*3
           },
     "4": {"name": "Solars/Map", 
-          "offset": 32768*4
+          "offset": 8192*4
           },
     "5": {"name": "News", 
-          "offset": 32768*5
+          "offset": 8192*5
           },
     "6": {"name": "Rumors", 
-          "offset": 32768*6
+          "offset": 8192*6
           },
     "7": {"name": "Missions", 
-          "offset": 32768*7
+          "offset": 8192*7
           },
     }
 
@@ -62,7 +62,7 @@ min_id = 524288 # 2**19
 
 q = "Which category does the following object belong to?"
 
-with open("../../infocard-import.xml", "r") as reader:
+with open("../../infocard-import.xml", "r", encoding="utf-8") as reader:
     
     lines = reader.readlines()
 
