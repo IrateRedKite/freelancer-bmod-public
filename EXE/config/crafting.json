@@ -1,0 +1,27 @@
+{
+    "baseParameters": [
+        {
+            "availableItems": [
+                "beagle_ac2_01"
+            ],
+            "baseNick": "Br01_01_Base",
+            "craftingTax": 500,
+            "maxJobsPerCharacter": 5,
+            "moneyModifier": 0.5,
+            "repRequirement": 0.20000000298023224,
+            "timeModifier": 2.0
+        }
+    ],
+    "craftingRecipes": [
+        {
+            "itemToCraft": "beagle_ac2_01",
+            "itemsRequired": [
+                "commodity_scrap_metal",
+                "commodity_scrap_metal",
+                "commodity_basic_alloys"
+            ],
+            "moneyRequired": 20,
+            "timeRequired": 60
+        }
+    ]
+}
