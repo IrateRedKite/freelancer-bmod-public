@@ -1,6 +1,6 @@
 <#
  .DESCRIPTION: Asset Copy and Run Script for Freelancer BMOD
- .SYNOPSIS: This script checks for running instances of Freelancer.exe, kills them, and then runs an instance of Freelancer.exe from the pre-defined BMOD_COPY_PATH directory and pipe FlSpew.txt into the console with log highlighting for warnings and errors until the application is terminated. If the application terminates unexpectedly, it will fetch the application crash event log from the Windows Event Logs for quick debugging.
+ .SYNOPSIS: This script checks for running instances of Freelancer.exe, kills them, and then runs an instance of Freelancer.exe from the pre-defined BMOD_COPY_PATH directory and pipes FlSpew.txt into the console with log highlighting for warnings and errors until the application is terminated. If the application terminates unexpectedly, it will fetch the application crash event log from the Windows Event Logs for quick debugging.
  .AUTHOR: IrateRedKite, Lazrius 
  .REVISION HISTORY: 
  v1.0 2023-10-12: Initial release
@@ -20,11 +20,27 @@ $init = { function Get-LogColor {
             else { Return "White" }
         }
     }
+    function FilterLogFiles {
+        Param([Parameter(Position = 0)]
+            [String]$logEntry)
+
+        process {
+            if ($logEntry.Contains("ERROR: ArchDB::Get(0) failed")) { return $null }
+            else { return $logEntry }
+        }
+    }
 }
 function TailFileUntilProcessStops {
     Param ($processID, $filePath)
     $loopBlock = {
-        Param($filePath) Get-Content $filePath -Wait | ForEach-Object { Write-Host -ForegroundColor (Get-LogColor $_) $_ }
+        Param($filePath) Get-Content $filePath -Wait | ForEach-Object {
+            
+            $str = FilterLogFiles $_
+            if ($null -ne $str ) { 
+                Write-Host -ForegroundColor (Get-LogColor $str) $str
+            }
+        }
+
     }
     $tailLoopJob = start-job -scriptBlock $loopBlock -ArgumentList $filePath -InitializationScript $init
     try {
