@@ -13,5 +13,8 @@
     "editor.wordWrap": "off",
     "files.associations": {
         "*.thn": "lua"
+    },
+    "settings":{
+        "problems.decorations.enabled": false,
     }
 }
