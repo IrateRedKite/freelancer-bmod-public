@@ -16,7 +16,6 @@ EXE/logs
 *.lnk
 !Freelancer BMOD.lnk
 *.bak
-*.vscode
 *.orig
 escalation-releases-key.pub
 escalation-releases-key

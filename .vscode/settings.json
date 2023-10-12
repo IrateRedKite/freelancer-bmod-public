@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/*.3db": true,
+        "**/*.ale": true,
+        "**/*.cmp": true,
+        "**/*.txm": true,
+        "**/*.utf": true,
+        "**/*.wav": true,
+        "**/*.mat": true,
+        "**/*.anm": true,
+        "**/*.dfm": true,
+    },
+    "editor.wordWrap": "off",
+    "files.associations": {
+        "*.thn": "lua"
+    }
+}
