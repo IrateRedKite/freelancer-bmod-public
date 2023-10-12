@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "PowerShell",
+            "request": "launch",
+            "name": "PowerShell Launch devRunScript.ps1",
+            "script": "${workspaceRoot}/devRunScript.ps1",
+            "args": ["-Count 55 -DelayMilliseconds 250"],
+            "cwd": "${workspaceRoot}"
+        },
+    ]
+}
