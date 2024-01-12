@@ -1,3 +1,8 @@
+
+# [THIS REPOSITORY HAS MOVED](https://github.com/better-modernized-combat/bmod-client)
+
+This is an archived version of the previous repository and is no longer maintained. New BMOD client files can be found at this [link](https://github.com/better-modernized-combat/bmod-client).
+
 # Freelancer: Better Modernised Combat
 
 Freelancer: Better Modernised Combat is a modification for Freelancer the 2003 space shooter by Chris Roberts. The core goal of the mod is to create a fun and compelling PvE experience for solo and group players in a multiplayer setting.
